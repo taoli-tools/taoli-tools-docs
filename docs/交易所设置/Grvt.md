@@ -19,12 +19,12 @@
     
 - 选择一个 TradingAccount（不要选 FundingAccount），并勾选“Trade”权限
     
-    ![image.png](Grvt/image 1.png)
+    ![image.png](Grvt/image%201.png)
     
 - 签名后，获得 API Key 和 Secret Private Key
     
-    ![image.png](Grvt/image 2.png)
+    ![image.png](Grvt/image%202.png)
     
 - 关闭对话框后，获得 Trading Account ID
     
-    ![image.png](Grvt/image 3.png)
+    ![image.png](Grvt/image%203.png)

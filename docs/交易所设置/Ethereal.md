@@ -10,11 +10,11 @@
 
 1. 打开浏览器开发者模式，找到”signerKey”
     
-    ![image.png](Ethereal/image 1.png)
+    ![image.png](Ethereal/image%201.png)
     
 2. “Address”填主钱包地址，“API Private Key”填”signerKey”
     
-    ![image.png](Ethereal/image 2.png)
+    ![image.png](Ethereal/image%202.png)
     
 
 1. 目前不支持显示清算价格

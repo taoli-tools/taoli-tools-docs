@@ -8,9 +8,9 @@ PancakeSwap V3 支持的链：[https://developer.pancakeswap.finance/contracts/v
 
 设置说明：
 
-![image.png](PancakeSwap V3/image.png)
+![image.png](PancakeSwap%20V3/image.png)
 
-1. 通过 Wallet Type 来选择使用助记词、私钥、或 [Taoli Tools Signer](../Taoli Tools Signer.md) 作为钱包
+1. 通过 Wallet Type 来选择使用助记词、私钥、或 [Taoli Tools Signer](../Taoli%20Tools%20Signer.md) 作为钱包
 2. 点击 Save，如无报错，则会以绿色数字显示全链 U 余额的总和，点击数字查看详情
 
 ## 限制及注意事项
@@ -19,4 +19,4 @@ PancakeSwap V3 支持的链：[https://developer.pancakeswap.finance/contracts/v
 - 首次交易某个 ERC20 Token 时候会自动 Approve Unlimited 给 [PancakeSwap V3 Router 合约](https://developer.pancakeswap.finance/contracts/v3/addresses)。
 - Pair 的 Size 参数的改变会影响报价，从而影响差价。不填 Size 默认是 100。
 - [DEX 常见问题](../DEX常见问题.md)
-- [Taoli Tools Signer](../Taoli Tools Signer.md)
+- [Taoli Tools Signer](../Taoli%20Tools%20Signer.md)

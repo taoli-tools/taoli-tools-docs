@@ -11,11 +11,11 @@
 
 1. 前往 [https://my.vultr.com/deploy-beta/](https://my.vultr.com/deploy-beta/) 页面购买服务器，建议至少选择 2C4G，位于日本东京的服务器，可以关闭自动备份功能省钱
     
-    ![image.png](Linux Server/2076a148-b226-41cd-9e73-0a3df73bcf24.png)
+    ![image.png](Linux%20Server/2076a148-b226-41cd-9e73-0a3df73bcf24.png)
     
 2. 操作系统推荐 Debian 12（而不是 13），其余选项默认
     
-    ![image.png](Linux Server/2a5aafa5-938d-4ca0-b643-f3b410a282ed.png)
+    ![image.png](Linux%20Server/2a5aafa5-938d-4ca0-b643-f3b410a282ed.png)
     
 
 ## 腾讯云
@@ -24,7 +24,7 @@
 
 [腾讯云运营活动 - 腾讯云](https://curl.qcloud.com/G8aWWIr7)
 
-![image.png](Linux Server/image.png)
+![image.png](Linux%20Server/image.png)
 
 ## 安装
 
@@ -50,7 +50,7 @@
 1. 提前准备好`keychain.toml`文件，再运行安装命令
 2. 安装成功后，右键退出全屏模式，访问 `chrome://certificate-manager/localcerts/usercerts` 添加位于`/home/taoli/cert`中的`CERT.pem`证书
     
-    ![image.png](Linux Server/image 1.png)
+    ![image.png](Linux%20Server/image%201.png)
     
 3. SIgner URL 为：`https://signer`
 

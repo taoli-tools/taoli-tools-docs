@@ -13,11 +13,11 @@
     
 3. “仓位模式”选择“单向持仓”
     
-    ![image.png](OKX/image 1.png)
+    ![image.png](OKX/image%201.png)
     
 4. 打开“API”页面 [https://www.okx.com/account/my-api](https://www.okx.com/account/my-api)
 5. 点击“创建 API Keys”，权限选择“读取”和“交易”
     
-    ![image.png](OKX/image 2.png)
+    ![image.png](OKX/image%202.png)
     
 6. 永续合约只支持全仓保证金。

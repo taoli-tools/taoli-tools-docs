@@ -25,6 +25,6 @@
         
 4. 在合约交易页面 [https://www.binance.com/futures/BTCUSDT](https://www.binance.com/futures/BTCUSDT) 点击右上角齿轮。仓位模式选择“单向持仓”。
     
-    ![image.png](Binance/image 1.png)
+    ![image.png](Binance/image%201.png)
     
 5. 非统一账户模式下，Binance API 不直接返回合约的爆仓价格，而是间接计算获得，因此可能会不准确。也可以使用这个 [合约计算器](https://www.binance.com/futures/BTCUSDT_PERPETUAL/calculator) 进行计算。

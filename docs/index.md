@@ -68,13 +68,13 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 
 | **DEX** | 现货 |
 | --- | --- |
-| [OKX DEX](交易所设置/OKX DEX.md) | ✅ |
-| [Li.FI](交易所设置/LI FI.md) | ✅ |
-| [EVM Router](交易所设置/EVM Router.md) | ✅ |
+| [OKX DEX](交易所设置/OKX%20DEX.md) | ✅ |
+| [Li.FI](交易所设置/LI%20FI.md) | ✅ |
+| [EVM Router](交易所设置/EVM%20Router.md) | ✅ |
 | [Jupiter](交易所设置/Jupiter.md) | ✅ |
 | [1inch](交易所设置/1inch.md) | ✅ |
-| [Uniswap V3](交易所设置/Uniswap V3.md) | ✅ |
-| [PancakeSwap V3](交易所设置/PancakeSwap V3.md) | ✅ |
+| [Uniswap V3](交易所设置/Uniswap%20V3.md) | ✅ |
+| [PancakeSwap V3](交易所设置/PancakeSwap%20V3.md) | ✅ |
 | [Odos](交易所设置/Odos.md) | ✅ |
 | [Hyperion](交易所设置/Hyperion.md) | ✅ |
 
@@ -89,7 +89,7 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 | [Pacifica](交易所设置/Pacifica.md) | ✅ |  |
 | [Extended](交易所设置/Extended.md) | ✅ |  |
 | [StandX](交易所设置/StandX.md) | ✅ |  |
-| [Apex Omni](交易所设置/Apex Omni.md) | ✅ |  |
+| [Apex Omni](交易所设置/Apex%20Omni.md) | ✅ |  |
 
 ## 支持的区块链
 

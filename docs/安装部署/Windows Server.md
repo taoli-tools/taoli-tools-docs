@@ -14,7 +14,7 @@
     
 2. 按照下图方式筛选机器：
     
-    ![image.png](Windows Server/image.png)
+    ![image.png](Windows%20Server/image.png)
     
 3. 套餐配置：选择通用型，不要选择国际型，推荐 2 核 4G 起。
 
@@ -26,13 +26,13 @@
     
 2. 按照下图方式筛选机器：
     
-    ![image.png](Windows Server/image 1.png)
+    ![image.png](Windows%20Server/image%201.png)
     
 3. 进入服务器购买页面，如图选择：
     
-    ![image.png](Windows Server/image 2.png)
+    ![image.png](Windows%20Server/image%202.png)
     
-    ![image.png](Windows Server/image 3.png)
+    ![image.png](Windows%20Server/image%203.png)
     
 4. 系统镜像：Windows Server 2022 中文版
 5. 地域：亚太 - 东京。因为大部分交易所的服务器都在东京
@@ -53,13 +53,13 @@
 
 修改完默认端口后重启生效，记得在远程桌面客户端里修改端口。之前使用默认端口只需填 IP，现在要在 IP 后面加上小写冒号和端口号
 
-![image.png](Windows Server/image 4.png)
+![image.png](Windows%20Server/image%204.png)
 
 ## 禁用 Windows 自动更新
 
 腾讯云轻量应用服务器默认禁用了 Windows 更新，可以去系统设置中确认是否有“你的组织已关闭自动更新”字样：
 
-![image.png](Windows Server/image 5.png)
+![image.png](Windows%20Server/image%205.png)
 
 如果没有关闭，则需手动关闭。
 
@@ -69,7 +69,7 @@
 
 访问 edge://settings/system/managePerformance 如图
 
-![image.png](Windows Server/31857a0d-4b27-4cc5-9ea7-f9ba76975c6b.png)
+![image.png](Windows%20Server/31857a0d-4b27-4cc5-9ea7-f9ba76975c6b.png)
 
 - 关闭”启用高效模式”
 - 关闭“使用效率模式改善电脑游戏体验”
@@ -80,7 +80,7 @@
 
 访问 chrome://settings/performance 如图
 
-![image.png](Windows Server/image 6.png)
+![image.png](Windows%20Server/image%206.png)
 
 - “始终让以下网站保持活跃状态”添加站点`https://taoli.tools`
 - 关闭“省内存模式”
@@ -94,15 +94,15 @@
 
 为 Logout.bat 再创建一个快捷方式，右键快捷方式的属性，选择高级，勾选“用管理员身份运行”
 
-![image.png](Windows Server/image 7.png)
+![image.png](Windows%20Server/image%207.png)
 
 右键任务栏，勾选工具栏里的”桌面”选项
 
-![image.png](Windows Server/image 8.png)
+![image.png](Windows%20Server/image%208.png)
 
 之后就可以使用任务栏里的工具栏点击运行 Logout 快捷方式了
 
-![image.png](Windows Server/image 9.png)
+![image.png](Windows%20Server/image%209.png)
 
 ## 使系统保持唤醒状态
 
@@ -112,7 +112,7 @@
 
 按照下图进行设置：
 
-![image.png](Windows Server/image 10.png)
+![image.png](Windows%20Server/image%2010.png)
 
 ## 远程桌面连接登录
 

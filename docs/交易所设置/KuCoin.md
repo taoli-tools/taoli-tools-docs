@@ -19,4 +19,4 @@
 3. 暂不支持杠杆交易和统一账户，可以先不勾选
 4. 打开任意一个合约页面 [https://www.kucoin.com/trade/futures/XBTUSDTM](https://www.kucoin.com/trade/futures/XBTUSDTM) 点击右上角齿轮，改为单向持仓
     
-    ![image.png](KuCoin/image 1.png)
+    ![image.png](KuCoin/image%201.png)

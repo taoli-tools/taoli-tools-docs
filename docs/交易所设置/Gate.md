@@ -25,10 +25,10 @@
 5. 打开 API Key 管理页面：[https://www.gate.io/myaccount/api_key_manage](https://www.gate.io/myaccount/api_key_manage)
 6. 点击创建 API Key，按照下图设置。
     
-    ![image.png](Gate/image 1.png)
+    ![image.png](Gate/image%201.png)
     
 7. 如果下单时遇到额度限制（RISK_LIMIT_EXCEEDED），可以在下图位置调整风险限额。
     
-    ![image.png](Gate/image 2.png)
+    ![image.png](Gate/image%202.png)
     
 8. Gate 市价买入现货（或现货杠杆）传入的参数是 U 的数量，而不是币的数量，所以可能会导致实际成交数量和设置的 Size 略微有些出入。
