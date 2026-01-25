@@ -184,7 +184,6 @@ export default defineConfig({
           { text: '常见问题', link: '/faq' },
           { text: 'DEX 常见问题', link: '/dex-faq' },
           { text: 'Taoli Tools Signer', link: '/taoli-tools-signer' },
-          { text: '小技巧', link: '/tips-and-tricks' },
           { text: '开发者激励计划', link: '/developer-incentive-program' },
           { text: '信息收集与多开限制', link: '/data-collection-and-multi-instance-limits' },
         ]
