@@ -25,9 +25,26 @@ export default defineConfig({
         text: '开始使用',
         items: [
           { text: '快速开始', link: '/快速开始' },
-          { text: '安装部署', link: '/安装部署' },
+          {
+            text: '安装部署',
+            link: '/安装部署',
+            collapsed: true,
+            items: [
+              { text: '本地运行', link: '/安装部署/本地运行' },
+              { text: 'Windows Server', link: '/安装部署/Windows Server' },
+              { text: 'Linux Server', link: '/安装部署/Linux Server' },
+            ]
+          },
           { text: '基础知识', link: '/基础知识' },
-          { text: '解除浏览器跨域限制', link: '/解除浏览器跨域限制' },
+          {
+            text: '解除浏览器跨域限制',
+            link: '/解除浏览器跨域限制',
+            collapsed: true,
+            items: [
+              { text: '浏览器插件', link: '/解除浏览器跨域限制/浏览器插件' },
+              { text: '命令行禁用', link: '/解除浏览器跨域限制/命令行禁用' },
+            ]
+          },
           { text: 'VIP 等级区别及价格', link: '/VIP等级区别及价格' },
         ]
       },
