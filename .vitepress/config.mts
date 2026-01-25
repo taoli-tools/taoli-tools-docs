@@ -34,8 +34,8 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: '本地运行', link: '/installation/local-setup' },
-              { text: 'Windows Server', link: '/installation/windows-server' },
-              { text: 'Linux Server', link: '/installation/linux-server' },
+              { text: 'Windows 服务器', link: '/installation/windows-server' },
+              { text: 'Linux 服务器', link: '/installation/linux-server' },
             ]
           },
           { text: '基础知识', link: '/basics' },

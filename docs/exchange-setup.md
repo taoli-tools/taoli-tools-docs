@@ -2,7 +2,7 @@
 
 在 [设置页面](https://taoli.tools/trade?settings=1) 填写交易所的 API 信息，然后点击 Save 按钮保存
 
-点击 `⟳` 按钮可以测试到交易所的延迟，最好不要超过 150ms，如果超过，可以考虑 [Windows Server](installation/windows-server.md) 
+点击 `⟳` 按钮可以测试到交易所的延迟，最好不要超过 150ms，如果超过，可以考虑 [Windows 服务器](installation/windows-server.md) 
 
 > [!WARNING]
 > 建议开启 API Key 的 IP 白名单功能，以提高安全等级。

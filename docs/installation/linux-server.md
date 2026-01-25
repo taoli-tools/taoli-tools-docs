@@ -1,7 +1,7 @@
-# Linux Server
+# Linux 服务器
 
 > [!WARNING]
-> 没有 Linux 使用经验的，不建议使用 Linux Server
+> 没有 Linux 使用经验的，不建议使用 Linux 服务器
 
 ## Vultr
 
