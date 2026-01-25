@@ -20,7 +20,7 @@
 3. 点击右上角齿轮按钮
 4. 设置“账户模式”为“跨币种保证金模式”，设置“持仓模式”为“单向持仓”
     
-    ![image.png](gate/234173a7-0c16-44dc-a944-a9bd5809e4d2.png)
+    ![image.png](gate/image-3.png)
     
 5. 打开 API Key 管理页面：[https://www.gate.io/myaccount/api_key_manage](https://www.gate.io/myaccount/api_key_manage)
 6. 点击创建 API Key，按照下图设置。

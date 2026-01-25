@@ -69,7 +69,7 @@
 
 访问 edge://settings/system/managePerformance 如图
 
-![image.png](windows-server/31857a0d-4b27-4cc5-9ea7-f9ba76975c6b.png)
+![image.png](windows-server/image-11.png)
 
 - 关闭”启用高效模式”
 - 关闭“使用效率模式改善电脑游戏体验”

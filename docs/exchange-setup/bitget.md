@@ -21,7 +21,7 @@ Bitget Wallet Card 邀请码：`1t5Nzd`
 3. 按照下图设置。持仓模式：单向持仓。
 4. USDC 合约和 U 本位合约要分别设置，都只支持单向持仓。
     
-    ![image.png](bitget/3b82b06d-5be1-4246-a1f4-87e46632f20f.png)
+    ![image.png](bitget/image-2.png)
     
 5. 在“API 密钥”页面 [https://www.bitget.com/account/newapi](https://www.bitget.com/account/newapi) 点击“新建 API Key”
 6. 选择“系统生成的 API 密钥”

@@ -23,7 +23,7 @@ head:
     - 也可能是网络问题
 3. 出现黄字提示是怎么回事？
     
-    ![image.png](faq/telegram-cloud-photo-size-5-6129714348201984999-y.jpg)
+    ![image.png](faq/image-2.png)
     
     - 灰字和黄字不用慌，放在那不动或者点击 x 关掉即可。
     - 如果出现红字，那么运行会停止，并且你此时的仓位 Position 会出现不平衡（单腿），需要你手动操作补仓。
@@ -48,7 +48,7 @@ head:
     
 6. 这样资金费是亏的还是赚的？
     
-    ![image.png](faq/18786fb6-3e19-4d6a-baaf-9b86dcad442a.png)
+    ![image.png](faq/image-1.png)
     
     先看单边交易：如果持仓 Position 和资金费率 Funding 的正负号是一致的，那就是亏；不一致就赚。
     

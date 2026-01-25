@@ -90,7 +90,7 @@ head:
         - Stop：停止下单
     - N 是指一个单位的 A 是一个单位的 B 的多少倍。绝大部分的情况下都应该填 1。在下图中，A 是 1MCHEEMS，B 是 1000CHEEMS。A = 1000 * B，所以 N 填 1000。
     
-    ![image.png](trading-page-guide/bc28aa73-a349-4369-adac-9f6d18014322.png)
+    ![image.png](trading-page-guide/image-13.png)
     
 
 ## P&L 区域
@@ -108,11 +108,11 @@ head:
 
 ## 资金费和利息区域
 
-![image.png](trading-page-guide/397929db-407b-489f-8283-fb0dfa680de8.png)
+![image.png](trading-page-guide/image-11.png)
 
 点击图中蓝色文字可以打开两侧的资金费面板。
 
-![image.png](trading-page-guide/98d2234d-d968-415a-aea3-36eda925d221.png)
+![image.png](trading-page-guide/image-12.png)
 
 ![image.png](trading-page-guide/image-10.png)
 

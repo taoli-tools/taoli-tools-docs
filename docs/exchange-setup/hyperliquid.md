@@ -14,7 +14,7 @@
     
 4. 请注意，设置页面需要填写的“Address”是主钱包地址（如下图所示），“API Private Key”是 API 钱包私钥，不要搞混
     
-    ![telegram-cloud-photo-size-5-6136678122276375354-y.jpg](hyperliquid/telegram-cloud-photo-size-5-6136678122276375354-y.jpg)
+    ![image-1.png](hyperliquid/image-1.png)
     
 5. Hyperliquid 现货 Symbol 前面需要加一个字母 U，比如 UBTC，UETH。
     

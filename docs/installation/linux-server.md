@@ -11,11 +11,11 @@
 
 1. 前往 [https://my.vultr.com/deploy-beta/](https://my.vultr.com/deploy-beta/) 页面购买服务器，建议至少选择 2C4G，位于日本东京的服务器，可以关闭自动备份功能省钱
     
-    ![image.png](linux-server/2076a148-b226-41cd-9e73-0a3df73bcf24.png)
+    ![image.png](linux-server/image-2.png)
     
 2. 操作系统推荐 Debian 12（而不是 13），其余选项默认
     
-    ![image.png](linux-server/2a5aafa5-938d-4ca0-b643-f3b410a282ed.png)
+    ![image.png](linux-server/image-3.png)
     
 
 ## 腾讯云
