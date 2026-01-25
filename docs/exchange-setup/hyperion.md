@@ -19,5 +19,5 @@
 - 只支持市价单，不支持限价单，选择限价单时仍然是下市价单。
 - 询价间隔为 1 秒。
 - Pair 的 Size 参数的改变会影响报价，从而影响差价。不填 Size 默认是 100。
-- [DEX 常见问题](../dex-faq.md)
-- [Taoli Tools Signer](../taoli-tools-signer.md)
+- [DEX 常见问题](../dex-faq/)
+- [Taoli Tools Signer](../taoli-tools-signer/)

@@ -5,7 +5,7 @@
 邀请链接：[https://advanced.coinbase.com/join/6ZX9X5P](https://advanced.coinbase.com/join/6ZX9X5P)
 
 > [!WARNING]
-> 因 Coinbase API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors.md)
+> 因 Coinbase API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors/)
 
 1. 在 [https://www.coinbase.com/home](https://www.coinbase.com/home) 页面左下角，打开 Coinbase Advanced。
     

@@ -4,7 +4,7 @@
 
 ## 方案选择
 
-### [浏览器插件](disable-browser-cors/browser-extension.md)
+### [浏览器插件](./browser-extension)
 
 **推荐方案**。通过安装浏览器插件来代理请求，无需修改浏览器启动参数。
 
@@ -12,7 +12,7 @@
 - ✅ 不影响浏览器正常使用
 - ⚠️ Chrome 插件更新后要刷新网页才能生效
 
-### [命令行禁用](disable-browser-cors/command-line.md)
+### [命令行禁用](./command-line)
 
 通过命令行参数启动浏览器，禁用跨域安全检查。
 

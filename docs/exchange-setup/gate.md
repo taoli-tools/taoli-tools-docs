@@ -7,7 +7,7 @@
 邀请链接：[https://www.gatenode.xyz/share/taolitoo](https://www.gatenode.xyz/share/taolitoo)
 
 > [!WARNING]
-> 因 Gate API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors.md)
+> 因 Gate API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors/)
 
 > [!WARNING]
 > Gate 杠杆交易有 bug：有一定概率不能自动借币，重试就可以；还有一定概率不能自动还币，需要手动还币

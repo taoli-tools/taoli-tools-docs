@@ -7,7 +7,7 @@
 邀请链接：[https://grvt.io/exchange/sign-up?ref=TAOLI](https://grvt.io/exchange/sign-up?ref=TAOLI)
 
 > [!WARNING]
-> 因 Grvt API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors.md)
+> 因 Grvt API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors/)
 
 > [!WARNING]
 > 因 Grvt API 限制，一个浏览器环境中仅支持添加一个 Grvt 账号，如果添加多个账号，会引起错乱。并且 API 和交易所网页无法同时使用。

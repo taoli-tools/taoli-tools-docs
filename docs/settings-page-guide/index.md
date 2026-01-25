@@ -17,12 +17,12 @@ head:
 
 - 账户信息
     
-    ![image.png](settings-page-guide/image.png)
+    ![image.png](./image.png)
     
     - 点击 Current Funds 后面数字可以查看资金额详情
 - 通知设置
     
-    ![image.png](settings-page-guide/image-1.png)
+    ![image.png](./image-1.png)
     
     - 支持网页，Telegram，Lark（飞书）三种通知方式
     - 支持五种通知类型
@@ -38,7 +38,7 @@ head:
     - Lark 通知需要填写 Webhook URL 才可以使用。点击工具中的链接查看教程
 - 其他设置
     
-    ![image.png](settings-page-guide/image-2.png)
+    ![image.png](./image-2.png)
     
     - Theme：主题色
     - Language：语言
@@ -51,7 +51,7 @@ head:
 
 - 交易所
     
-    ![image.png](settings-page-guide/image-3.png)
+    ![image.png](./image-3.png)
     
     - 在 Unique Name 输入自定义的名字，并在下拉框中选择交易所，再点击 Add 即可添加一个交易所
     - 添加交易所后，需要设置 API Key，API Secret 等信息，点击 Save 后
@@ -62,7 +62,7 @@ head:
     - 点击 `⟳` 按钮，可以测试 ping
 - 区块链
     
-    ![image.png](settings-page-guide/image-4.png)
+    ![image.png](./image-4.png)
     
     - 在下拉框中选择链，再点击 Add 即可添加一个链
     - RPCs：自定义 RPC，灰色的是默认 RPC，如果填了自定义的，会覆盖默认的
@@ -71,7 +71,7 @@ head:
     - Bundle：是否将交易发给 flashbots、48club 等 bundler，仅支持部分链
 - 代币
     
-    ![image.png](settings-page-guide/image-5.png)
+    ![image.png](./image-5.png)
     
     - 在交易页面搜索 Pair 的位置，如果粘贴过代币的合约地址，就会出现在这里
 
@@ -81,25 +81,25 @@ head:
 
 - Trading：交易记录
     
-    ![image.png](settings-page-guide/image-6.png)
+    ![image.png](./image-6.png)
     
     - 第一条是所选日期的总表
     - 后面每条是按 Pair 中的 A 和 B 筛选的分表
 - 交易小票
     
-    ![image.png](settings-page-guide/image-7.png)
+    ![image.png](./image-7.png)
     
     - 点击任意一个导出按钮后，会显示交易小票
     - SYMBOLS 和 EXCHANGES 默认隐藏，点击可以展示出来
 - Funding：永续合约资金费记录
     
-    ![image.png](settings-page-guide/image-8.png)
+    ![image.png](./image-8.png)
     
     - Funding Recently：最近 7 天的资金费总表
     - 选择某个 Ticker 后，则是这个 Ticker 的最近 7 天的资金费分表
 - Lending：现货杠杆借贷利息记录
     
-    ![image.png](settings-page-guide/image-9.png)
+    ![image.png](./image-9.png)
     
     - 必须先选一个 Ticker 才可以导出
 

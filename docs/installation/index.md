@@ -13,7 +13,7 @@ Taoli Tools 提供两种运行方式，根据你的需求选择合适的方案�
 
 ## 运行方式
 
-### [本地运行](installation/local-setup.md)
+### [本地运行](./local-setup.md)
 
 **推荐新手使用**。在本地电脑浏览器中直接运行，无需额外部署。
 
@@ -28,7 +28,7 @@ Taoli Tools 提供两种运行方式，根据你的需求选择合适的方案�
 > [!WARNING]
 > 为了资金安全，请尽量选择大牌厂商的服务器，比如阿里云、腾讯云、AWS
 
-#### [Windows 服务器](installation/windows-server.md)
+#### [Windows 服务器](./windows-server.md)
 
 **推荐大多数用户使用**。使用 Windows 服务器，通过远程桌面连接。
 
@@ -36,7 +36,7 @@ Taoli Tools 提供两种运行方式，根据你的需求选择合适的方案�
 - ✅ 可选择靠近交易所的服务器位置，降低延迟
 - ⚠️ 需要付费购买服务器
 
-#### [Linux 服务器](installation/linux-server.md)
+#### [Linux 服务器](./linux-server.md)
 
 适合有 Linux 使用经验的用户。使用 Docker 容器运行，通过 VNC 远程访问。
 

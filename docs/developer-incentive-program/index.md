@@ -27,18 +27,18 @@
 
 ## 历史记录
 
-[2025-12](developer-incentive-program/2025-12.md)
+[2025-12](./2025-12.md)
 
-[2025-11](developer-incentive-program/2025-11.md)
+[2025-11](./2025-11.md)
 
-[2025-10](developer-incentive-program/2025-10.md)
+[2025-10](./2025-10.md)
 
-[2025-09](developer-incentive-program/2025-09.md)
+[2025-09](./2025-09.md)
 
-[2025-08](developer-incentive-program/2025-08.md)
+[2025-08](./2025-08.md)
 
-[2025-07](developer-incentive-program/2025-07.md)
+[2025-07](./2025-07.md)
 
-[2025-06](developer-incentive-program/2025-06.md)
+[2025-06](./2025-06.md)
 
-[2025-05](developer-incentive-program/2025-05.md)
+[2025-05](./2025-05.md)

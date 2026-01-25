@@ -10,7 +10,7 @@ Uniswap V3 支持的链：[https://docs.uniswap.org/contracts/v3/reference/deplo
 
 ![image.png](uniswap-v3/image.png)
 
-1. 通过 Wallet Type 来选择使用助记词、私钥、或 [Taoli Tools Signer](../taoli-tools-signer.md) 作为钱包
+1. 通过 Wallet Type 来选择使用助记词、私钥、或 [Taoli Tools Signer](../taoli-tools-signer/) 作为钱包
 2. 点击 Save，如无报错，则会以绿色数字显示全链 U 余额的总和，点击数字查看详情
 
 ## 限制及注意事项
@@ -18,5 +18,5 @@ Uniswap V3 支持的链：[https://docs.uniswap.org/contracts/v3/reference/deplo
 - 只支持市价单，不支持限价单，选择限价单时仍然是下市价单。
 - 首次交易某个 ERC20 Token 时候会自动 Approve Unlimited 给 [Uniswap V3 Router 合约](https://docs.uniswap.org/contracts/v3/reference/deployments/)。
 - Pair 的 Size 参数的改变会影响报价，从而影响差价。不填 Size 默认是 100。
-- [DEX 常见问题](../dex-faq.md)
-- [Taoli Tools Signer](../taoli-tools-signer.md)
+- [DEX 常见问题](../dex-faq/)
+- [Taoli Tools Signer](../taoli-tools-signer/)

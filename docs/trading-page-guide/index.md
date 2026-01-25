@@ -13,11 +13,11 @@ head:
 
 交易页面一览：
 
-![image.png](trading-page-guide/image.png)
+![image.png](./image.png)
 
 ## 数据展示区域
 
-![image.png](trading-page-guide/image-1.png)
+![image.png](./image-1.png)
 
 每个虚线划分的区域里分为 A 和 B 两个交易对，A 有两行，B 也有两行：
 
@@ -27,9 +27,9 @@ head:
         - 首先显示的是 未成交委托的订单个数`∑`未成交的每单数量加起来的总量，不同方向的订单加起来会互相抵消。
         - 后面显示每个未成交的委托：三个数字分别是：委托总量（已成交数量）$价格，最后面的`×`是取消委托按钮，取消委托**没有**二次确认。当按住键盘上的 Shift 或 Alt 按键时，最后的取消按钮消失，最前面会出现一个`✓`按钮，作用是市价追单，追单按钮也没有二次确认，可能需要点击多次才能追单成功，有些交易所没有修改委托接口，所以有些实现方式是先取消再重新下单，因此可能会出现取消委托但没重新下单的问题。在工具内操作成功的追单，可以正确计算到其对应的 PnL。
             
-            ![image.png](trading-page-guide/image-2.png)
+            ![image.png](./image-2.png)
             
-            ![image.png](trading-page-guide/image-3.png)
+            ![image.png](./image-3.png)
             
 - 第二、四行：
     - Position：持仓量。只要 A 和 B 持仓量一致，那仓位就处于平衡状态，和杠杆倍数无关，杠杆倍数只会影响保证金率和爆仓价。如果没有处于平衡状态，需要你去交易所里手动补平衡，才能实现对冲。杠杆倍数需要去交易所里调整，无法在工具里进行调整。Hyperliquid 需要在没有仓位的时候就设置好，其余的交易所可以先下单，后设置。
@@ -44,29 +44,29 @@ head:
     - Best Bid and Ask：买 1 卖 1 价。正常显示为灰色。如果显示为黄色，则说明价格已经是 3 秒钟之前更新的。如果显示为红色，则说明价格已经是 9 秒钟之前更新的。
         - 右侧有一个 `⟳` 按钮，点击强制刷新价格
     - Available：剩余可用资金。如果不是统一账户，记得提前划转资金（在交易所内操作。这个数字有时可能会显示不准确，建议使用 MAXP 参数限制开仓量。
-    - Risks：风险指数。具体逻辑参考 [交易界面显示的风险信息（Risks）](risk-warning.md)
+    - Risks：风险指数。具体逻辑参考 [交易界面显示的风险信息（Risks）](../risk-warning/)
         - 按 Shift 后变为 Average：持仓均价，大部分交易所只有永续合约会显示均价，现货能显示均价的只有 Hyperliquid。
 - 第五行：
     - 展示信息。灰色信息可以忽略；黄色信息需要留意一下，并无大碍；红色信息说明你的交易至少有一边失败了。重要的信息会覆盖不重要的信息。刷新网页后仍然能看到信息。点击信息最后面的`×`按钮可以关闭信息。
     - 有些红色信息可以进行补单，此时按住 Shift 或 Alt 键之后可以看到一个`✓`按钮，后面跟着可以进行重试的交易方向和 size，点击即可市价补单。在工具内操作成功的补单，可以正确计算到其对应的 PnL。
         
-        ![image.png](trading-page-guide/image-4.png)
+        ![image.png](./image-4.png)
         
 
 ## 下单操作区域
 
-![image.png](trading-page-guide/image-5.png)
+![image.png](./image-5.png)
 
-![image.png](trading-page-guide/image-6.png)
+![image.png](./image-6.png)
 
-- 请移步 [下单操作](./order-operations.md)
+- 请移步 [下单操作](../order-operations)
 
 ## 添加交易对区域
 
 > [!TIP]
 > 要先添加交易所，才能搜索到相应交易所里的代币对。
 
-![image.png](trading-page-guide/image-7.png)
+![image.png](./image-7.png)
 
 - `⟳`：点击刷新交易对。
 - `Symbol, CA`：用于搜索筛选。
@@ -81,21 +81,21 @@ head:
     - Spot：现货；Isolated：逐仓杠杆；Cross：全仓杠杆；Perp：永续合约
 - `Advanced`：勾选后展示更多选项。
     
-    ![image.png](trading-page-guide/image-8.png)
+    ![image.png](./image-8.png)
     
-    - 可以提前设置好的操作区域的参数。具体含义见 [下单操作](./order-operations.md) 。
+    - 可以提前设置好的操作区域的参数。具体含义见 [下单操作](../order-operations) 。
     - 可以为-A+B 和+A-B 交易方向指定初始下单状态，点击 Add Pair 后可自动开始 Once 或者 Loop：
         - Once：下一个单
         - Loop：循环下单
         - Stop：停止下单
     - N 是指一个单位的 A 是一个单位的 B 的多少倍。绝大部分的情况下都应该填 1。在下图中，A 是 1MCHEEMS，B 是 1000CHEEMS。A = 1000 * B，所以 N 填 1000。
     
-    ![image.png](trading-page-guide/image-13.png)
+    ![image.png](./image-13.png)
     
 
 ## P&L 区域
 
-![image.png](trading-page-guide/image-9.png)
+![image.png](./image-9.png)
 
 - 每次下单都会下两单，一多一空，这里显示的是这两个订单的合计 PnL，手续费也包含在内。
 - 如果是购买现货，手续费是按现货收取。其余三种情况是收 U。
@@ -108,12 +108,12 @@ head:
 
 ## 资金费和利息区域
 
-![image.png](trading-page-guide/image-11.png)
+![image.png](./image-11.png)
 
 点击图中蓝色文字可以打开两侧的资金费面板。
 
-![image.png](trading-page-guide/image-12.png)
+![image.png](./image-12.png)
 
-![image.png](trading-page-guide/image-10.png)
+![image.png](./image-10.png)
 
 左侧是该交易对的持仓资金费收支明细，右侧是该交易对的历史资金费率，右侧下方显示该永续合约的指数成分。
