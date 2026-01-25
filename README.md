@@ -18,10 +18,6 @@ npm run docs:build
 npm run docs:preview
 ```
 
-## 部署
-
-查看 [DEPLOYMENT.md](./DEPLOYMENT.md) 了解如何部署到 Cloudflare Pages。
-
 ## 链接
 
 - 官网: https://taoli.tools
