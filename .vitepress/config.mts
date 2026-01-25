@@ -49,7 +49,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yourusername/taoli-tools-docs' }
+      { icon: 'github', link: 'https://github.com/taoli-tools/taoli-tools-docs' }
     ],
 
     search: {
