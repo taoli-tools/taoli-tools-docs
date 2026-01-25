@@ -1,3 +1,12 @@
+---
+title: VIP 等级区别及价格 - Taoli Tools 使用手册
+description: 了解 Taoli Tools 的 VIP 等级、资金额上限、价格方案、技术支持服务和付费群权益
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools VIP,价格方案,订阅费用,资金额上限,技术支持,付费群
+---
+
 # VIP 等级区别及价格
 
 | 等级 | 资金额上限 | 价格 | 技术支持 | 付费群 | bug 赔付 |

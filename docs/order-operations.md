@@ -1,3 +1,12 @@
+---
+title: 下单操作 - Taoli Tools 使用手册
+description: 掌握 Taoli Tools 的下单操作方法,包括市价单、限价单、下单序列、循环交易等功能
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools 下单,市价单,限价单,对冲下单,循环交易,交易序列
+---
+
 # 下单操作
 
 ## MKT 市价单

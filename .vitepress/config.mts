@@ -6,31 +6,81 @@ export default defineConfig({
   description: "Taoli Tools 半自动化 U 本位对冲套利工具使用手册",
   base: '/',
   srcDir: 'docs',
+  lang: 'zh-CN',
+  lastUpdated: true,
+  cleanUrls: true,
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    ['link', { rel: 'canonical', href: 'https://docs.taoli.tools' }],
+    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    ['meta', { name: 'robots', content: 'index, follow' }],
+    ['meta', { name: 'author', content: 'Taoli Tools' }],
+    ['meta', { name: 'keywords', content: '对冲套利,资金费套利,加密货币交易,U本位,跨所搬砖,DEX,CEX,永续合约,Taoli Tools' }],
     // Open Graph
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'Taoli Tools 使用手册' }],
-    ['meta', { property: 'og:description', content: 'Taoli Tools 半自动化 U 本位对冲套利工具使用手册' }],
+    ['meta', { property: 'og:locale', content: 'zh_CN' }],
+    ['meta', { property: 'og:site_name', content: 'Taoli Tools' }],
+    ['meta', { property: 'og:title', content: 'Taoli Tools 使用手册 - 半自动化对冲套利工具' }],
+    ['meta', { property: 'og:description', content: 'Taoli Tools 是一个半自动化的 U 本位对冲套利工具,支持跨所搬砖套利、永续合约资金费套利,支持数十家 CEX, DEX 和 Perp DEX' }],
     ['meta', { property: 'og:url', content: 'https://docs.taoli.tools' }],
     ['meta', { property: 'og:image', content: 'https://docs.taoli.tools/og-image.png' }],
     ['meta', { property: 'og:image:width', content: '1200' }],
     ['meta', { property: 'og:image:height', content: '630' }],
+    ['meta', { property: 'og:image:alt', content: 'Taoli Tools - 半自动化对冲套利工具' }],
     // Twitter Card
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: 'Taoli Tools 使用手册' }],
-    ['meta', { name: 'twitter:description', content: 'Taoli Tools 半自动化 U 本位对冲套利工具使用手册' }],
-    ['meta', { name: 'twitter:image', content: 'https://docs.taoli.tools/og-image.png' }]
+    ['meta', { name: 'twitter:site', content: '@taoli_tools' }],
+    ['meta', { name: 'twitter:creator', content: '@taoli_tools' }],
+    ['meta', { name: 'twitter:title', content: 'Taoli Tools 使用手册 - 半自动化对冲套利工具' }],
+    ['meta', { name: 'twitter:description', content: 'Taoli Tools 是一个半自动化的 U 本位对冲套利工具,支持跨所搬砖套利、永续合约资金费套利' }],
+    ['meta', { name: 'twitter:image', content: 'https://docs.taoli.tools/og-image.png' }],
+    ['meta', { name: 'twitter:image:alt', content: 'Taoli Tools - 半自动化对冲套利工具' }],
+    // Structured Data (JSON-LD)
+    ['script', { type: 'application/ld+json' }, JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'SoftwareApplication',
+      name: 'Taoli Tools',
+      applicationCategory: 'FinanceApplication',
+      description: 'Taoli Tools 是一个半自动化的 U 本位对冲套利工具,支持跨所搬砖套利、永续合约资金费套利,支持数十家 CEX、DEX 和 Perp DEX',
+      url: 'https://taoli.tools',
+      offers: {
+        '@type': 'AggregateOffer',
+        priceCurrency: 'USD',
+        lowPrice: '0',
+        highPrice: '1920',
+        offerCount: '7'
+      },
+      operatingSystem: 'Web Browser',
+      author: {
+        '@type': 'Organization',
+        name: 'Taoli Tools',
+        url: 'https://taoli.tools',
+        logo: 'https://docs.taoli.tools/logo-light.svg',
+        sameAs: [
+          'https://x.com/taoli_tools',
+          'https://t.me/taoli_tools',
+          'https://github.com/taoli-tools'
+        ]
+      }
+    })]
   ],
   sitemap: {
-    hostname: 'https://docs.taoli.tools'
+    hostname: 'https://docs.taoli.tools',
+    transformItems: (items) => {
+      return items.map(item => ({
+        ...item,
+        changefreq: 'weekly',
+        priority: (item.url === '/' || item.url === '') ? 1.0 : 0.8
+      }))
+    }
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: {
       light: '/logo-light.svg',
-      dark: '/logo-dark.svg'
+      dark: '/logo-dark.svg',
+      alt: 'Taoli Tools Logo'
     },
 
     nav: [

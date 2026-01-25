@@ -1,3 +1,12 @@
+---
+title: 交易页面 - Taoli Tools 使用手册
+description: 了解 Taoli Tools 交易页面的功能布局,包括数据展示、交易对选择、下单操作等核心功能
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools 交易页面,交易对选择,数据展示,持仓监控,下单操作
+---
+
 # 交易页面
 
 [https://taoli.tools/trade](https://taoli.tools/trade)

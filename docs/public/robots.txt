@@ -1,0 +1,9 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://docs.taoli.tools/sitemap.xml
+
+# Crawl-delay for good practice
+Crawl-delay: 1

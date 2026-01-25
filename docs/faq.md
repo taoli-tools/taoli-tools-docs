@@ -1,3 +1,12 @@
+---
+title: 常见问题 - Taoli Tools 使用手册
+description: Taoli Tools 使用过程中的常见问题解答,包括平仓操作、错误处理、网络问题等
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools FAQ,常见问题,平仓操作,错误处理,Failed to fetch,CORS 问题
+---
+
 # 常见问题
 
 1. 如何”平仓”？

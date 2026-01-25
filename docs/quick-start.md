@@ -1,3 +1,12 @@
+---
+title: 快速开始 - Taoli Tools 使用手册
+description: 了解如何快速开始使用 Taoli Tools 对冲套利工具,包括登录、设置 API、添加交易对等步骤
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools 快速开始,对冲套利教程,API 设置,交易所配置
+---
+
 # 快速开始
 
 1. 访问 [交易页面](https://taoli.tools/trade)，点击蓝色按钮，使用 Telegram 登陆。

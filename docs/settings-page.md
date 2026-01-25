@@ -1,3 +1,12 @@
+---
+title: 设置页面 - Taoli Tools 使用手册
+description: 配置 Taoli Tools 的各项设置,包括账户信息、API 密钥、通知设置、交易所配置等
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools 设置,API 配置,账户设置,通知设置,交易所 API
+---
+
 # 设置页面
 
 点击右上角 `Settings` 进入设置页面

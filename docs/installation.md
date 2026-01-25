@@ -1,3 +1,12 @@
+---
+title: 安装部署 - Taoli Tools 使用手册
+description: 选择适合你的 Taoli Tools 部署方式,包括本地运行、Windows 服务器和 Linux 服务器部署方案
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools 安装,本地运行,服务器部署,Windows 服务器,Linux 服务器,Docker 部署
+---
+
 # 安装部署
 
 Taoli Tools 提供两种运行方式，根据你的需求选择合适的方案。
