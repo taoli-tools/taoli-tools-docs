@@ -7,7 +7,7 @@
 邀请链接：[https://www.kucoin.com/r/af/TAOTAOLI](https://www.kucoin.com/r/af/TAOTAOLI)
 
 帕劳 ID 购买：
-买一年的就可以，帕劳 KYC 通过后可以先用电子卡去 KuCoin 进行 KYC，然后把 KuCoin UID 发给我加速审核，等实体卡收到后再补充一遍 KuCoin KYC 材料。
+买一年的就可以，帕劳 KYC 通过后可以先用电子卡去 KuCoin 进行 KYC，然后把 KuCoin UID 发给 [Aliez Ren](https://t.me/aliez_ren) 加速审核，等实体卡收到后再补充一遍 KuCoin KYC 材料。
 
 邀请链接：[https://rns.id/?rc_by=TAOTAOLI](https://rns.id/?rc_by=TAOTAOLI)
 

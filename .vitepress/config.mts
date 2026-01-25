@@ -86,8 +86,6 @@ export default defineConfig({
     nav: [
       { text: '资金费率', link: 'https://taoli.tools' },
       { text: '开始交易', link: 'https://taoli.tools/trade' },
-      { text: 'Telegram', link: 'https://t.me/taoli_tools' },
-      { text: 'X', link: 'https://x.com/taoli_tools' }
     ],
 
     sidebar: [
@@ -194,7 +192,9 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/taoli-tools' }
+      { icon: 'github', link: 'https://github.com/taoli-tools' },
+      { icon: 'x', link: 'https://x.com/taoli_tools' },
+      { icon: 'telegram', link: 'https://t.me/taoli_tools' }
     ],
 
     search: {
