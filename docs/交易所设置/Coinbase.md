@@ -5,7 +5,7 @@
 邀请链接：[https://advanced.coinbase.com/join/6ZX9X5P](https://advanced.coinbase.com/join/6ZX9X5P)
 
 > [!WARNING]
-> 因 Coinbase API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md)
+> 因 Coinbase API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../解除浏览器跨域限制.md)
 
 1. 在 [https://www.coinbase.com/home](https://www.coinbase.com/home) 页面左下角，打开 Coinbase Advanced。
     
@@ -13,17 +13,17 @@
     
 2. 在 [https://www.coinbase.com/advanced-portfolio](https://www.coinbase.com/advanced-portfolio) 页面，新建“永续合约”投资组合。
 
-![image.png](Coinbase/image%201.png)
+![image.png](Coinbase/image 1.png)
 
 1. 在 [https://www.coinbase.com/settings/api](https://www.coinbase.com/settings/api) 页面，为“默认”投资组合和”永续合约“投资组合分别新建 API。勾选“Trade”，点击“创建并下载”
 
-![image.png](Coinbase/image%202.png)
+![image.png](Coinbase/image 2.png)
 
 1. 只需复制密钥和私钥，无需下载，点击取消下载即可。
     
-    ![image.png](Coinbase/image%203.png)
+    ![image.png](Coinbase/image 3.png)
     
-    ![image.png](Coinbase/image%204.png)
+    ![image.png](Coinbase/image 4.png)
     
     - ”默认“投资组合的”API 密钥名称“填写到“Default API Key”
     - ”默认“投资组合的”私钥“填写到“Default Private Key”

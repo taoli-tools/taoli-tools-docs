@@ -15,7 +15,7 @@
     - `InstructionError` Solana 合约执行失败，通常是因为超过了滑点
 3. 可以在 Ticker 后面修改滑点和 Gas Fee：
     
-    ![image.png](DEX%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/image.png)
+    ![image.png](DEX常见问题/image.png)
     
     - 左边的百分数是滑点
     - 右边的数是默认 Gas 的倍数（部分链不支持调整 Gas）

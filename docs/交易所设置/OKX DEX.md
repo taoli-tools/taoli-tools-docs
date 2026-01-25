@@ -15,7 +15,7 @@ OKX DEX 支持的链：[https://web3.okx.com/build/dev-docs/wallet-api/supported
 3. 在对应链的钱包中存入对应的 gas，存入 USDC 或 USDT 作为资金。
 4. 设置说明：
     
-    ![image.png](OKX%20DEX/image.png)
+    ![image.png](OKX DEX/image.png)
     
     1. APIs：
         - 在 [https://web3.okx.com/build/dev-portal](https://web3.okx.com/build/dev-portal) 申请 API。
@@ -41,5 +41,5 @@ OKX DEX 支持的链：[https://web3.okx.com/build/dev-docs/wallet-api/supported
 - 只支持市价单，不支持限价单，选择限价单时仍然是下市价单。
 - 首次交易某个 ERC20 Token 时候会自动 Approve Unlimited 给 [OKX DEX Router 合约](https://web3.okx.com/build/dev-docs/dex-api/dex-approve-transaction)。
 - Pair 的 Size 参数的改变会影响报价，从而影响差价。不填 Size 默认是 100。
-- [DEX 常见问题](../DEX%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)
-- [Taoli Tools Signer](../Taoli%20Tools%20Signer.md)
+- [DEX 常见问题](../DEX常见问题.md)
+- [Taoli Tools Signer](../Taoli Tools Signer.md)

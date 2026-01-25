@@ -16,6 +16,6 @@
     
 - 复制私钥，填到“API Private Key”中
     
-    ![image.png](Paradex/image%201.png)
+    ![image.png](Paradex/image 1.png)
     
 - 使用 API 下单无法享受零手续费 [https://docs.paradex.trade/trading/trading-fee](https://docs.paradex.trade/trading/trading-fee)

@@ -3,7 +3,7 @@
 [dApp 1inch - DeFi / DEX aggregator on Ethereum, Binance Smart Chain, Optimism, Polygon, Arbitrum](https://app.1inch.io/)
 
 > [!WARNING]
-> 因 1inch API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md)
+> 因 1inch API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../解除浏览器跨域限制.md)
 
 1inch 支持的链：[https://business.1inch.com/portal/documentation/contracts/aggregation-protocol/aggregation-introduction](https://business.1inch.com/portal/documentation/contracts/aggregation-protocol/aggregation-introduction)
 
@@ -18,4 +18,4 @@
 - 只支持 ERC20 标准代币，不支持原生代币，可以使用包装过的原生代币（如 WETH、WAVAX 等）。
 - 只支持市价单，不支持限价单，选择限价单时仍然是下市价单。
 - 首次交易某个 token 时候会自动 Approve Unlimited 给 [1inch 的 AggregationRouterV6 合约](https://portal.1inch.dev/documentation/contracts/aggregation-protocol/aggregation-introduction)。
-- [DEX 常见问题](../DEX%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)
+- [DEX 常见问题](../DEX常见问题.md)

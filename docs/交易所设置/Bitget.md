@@ -11,7 +11,7 @@ Bitget Wallet Card 邀请码：`1t5Nzd`
 邀请链接：[https://web3.bitget.com/invite/card/1t5Nzd](https://web3.bitget.com/invite/card/1t5Nzd)
 
 > [!WARNING]
-> 因 Bitget API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md)
+> 因 Bitget API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../解除浏览器跨域限制.md)
 
 > [!WARNING]
 > 暂不支持 Bitget 统一账户
@@ -30,7 +30,7 @@ Bitget Wallet Card 邀请码：`1t5Nzd`
     
 7. 按照图中的进行勾选
     
-    ![image.png](Bitget/image%201.png)
+    ![image.png](Bitget/image 1.png)
     
 8. Bitget 市价买入现货（或现货杠杆）传入的参数是 U 的数量，而不是币的数量，所以可能会导致实际成交数量和设置的 Size 略微有些出入。
 9. 暂不支持 Bitget 统一账户

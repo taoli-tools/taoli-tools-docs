@@ -10,7 +10,7 @@
     
 2. 添加 Exchange：
     
-    ![image.png](Hyperion/image%201.png)
+    ![image.png](Hyperion/image 1.png)
     
 
 ## 限制及注意事项
@@ -19,5 +19,5 @@
 - 只支持市价单，不支持限价单，选择限价单时仍然是下市价单。
 - 询价间隔为 1 秒。
 - Pair 的 Size 参数的改变会影响报价，从而影响差价。不填 Size 默认是 100。
-- [DEX 常见问题](../DEX%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)
-- [Taoli Tools Signer](../Taoli%20Tools%20Signer.md)
+- [DEX 常见问题](../DEX常见问题.md)
+- [Taoli Tools Signer](../Taoli Tools Signer.md)

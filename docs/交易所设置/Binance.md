@@ -7,7 +7,7 @@
 邀请链接：[https://www.bmwweb.ac/join?ref=TAOLITOOLS](https://www.bmwweb.ac/join?ref=TAOLITOOLS)
 
 > [!WARNING]
-> 因 Binance API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md)
+> 因 Binance API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../解除浏览器跨域限制.md)
 
 1. 打开“API 管理“页面 [https://www.binance.com/my/settings/api-management](https://www.binance.com/my/settings/api-management)
 2. 点击“创建 API”，类型选择“系统生成”
@@ -25,6 +25,6 @@
         
 4. 在合约交易页面 [https://www.binance.com/futures/BTCUSDT](https://www.binance.com/futures/BTCUSDT) 点击右上角齿轮。仓位模式选择“单向持仓”。
     
-    ![image.png](Binance/image%201.png)
+    ![image.png](Binance/image 1.png)
     
 5. 非统一账户模式下，Binance API 不直接返回合约的爆仓价格，而是间接计算获得，因此可能会不准确。也可以使用这个 [合约计算器](https://www.binance.com/futures/BTCUSDT_PERPETUAL/calculator) 进行计算。

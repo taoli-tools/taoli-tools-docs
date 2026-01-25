@@ -7,7 +7,7 @@
 邀请链接：[https://backpack.exchange/refer/okgkcxvl](https://backpack.exchange/refer/okgkcxvl)
 
 > [!WARNING]
-> 因 Backpack API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md)
+> 因 Backpack API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../解除浏览器跨域限制.md)
 
 1. 打开“API 密钥”页面 [https://backpack.exchange/portfolio/settings/api-keys](https://backpack.exchange/portfolio/settings/api-keys)
 2. 点击“新建 API Key”，**不要**选“只读”。

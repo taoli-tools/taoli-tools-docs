@@ -11,11 +11,11 @@
 
 1. 前往 [https://my.vultr.com/deploy-beta/](https://my.vultr.com/deploy-beta/) 页面购买服务器，建议至少选择 2C4G，位于日本东京的服务器，可以关闭自动备份功能省钱
     
-    ![image.png](Linux%20Server/2076a148-b226-41cd-9e73-0a3df73bcf24.png)
+    ![image.png](Linux Server/2076a148-b226-41cd-9e73-0a3df73bcf24.png)
     
 2. 操作系统推荐 Debian 12（而不是 13），其余选项默认
     
-    ![image.png](Linux%20Server/2a5aafa5-938d-4ca0-b643-f3b410a282ed.png)
+    ![image.png](Linux Server/2a5aafa5-938d-4ca0-b643-f3b410a282ed.png)
     
 
 ## 腾讯云
@@ -24,7 +24,7 @@
 
 [腾讯云运营活动 - 腾讯云](https://curl.qcloud.com/G8aWWIr7)
 
-![image.png](Linux%20Server/image.png)
+![image.png](Linux Server/image.png)
 
 ## 安装
 
@@ -39,7 +39,7 @@
 3. 在 [Tailscale Console](https://login.tailscale.com/admin/machines) 中查看机器运行状态，复制机器的`内网IP`
 4. 本地安装 [Tailscale Client](https://tailscale.com/download) 并运行
 5. 本地使用浏览器访问 [`https://](https://IP)内网IP` ，并忽略证书错误，即可使用
-6. 给远程浏览器安装插件以 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md) 
+6. 给远程浏览器安装插件以 [解除浏览器跨域限制](../解除浏览器跨域限制.md) 
 7. 申请交易所 API 时的 IP 白名单，要填在云服务后台看到的公网 IP，而不是 Tailscale 里的内网 IP
 
 ## 与 Signer 配合使用
@@ -50,7 +50,7 @@
 1. 提前准备好`keychain.toml`文件，再运行安装命令
 2. 安装成功后，右键退出全屏模式，访问 `chrome://certificate-manager/localcerts/usercerts` 添加位于`/home/taoli/cert`中的`CERT.pem`证书
     
-    ![image.png](Linux%20Server/image%201.png)
+    ![image.png](Linux Server/image 1.png)
     
 3. SIgner URL 为：`https://signer`
 

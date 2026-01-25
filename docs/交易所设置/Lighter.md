@@ -11,21 +11,21 @@
     
 3. 签名两次后，复制“Private Key”
     
-    ![image.png](Lighter/image%201.png)
+    ![image.png](Lighter/image 1.png)
     
 4. 打开 [https://app.lighter.xyz/read-only-tokens/](https://app.lighter.xyz/read-only-tokens/)
 5. 点击 Generate Read-Only Token，填写一些参数，点击 Generate
     
-    ![image.png](Lighter/image%202.png)
+    ![image.png](Lighter/image 2.png)
     
 6. 点击右侧按钮复制 Token
     
-    ![image.png](Lighter/image%203.png)
+    ![image.png](Lighter/image 3.png)
     
 
 1. 填写参数，添加 Lighter 交易所
     
-    ![image.png](Lighter/image%204.png)
+    ![image.png](Lighter/image 4.png)
     
 - Address：[https://app.lighter.xyz/trade/ETH](https://app.lighter.xyz/trade/ETH) 网页右上角的 Address
 - API Private Key：第 3 步中的 Private Key

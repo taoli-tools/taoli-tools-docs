@@ -7,7 +7,7 @@
 邀请链接：[https://www.gatenode.xyz/share/taolitoo](https://www.gatenode.xyz/share/taolitoo)
 
 > [!WARNING]
-> 因 Gate API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md)
+> 因 Gate API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../解除浏览器跨域限制.md)
 
 > [!WARNING]
 > Gate 杠杆交易有 bug：有一定概率不能自动借币，重试就可以；还有一定概率不能自动还币，需要手动还币
@@ -25,10 +25,10 @@
 5. 打开 API Key 管理页面：[https://www.gate.io/myaccount/api_key_manage](https://www.gate.io/myaccount/api_key_manage)
 6. 点击创建 API Key，按照下图设置。
     
-    ![image.png](Gate/image%201.png)
+    ![image.png](Gate/image 1.png)
     
 7. 如果下单时遇到额度限制（RISK_LIMIT_EXCEEDED），可以在下图位置调整风险限额。
     
-    ![image.png](Gate/image%202.png)
+    ![image.png](Gate/image 2.png)
     
 8. Gate 市价买入现货（或现货杠杆）传入的参数是 U 的数量，而不是币的数量，所以可能会导致实际成交数量和设置的 Size 略微有些出入。

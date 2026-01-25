@@ -28,9 +28,9 @@ EVM Router 是 Taoli Tools 自研的简易路由器，支持多个 EVM 链上的
 
 设置说明：
 
-![image.png](EVM%20Router/image.png)
+![image.png](EVM Router/image.png)
 
-1. 通过 Wallet Type 来选择使用助记词、私钥、或 [Taoli Tools Signer](../Taoli%20Tools%20Signer.md) 作为钱包
+1. 通过 Wallet Type 来选择使用助记词、私钥、或 [Taoli Tools Signer](../Taoli Tools Signer.md) 作为钱包
 2. 有些协议需要填入 [Subgraph API Key](https://thegraph.com/studio/apikeys/) 才会启用
 3. 点击 Save，如无报错，则会以绿色数字显示全链 U 余额的总和，点击数字查看详情
 
@@ -40,5 +40,5 @@ EVM Router 是 Taoli Tools 自研的简易路由器，支持多个 EVM 链上的
 - 首次交易某个 ERC20 Token 时候会自动 Approve Unlimited 给对应的合约。
     - 对于支持 Permit2 的合约，则会 Approve Unlimited 给 Permit2
 - Pair 的 Size 参数的改变会影响报价，从而影响差价。不填 Size 默认是 100。
-- [DEX 常见问题](../DEX%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)
-- [Taoli Tools Signer](../Taoli%20Tools%20Signer.md)
+- [DEX 常见问题](../DEX常见问题.md)
+- [Taoli Tools Signer](../Taoli Tools Signer.md)

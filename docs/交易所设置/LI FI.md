@@ -9,7 +9,7 @@ LI.FI 支持的链：[https://li.quest/v1/chains?chainTypes=EVM,SVM,MVM](https:/
 3. 在对应链的钱包中存入对应的 gas，存入 USDC 或 USDT 作为资金。
 4. 设置说明：
     
-    ![image.png](LI%20FI/image.png)
+    ![image.png](LI FI/image.png)
     
     1. API Key：申请网址 [https://portal.li.fi/integrations](https://portal.li.fi/integrations)
         - 如果不填，单 IP 限速每分钟 200 个请求
@@ -26,5 +26,5 @@ LI.FI 支持的链：[https://li.quest/v1/chains?chainTypes=EVM,SVM,MVM](https:/
 - 只支持市价单，不支持限价单，选择限价单时仍然是下市价单。
 - 首次交易某个 ERC20 Token 时候会自动 Approve Unlimited 给 [Li.Fi Diamond 合约](https://docs.li.fi/introduction/lifi-architecture/smart-contract-addresses)。
 - Pair 的 Size 参数的改变会影响报价，从而影响差价。不填 Size 默认是 100。
-- [DEX 常见问题](../DEX%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)
-- [Taoli Tools Signer](../Taoli%20Tools%20Signer.md)
+- [DEX 常见问题](../DEX常见问题.md)
+- [Taoli Tools Signer](../Taoli Tools Signer.md)

@@ -13,4 +13,4 @@
     
 3. 点击右上角小齿轮，设置持仓模式为“单向持仓”
     
-    ![image.png](Aster/image%201.png)
+    ![image.png](Aster/image 1.png)

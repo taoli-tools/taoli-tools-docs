@@ -56,40 +56,40 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 
 | **CEX** | 永续合约 | 现货 | 现货杠杆 |
 | --- | --- | --- | --- |
-| [Binance](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Binance.md) | ✅ | ✅ | ✅ |
-| [Coinbase](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Coinbase.md) | ✅ | ✅ |  |
-| [Bybit](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Bybit.md) | ✅ | ✅ | ✅ |
-| [OKX](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/OKX.md) | ✅ | ✅ |  |
-| [Bitget](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Bitget.md) | ✅ | ✅ | ✅ |
-| [Backpack](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Backpack.md) | ✅ | ✅ | ✅ |
-| [Gate](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Gate.md) | ✅ | ✅ | ✅ |
-| [KuCoin](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/KuCoin.md) | ✅ | ✅ |  |
-| [MEXC](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/MEXC.md) |  | ✅ |  |
+| [Binance](交易所设置/Binance.md) | ✅ | ✅ | ✅ |
+| [Coinbase](交易所设置/Coinbase.md) | ✅ | ✅ |  |
+| [Bybit](交易所设置/Bybit.md) | ✅ | ✅ | ✅ |
+| [OKX](交易所设置/OKX.md) | ✅ | ✅ |  |
+| [Bitget](交易所设置/Bitget.md) | ✅ | ✅ | ✅ |
+| [Backpack](交易所设置/Backpack.md) | ✅ | ✅ | ✅ |
+| [Gate](交易所设置/Gate.md) | ✅ | ✅ | ✅ |
+| [KuCoin](交易所设置/KuCoin.md) | ✅ | ✅ |  |
+| [MEXC](交易所设置/MEXC.md) |  | ✅ |  |
 
 | **Perp DEX** | 永续合约 | 现货 |
 | --- | --- | --- |
-| [Hyperliquid](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Hyperliquid.md) | ✅ | ✅ |
-| [Aster](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Aster.md) | ✅ | ✅ |
-| [Lighter](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Lighter.md) | ✅ | ✅ |
-| [Grvt](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Grvt.md) | ✅ |  |
-| [Ethereal](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Ethereal.md) | ✅ |  |
-| [Paradex](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Paradex.md) | ✅ |  |
-| [Pacifica](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Pacifica.md) | ✅ |  |
-| [Extended](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Extended.md) | ✅ |  |
-| [StandX](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/StandX.md) | ✅ |  |
-| [Apex Omni](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Apex%20Omni.md) | ✅ |  |
+| [Hyperliquid](交易所设置/Hyperliquid.md) | ✅ | ✅ |
+| [Aster](交易所设置/Aster.md) | ✅ | ✅ |
+| [Lighter](交易所设置/Lighter.md) | ✅ | ✅ |
+| [Grvt](交易所设置/Grvt.md) | ✅ |  |
+| [Ethereal](交易所设置/Ethereal.md) | ✅ |  |
+| [Paradex](交易所设置/Paradex.md) | ✅ |  |
+| [Pacifica](交易所设置/Pacifica.md) | ✅ |  |
+| [Extended](交易所设置/Extended.md) | ✅ |  |
+| [StandX](交易所设置/StandX.md) | ✅ |  |
+| [Apex Omni](交易所设置/Apex Omni.md) | ✅ |  |
 
 | **DEX** | 现货 |
 | --- | --- |
-| [OKX DEX](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/OKX%20DEX.md) | ✅ |
-| [Li.FI](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/LI%20FI.md) | ✅ |
-| [EVM Router](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/EVM%20Router.md) | ✅ |
-| [Jupiter](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Jupiter.md) | ✅ |
-| [1inch](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/1inch.md) | ✅ |
-| [Uniswap V3](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Uniswap%20V3.md) | ✅ |
-| [PancakeSwap V3](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/PancakeSwap%20V3.md) | ✅ |
-| [Odos](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Odos.md) | ✅ |
-| [Hyperion](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Hyperion.md) | ✅ |
+| [OKX DEX](交易所设置/OKX DEX.md) | ✅ |
+| [Li.FI](交易所设置/LI FI.md) | ✅ |
+| [EVM Router](交易所设置/EVM Router.md) | ✅ |
+| [Jupiter](交易所设置/Jupiter.md) | ✅ |
+| [1inch](交易所设置/1inch.md) | ✅ |
+| [Uniswap V3](交易所设置/Uniswap V3.md) | ✅ |
+| [PancakeSwap V3](交易所设置/PancakeSwap V3.md) | ✅ |
+| [Odos](交易所设置/Odos.md) | ✅ |
+| [Hyperion](交易所设置/Hyperion.md) | ✅ |
 
 ## 支持的区块链
 
@@ -144,7 +144,7 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 
 VIP2 及以上可以进付费群。
 
-VIP 权益详细区别请参考 [VIP 等级区别及价格](VIP%E7%AD%89%E7%BA%A7%E5%8C%BA%E5%88%AB%E5%8F%8A%E4%BB%B7%E6%A0%BC.md)
+VIP 权益详细区别请参考 [VIP 等级区别及价格](VIP等级区别及价格.md)
 
 资金额：对于现货账户和链上，只算 U。对于统一/杠杆/合约账户，算的是账户总权益。
 
