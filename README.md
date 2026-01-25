@@ -9,13 +9,16 @@
 npm install
 
 # 启动本地开发服务器
-npm run docs:dev
+npm run dev
 
 # 构建生产版本
-npm run docs:build
+npm run build
 
 # 预览构建结果
-npm run docs:preview
+npm run preview
+
+# 部署到 GitHub Pages
+npm run deploy
 ```
 
 ## 链接
@@ -23,7 +26,3 @@ npm run docs:preview
 - 官网: https://taoli.tools
 - Telegram: https://t.me/taoli_tools
 - X: https://x.com/taoli_tools
-
-## 许可
-
-版权所有 © Taoli Tools
