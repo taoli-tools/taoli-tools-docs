@@ -1,0 +1,17 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect y="16" width="16" height="16" fill="transparent"/>
+<rect x="16" width="16" height="16" fill="transparent"/>
+<rect x="16" y="16" width="16" height="16" fill="transparent"/>
+<rect width="16" height="16" fill="transparent"/>
+<rect x="2" y="23" width="12" height="2" fill="oklch(63.7% 0.237 25.331)"/>
+<path d="M25 7H30V9H25V14H23V9H18V7H23V2H25V7Z" fill="oklch(72.3% 0.219 149.579)"/>
+<path d="M27 20H22V23H27V25H22V28H27V30H19V28H20V25H19V23H20V20H19V18H27V20ZM29 28H27V25H29V28ZM29 23H27V20H29V23Z" fill="oklch(79.5% 0.184 86.047)"/>
+<path d="M4 8H12V6H14V14H12V10H4V14H2V6H4V8ZM6 6H4V4H6V6ZM12 6H10V4H12V6ZM10 4H6V2H10V4Z" fill="oklch(62.3% 0.214 259.815)"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="32" height="32" />
+</clipPath>
+</defs>
+</svg>

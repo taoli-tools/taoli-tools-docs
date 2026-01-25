@@ -9,6 +9,11 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: {
+      light: '/logo-light.svg',
+      dark: '/logo-dark.svg'
+    },
+
     nav: [
       { text: '首页', link: '/' },
       { text: '官网', link: 'https://taoli.tools' },
