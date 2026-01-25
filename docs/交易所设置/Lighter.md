@@ -1,10 +1,8 @@
 # Lighter
 
-邀请码：TAOLI
+邀请码：`TAOLI`
 
-邀请链接：
-
-[](https://app.lighter.xyz/trade/ETH?referral=TAOLI)
+邀请链接：[https://app.lighter.xyz/trade/ETH?referral=TAOLI](https://app.lighter.xyz/trade/ETH?referral=TAOLI)
 
 1. 打开“API Keys“页面 [https://app.lighter.xyz/apikeys](https://app.lighter.xyz/apikeys)
 2. 点击“Generate API Key”，输入 API Key Index，点击”Generate”

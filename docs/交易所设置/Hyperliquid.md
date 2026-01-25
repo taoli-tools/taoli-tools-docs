@@ -2,11 +2,9 @@
 
 返佣：4%
 
-邀请码：ALIEZ
+邀请码：`ALIEZ`
 
-邀请链接：
-
-[Hyperliquid](https://app.hyperliquid.xyz/join/ALIEZ)
+邀请链接：[https://app.hyperliquid.xyz/join/ALIEZ](https://app.hyperliquid.xyz/join/ALIEZ)
 
 1. 打开“API”页面 [https://app.hyperliquid.xyz/API](https://app.hyperliquid.xyz/API)
 2. 输入“API 钱包的名称”，点击“生成”，然后点击”授权 API 钱包”

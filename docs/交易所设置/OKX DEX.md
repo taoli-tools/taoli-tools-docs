@@ -2,11 +2,9 @@
 
 返佣：20%
 
-邀请码：TAOLI
+邀请码：`TAOLI`
 
-邀请链接：
-
-[Web3 Invitation Landing Page](https://web3.okx.com/join/TAOLI)
+邀请链接：[https://web3.okx.com/join/TAOLI](https://web3.okx.com/join/TAOLI)
 
 OKX DEX 支持的链：[https://web3.okx.com/build/dev-docs/wallet-api/supported-chain](https://web3.okx.com/build/dev-docs/wallet-api/supported-chain)
 

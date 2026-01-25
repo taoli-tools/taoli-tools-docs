@@ -2,11 +2,9 @@
 
 返佣：合约 64%，现货 60%。注册后把 Gate UID 发给我，并在 App 里确认升级为超级代理，即可登记返佣。（在任何交易所交易量大的，发我截图，合约比例可以提高到 70%）（使用 API 下单时，合约 44%，现货 40%）
 
-邀请码：TAOLITOO
+邀请码：`TAOLITOO`
 
-邀请链接：
-
-[](https://www.gatenode.xyz/share/taolitoo)
+邀请链接：[https://www.gatenode.xyz/share/taolitoo](https://www.gatenode.xyz/share/taolitoo)
 
 > [!WARNING]
 > 因 Gate API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md)

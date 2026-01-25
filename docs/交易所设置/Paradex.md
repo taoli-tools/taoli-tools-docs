@@ -1,12 +1,10 @@
 # Paradex
 
-邀请码：taoli
+邀请码：`taoli`
 
 14% 额外积分加成
 
-邀请链接：
-
-[Paradex](https://app.paradex.trade/r/taoii)
+邀请链接：[https://app.paradex.trade/r/taoii](https://app.paradex.trade/r/taoii)
 
 - 打开“钱包”弹窗，复制“Paradex 地址”，填到“Address”中
     

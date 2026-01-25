@@ -2,17 +2,13 @@
 
 返佣：现货 50%，合约 60%。注册后把 Bitget UID 发给我，我在后台给你升级为子代理后，即可登记返佣。（使用 API 下单时，合约 50%）
 
-邀请码：taoli888
+邀请码：`taoli888`
 
-邀请链接：
+邀请链接：[https://partner.bitget.xyz/bg/jhyb565e](https://partner.bitget.xyz/bg/jhyb565e)
 
-[在 Bitget 注册以获得最高 6,200 USDT 的奖金 | Bitget](https://partner.bitget.xyz/bg/jhyb565e)
+Bitget Wallet Card 邀请码：`1t5Nzd`
 
-Bitget Wallet Card 邀请码：1t5Nzd
-
-邀请链接：
-
-[Experience Bitget Wallet today](https://web3.bitget.com/invite/card/1t5Nzd)
+邀请链接：[https://web3.bitget.com/invite/card/1t5Nzd](https://web3.bitget.com/invite/card/1t5Nzd)
 
 > [!WARNING]
 > 因 Bitget API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md)

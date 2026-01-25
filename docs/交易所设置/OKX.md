@@ -2,11 +2,9 @@
 
 返佣：20% 自动+6% 手动
 
-邀请码：TAOLITOOLS
+邀请码：`TAOLITOOLS`
 
-邀请链接：
-
-[Earn rewards when you get started on OKX | My referral code: taolitools](https://www.firgrouxywebb.com/join/TAOLITOOLS)
+邀请链接：[https://www.firgrouxywebb.com/join/TAOLITOOLS](https://www.firgrouxywebb.com/join/TAOLITOOLS)
 
 1. 在 [https://www.okx.com/trade-swap/btc-usdt-swap](https://www.okx.com/trade-swap/btc-usdt-swap) 页面右上角点击小齿轮“交易设置”
 2. 切换“账户模式”为“合约模式”或“进阶模式”中的“跨币种保证金”或“组合保证金”。

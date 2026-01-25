@@ -1,10 +1,8 @@
 # Ethereal
 
-邀请码：XK0YCAFN6OXU
+邀请码：`XK0YCAFN6OXU`
 
-邀请链接：
-
-[Unlock institutional-grade perpetual trading with deep liquidity and stable funding.](https://app.ethereal.trade/?ref=XK0YCAFN6OXU)
+邀请链接：[https://app.ethereal.trade/?ref=XK0YCAFN6OXU](https://app.ethereal.trade/?ref=XK0YCAFN6OXU)
 
 1. 打开 [https://app.ethereal.trade/trade/BTCUSD](https://app.ethereal.trade/trade/BTCUSD) 页面，签名 Enable One-Click Trading
 

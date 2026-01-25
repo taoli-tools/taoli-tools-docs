@@ -2,11 +2,9 @@
 
 返佣：现货 40%，合约 30%。积分最高 1.5 倍加成（等车队交易量达到 50MU）
 
-邀请码：TAOLI
+邀请码：`TAOLI`
 
-邀请链接：
-
-[ApeX Omni](https://join.omni.apex.exchange/TAOLI)
+邀请链接：[https://join.omni.apex.exchange/TAOLI](https://join.omni.apex.exchange/TAOLI)
 
 - 前往 [https://omni.apex.exchange/keyManagement](https://omni.apex.exchange/keyManagement) 生成私钥
 - 点击“创建 API”，生成

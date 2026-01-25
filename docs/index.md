@@ -56,40 +56,40 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 
 | **CEX** | 永续合约 | 现货 | 现货杠杆 |
 | --- | --- | --- | --- |
-| [Binance](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Binance.md) | ✅ | ✅ | ✅ |
-| [Coinbase](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Coinbase.md) | ✅ | ✅ |  |
-| [Bybit](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Bybit.md) | ✅ | ✅ | ✅ |
-| [OKX](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/OKX.md) | ✅ | ✅ |  |
-| [Bitget](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Bitget.md) | ✅ | ✅ | ✅ |
-| [Backpack](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Backpack.md) | ✅ | ✅ | ✅ |
-| [Gate](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Gate.md) | ✅ | ✅ | ✅ |
-| [KuCoin](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/KuCoin.md) | ✅ | ✅ |  |
-| [MEXC](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/MEXC.md) |  | ✅ |  |
+| [Binance](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Binance.md) | ✅ | ✅ | ✅ |
+| [Coinbase](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Coinbase.md) | ✅ | ✅ |  |
+| [Bybit](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Bybit.md) | ✅ | ✅ | ✅ |
+| [OKX](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/OKX.md) | ✅ | ✅ |  |
+| [Bitget](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Bitget.md) | ✅ | ✅ | ✅ |
+| [Backpack](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Backpack.md) | ✅ | ✅ | ✅ |
+| [Gate](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Gate.md) | ✅ | ✅ | ✅ |
+| [KuCoin](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/KuCoin.md) | ✅ | ✅ |  |
+| [MEXC](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/MEXC.md) |  | ✅ |  |
 
 | **Perp DEX** | 永续合约 | 现货 |
 | --- | --- | --- |
-| [Hyperliquid](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Hyperliquid.md) | ✅ | ✅ |
-| [Aster](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Aster.md) | ✅ | ✅ |
-| [Lighter](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Lighter.md) | ✅ | ✅ |
-| [Grvt](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Grvt.md) | ✅ |  |
-| [Ethereal](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Ethereal.md) | ✅ |  |
-| [Paradex](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Paradex.md) | ✅ |  |
-| [Pacifica](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Pacifica.md) | ✅ |  |
-| [Extended](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Extended.md) | ✅ |  |
-| [StandX](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/StandX.md) | ✅ |  |
-| [Apex Omni](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Apex%20Omni.md) | ✅ |  |
+| [Hyperliquid](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Hyperliquid.md) | ✅ | ✅ |
+| [Aster](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Aster.md) | ✅ | ✅ |
+| [Lighter](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Lighter.md) | ✅ | ✅ |
+| [Grvt](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Grvt.md) | ✅ |  |
+| [Ethereal](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Ethereal.md) | ✅ |  |
+| [Paradex](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Paradex.md) | ✅ |  |
+| [Pacifica](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Pacifica.md) | ✅ |  |
+| [Extended](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Extended.md) | ✅ |  |
+| [StandX](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/StandX.md) | ✅ |  |
+| [Apex Omni](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Apex%20Omni.md) | ✅ |  |
 
 | **DEX** | 现货 |
 | --- | --- |
-| [OKX DEX](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/OKX%20DEX.md) | ✅ |
-| [Li.FI](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/LI%20FI.md) | ✅ |
-| [EVM Router](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/EVM%20Router.md) | ✅ |
-| [Jupiter](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Jupiter.md) | ✅ |
-| [1inch](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/1inch.md) | ✅ |
-| [Uniswap V3](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Uniswap%20V3.md) | ✅ |
-| [PancakeSwap V3](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/PancakeSwap%20V3.md) | ✅ |
-| [Odos](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Odos.md) | ✅ |
-| [Hyperion](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Hyperion.md) | ✅ |
+| [OKX DEX](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/OKX%20DEX.md) | ✅ |
+| [Li.FI](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/LI%20FI.md) | ✅ |
+| [EVM Router](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/EVM%20Router.md) | ✅ |
+| [Jupiter](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Jupiter.md) | ✅ |
+| [1inch](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/1inch.md) | ✅ |
+| [Uniswap V3](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Uniswap%20V3.md) | ✅ |
+| [PancakeSwap V3](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/PancakeSwap%20V3.md) | ✅ |
+| [Odos](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Odos.md) | ✅ |
+| [Hyperion](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE/Hyperion.md) | ✅ |
 
 ## 支持的区块链
 

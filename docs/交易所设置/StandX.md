@@ -1,10 +1,8 @@
 # StandX
 
-邀请码：TaoliTools
+邀请码：`TaoliTools`
 
-邀请链接：
-
-[StandX Perps - Yield-Earning $DUSD Margin Trading](https://standx.com/referral?code=TaoliTools)
+邀请链接：[https://standx.com/referral?code=TaoliTools](https://standx.com/referral?code=TaoliTools)
 
 ![image.png](StandX/image.png)
 

@@ -2,11 +2,9 @@
 
 返佣：33% 自动+13% 手动
 
-邀请码：TAOLI888
+邀请码：`TAOLI888`
 
-邀请链接：
-
-[partner.bybit.com](https://partner.bybit.com/b/TAOLI888)
+邀请链接：[https://partner.bybit.com/b/TAOLI888](https://partner.bybit.com/b/TAOLI888)
 
 1. 进入统一账户设置页面 [https://www.bybit.com/user/assets/home/tradingaccount](https://www.bybit.com/user/assets/home/tradingaccount)
 2. 点击标题右侧的按钮，切换保证金模式为”全仓保证金”或“组合保证金
