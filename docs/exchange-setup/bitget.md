@@ -21,16 +21,16 @@ Bitget Wallet Card 邀请码：`1t5Nzd`
 3. 按照下图设置。持仓模式：单向持仓。
 4. USDC 合约和 U 本位合约要分别设置，都只支持单向持仓。
     
-    ![image.png](Bitget/3b82b06d-5be1-4246-a1f4-87e46632f20f.png)
+    ![image.png](bitget/3b82b06d-5be1-4246-a1f4-87e46632f20f.png)
     
 5. 在“API 密钥”页面 [https://www.bitget.com/account/newapi](https://www.bitget.com/account/newapi) 点击“新建 API Key”
 6. 选择“系统生成的 API 密钥”
     
-    ![image.png](Bitget/image.png)
+    ![image.png](bitget/image.png)
     
 7. 按照图中的进行勾选
     
-    ![image.png](Bitget/image-1.png)
+    ![image.png](bitget/image-1.png)
     
 8. Bitget 市价买入现货（或现货杠杆）传入的参数是 U 的数量，而不是币的数量，所以可能会导致实际成交数量和设置的 Size 略微有些出入。
 9. 暂不支持 Bitget 统一账户

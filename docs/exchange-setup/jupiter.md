@@ -8,7 +8,7 @@
 4. Quote Interval：询价间隔。不填 API Key 的情况下最小为 1000，填之后最小值为 100。
 5. Enable Exact Out：如果勾选，则在买入的时候使用 [ExactOut 模式](https://dev.jup.ag/docs/swap-api/payments-through-swap#2-set-swapmode-to-exactout-in-quote)，卖出则始终是 ExactIn 模式。
     
-    ![image.png](Jupiter/image.png)
+    ![image.png](jupiter/image.png)
     
 
 ## 限制及注意事项

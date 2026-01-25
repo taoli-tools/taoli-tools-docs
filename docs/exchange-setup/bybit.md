@@ -9,18 +9,18 @@
 1. 进入统一账户设置页面 [https://www.bybit.com/user/assets/home/tradingaccount](https://www.bybit.com/user/assets/home/tradingaccount)
 2. 点击标题右侧的按钮，切换保证金模式为”全仓保证金”或“组合保证金
 
-![image.png](Bybit/image.png)
+![image.png](bybit/image.png)
 
-![image.png](Bybit/image-1.png)
+![image.png](bybit/image-1.png)
 
 1. 打开”API 管理”页面 [https://www.bybit.com/app/user/api-management](https://www.bybit.com/app/user/api-management)
 2. 点击”新建密钥”，选择“系统生成的 API 密钥”
     
-    ![image.png](Bybit/image-2.png)
+    ![image.png](bybit/image-2.png)
     
 3. 选择“读写权限”，勾选“统一交易账户”中的全部四个选项，然后提交
     
-    ![image.png](Bybit/image-3.png)
+    ![image.png](bybit/image-3.png)
     
 4. Bybit 慎用市价单
     
