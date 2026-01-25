@@ -3,12 +3,25 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Taoli Tools 使用手册",
-  description: "Taoli Tools 半自动化对冲套利工具使用手册",
+  description: "Taoli Tools 半自动化 U 本位对冲套利工具使用手册",
   base: '/',
   srcDir: 'docs',
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
-    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    // Open Graph
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'Taoli Tools 使用手册' }],
+    ['meta', { property: 'og:description', content: 'Taoli Tools 半自动化 U 本位对冲套利工具使用手册' }],
+    ['meta', { property: 'og:url', content: 'https://docs.taoli.tools' }],
+    ['meta', { property: 'og:image', content: 'https://docs.taoli.tools/og-image.png' }],
+    ['meta', { property: 'og:image:width', content: '1200' }],
+    ['meta', { property: 'og:image:height', content: '630' }],
+    // Twitter Card
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'Taoli Tools 使用手册' }],
+    ['meta', { name: 'twitter:description', content: 'Taoli Tools 半自动化 U 本位对冲套利工具使用手册' }],
+    ['meta', { name: 'twitter:image', content: 'https://docs.taoli.tools/og-image.png' }]
   ],
   sitemap: {
     hostname: 'https://docs.taoli.tools'
