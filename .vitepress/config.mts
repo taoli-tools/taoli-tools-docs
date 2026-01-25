@@ -6,6 +6,10 @@ export default defineConfig({
   description: "Taoli Tools 半自动化对冲套利工具使用手册",
   base: '/',
   srcDir: 'docs',
+  head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
+  ],
   sitemap: {
     hostname: 'https://docs.taoli.tools'
   },

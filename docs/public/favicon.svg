@@ -1,0 +1,38 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .text-red { fill: white; }
+  .text-green { fill: white; }
+  .text-yellow { fill: white; }
+  .text-blue { fill: white; }
+  .bg-red { fill: oklch(63.7% 0.237 25.331); }
+  .bg-green { fill: oklch(72.3% 0.219 149.579); }
+  .bg-yellow { fill: oklch(79.5% 0.184 86.047); }
+  .bg-blue { fill: oklch(62.3% 0.214 259.815); }
+
+  @media (prefers-color-scheme: dark) {
+    .text-red { fill: oklch(63.7% 0.237 25.331); }
+    .text-green { fill: oklch(72.3% 0.219 149.579); }
+    .text-yellow { fill: oklch(79.5% 0.184 86.047); }
+    .text-blue { fill: oklch(62.3% 0.214 259.815); }
+    .bg-red { fill: transparent; }
+    .bg-green { fill: transparent; }
+    .bg-yellow { fill: transparent; }
+    .bg-blue { fill: transparent; }
+  }
+</style>
+<g clip-path="url(#clip0)">
+<rect y="16" width="16" height="16" class="bg-red"/>
+<rect x="16" width="16" height="16" class="bg-green"/>
+<rect x="16" y="16" width="16" height="16" class="bg-yellow"/>
+<rect width="16" height="16" class="bg-blue"/>
+<rect x="2" y="23" width="12" height="2" class="text-red"/>
+<path d="M25 7H30V9H25V14H23V9H18V7H23V2H25V7Z" class="text-green"/>
+<path d="M27 20H22V23H27V25H22V28H27V30H19V28H20V25H19V23H20V20H19V18H27V20ZM29 28H27V25H29V28ZM29 23H27V20H29V23Z" class="text-yellow"/>
+<path d="M4 8H12V6H14V14H12V10H4V14H2V6H4V8ZM6 6H4V4H6V6ZM12 6H10V4H12V6ZM10 4H6V2H10V4Z" class="text-blue"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="32" height="32" />
+</clipPath>
+</defs>
+</svg>
