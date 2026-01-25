@@ -14,19 +14,11 @@ Bitget Wallet Card邀请码：1t5Nzd
 
 [Experience Bitget Wallet today](https://web3.bitget.com/invite/card/1t5Nzd)
 
-<aside>
-🚨
+> [!WARNING]
+> 因Bitget API限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md)
 
-因Bitget API限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md)
-
-</aside>
-
-<aside>
-🚨
-
-暂不支持Bitget统一账户
-
-</aside>
+> [!WARNING]
+> 暂不支持Bitget统一账户
 
 1. 打开一个合约，比如 [https://www.bitget.comfutures/usdt/BTCUSDT](https://www.bitget.com/futures/usdt/BTCUSDT)
 2. 点击右侧齿轮按钮

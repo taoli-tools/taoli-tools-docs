@@ -8,19 +8,11 @@
 
 [](https://www.gatenode.xyz/share/taolitoo)
 
-<aside>
-🚨
+> [!WARNING]
+> 因Gate API限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md)
 
-因Gate API限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md) 
-
-</aside>
-
-<aside>
-🚨
-
-Gate杠杆交易有bug：有一定概率不能自动借币，重试就可以；还有一定概率不能自动还币，需要手动还币
-
-</aside>
+> [!WARNING]
+> Gate杠杆交易有bug：有一定概率不能自动借币，重试就可以；还有一定概率不能自动还币，需要手动还币
 
 1. 首先升级到统一账户：[https://www.gate.io/myaccount/myfunds/spot](https://www.gate.io/myaccount/myfunds/spot)
     

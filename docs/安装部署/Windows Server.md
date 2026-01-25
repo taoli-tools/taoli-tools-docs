@@ -42,12 +42,8 @@
 
 ## 修改默认用户名和端口
 
-<aside>
-🚨
-
-默认用户名Administrator和默认端口3389会被很多黑客频繁尝试密码，导致账户被锁。因此建议修改。
-
-</aside>
+> [!WARNING]
+> 默认用户名Administrator和默认端口3389会被很多黑客频繁尝试密码，导致账户被锁。因此建议修改。
 
 [Windows 服务器怎么修改密码和用户名？服务器修改密码需要重启吗？-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2364143)
 

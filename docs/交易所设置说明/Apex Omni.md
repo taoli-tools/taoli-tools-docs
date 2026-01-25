@@ -16,11 +16,7 @@
 - 点击“Omni Key”，复制
     - Omni Key Seed
 
-<aside>
-🚨
-
-Omni Key Seed 有提款权限，但也是交易API必须的，没办法，必须填。
-并且 Omni Key Seed 无法被 Revoke
-[https://api-docs.pro.apex.exchange/#general-2-zkkeys-signature](https://api-docs.pro.apex.exchange/#general-2-zkkeys-signature)
-
-</aside>
+> [!WARNING]
+> Omni Key Seed 有提款权限，但也是交易API必须的，没办法，必须填。
+> 并且 Omni Key Seed 无法被 Revoke
+> [https://api-docs.pro.apex.exchange/#general-2-zkkeys-signature](https://api-docs.pro.apex.exchange/#general-2-zkkeys-signature)

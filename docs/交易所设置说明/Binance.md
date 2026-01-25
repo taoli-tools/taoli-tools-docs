@@ -8,12 +8,8 @@
 
 [Join Binance | Bitcoin & Ethereum Cryptocurrency Trading Platform](https://www.bmwweb.ac/join?ref=TAOLITOOLS)
 
-<aside>
-🚨
-
-因Binance API限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md) 
-
-</aside>
+> [!WARNING]
+> 因Binance API限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md)
 
 1. 打开“API管理“页面 [https://www.binance.com/my/settings/api-management](https://www.binance.com/my/settings/api-management)
 2. 点击“创建API”，类型选择“系统生成”

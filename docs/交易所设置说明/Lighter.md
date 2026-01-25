@@ -35,9 +35,5 @@
 - Account Index：[https://app.lighter.xyz/sub-accounts](https://app.lighter.xyz/sub-accounts?locale=zh) 网页中主/子账户的位置，主账户是0，子账户从1开始数
 - API Key Index：第3步中的API Key Index
 
-<aside>
-💡
-
-如果一个pair中的A和B都是Lighter的同一个账户，那么同时下单会导致nonce冲突。解决方式：A和B使用两个不同的API Key
-
-</aside>
+> [!TIP]
+> 如果一个pair中的A和B都是Lighter的同一个账户，那么同时下单会导致nonce冲突。解决方式：A和B使用两个不同的API Key

@@ -6,12 +6,8 @@
 
 [Start trading on Coinbase using this link and earn rewards](https://advanced.coinbase.com/join/6ZX9X5P)
 
-<aside>
-🚨
-
-因Coinbase API限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md) 
-
-</aside>
+> [!WARNING]
+> 因Coinbase API限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md)
 
 1. 在 [https://www.coinbase.com/home](https://www.coinbase.com/home) 页面左下角，打开Coinbase Advanced。
     

@@ -1,11 +1,7 @@
 # Linux Server
 
-<aside>
-🚨
-
-没有Linux使用经验的，不建议使用Linux Server
-
-</aside>
+> [!WARNING]
+> 没有Linux使用经验的，不建议使用Linux Server
 
 ## Vultr
 
@@ -32,12 +28,8 @@
 
 ## 安装
 
-<aside>
-🚨
-
-建议使用全新的系统安装，否则可能会对正在运行的Docker Container造成影响
-
-</aside>
+> [!WARNING]
+> 建议使用全新的系统安装，否则可能会对正在运行的Docker Container造成影响
 
 1. 使用命令一键安装 `curl -fsSL https://taoli.tools/setup | sh`
     
@@ -52,12 +44,8 @@
 
 ## 与Signer配合使用
 
-<aside>
-💡
-
-Container和Signer已经集成，因此无需查看Signer的GitHub教程
-
-</aside>
+> [!TIP]
+> Container和Signer已经集成，因此无需查看Signer的GitHub教程
 
 1. 提前准备好`keychain.toml`文件，再运行安装命令
 2. 安装成功后，右键退出全屏模式，访问 `chrome://certificate-manager/localcerts/usercerts` 添加位于`/home/taoli/cert`中的`CERT.pem`证书
