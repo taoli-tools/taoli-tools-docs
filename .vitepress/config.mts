@@ -6,7 +6,9 @@ export default defineConfig({
   description: "Taoli Tools 半自动化对冲套利工具使用手册",
   base: '/',
   srcDir: 'docs',
-
+  sitemap: {
+    hostname: 'https://docs.taoli.tools'
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: {
