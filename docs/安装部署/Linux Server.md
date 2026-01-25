@@ -9,7 +9,7 @@
 
 [SSD VPS Servers, Cloud Servers and Cloud Hosting](https://www.vultr.com/?ref=9717991-9J)
 
-1. 前往 [https://my.vultr.com/deploy-beta/](https://my.vultr.com/deploy-beta/) 页面购买服务器，建议至少选择2C4G，位于日本东京的服务器，可以关闭自动备份功能省钱
+1. 前往 [https://my.vultr.com/deploy-beta/](https://my.vultr.com/deploy-beta/) 页面购买服务器，建议至少选择 2C4G，位于日本东京的服务器，可以关闭自动备份功能省钱
     
     ![image.png](Linux%20Server/2076a148-b226-41cd-9e73-0a3df73bcf24.png)
     
@@ -36,8 +36,8 @@
     [GitHub - taoli-tools/taoli-tools-container](https://github.com/taoli-tools/taoli-tools-container)
     
 2. 根据命令行里的提示，扫码或复制链接登录 Tailscale
-3. 在[Tailscale Console](https://login.tailscale.com/admin/machines)中查看机器运行状态，复制机器的`内网IP`
-4. 本地安装[Tailscale Client](https://tailscale.com/download)并运行
+3. 在 [Tailscale Console](https://login.tailscale.com/admin/machines) 中查看机器运行状态，复制机器的`内网IP`
+4. 本地安装 [Tailscale Client](https://tailscale.com/download) 并运行
 5. 本地使用浏览器访问 [`https://](https://IP)内网IP` ，并忽略证书错误，即可使用
 6. 给远程浏览器安装插件以 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md) 
 7. 申请交易所 API 时的 IP 白名单，要填在云服务后台看到的公网 IP，而不是 Tailscale 里的内网 IP

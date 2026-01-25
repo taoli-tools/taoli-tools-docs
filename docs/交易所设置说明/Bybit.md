@@ -16,7 +16,7 @@
 ![image.png](Bybit/image%201.png)
 
 1. 打开”API 管理”页面 [https://www.bybit.com/app/user/api-management](https://www.bybit.com/app/user/api-management)
-2. 点击”新建密钥”，选择“系统生成的API密钥”
+2. 点击”新建密钥”，选择“系统生成的 API 密钥”
     
     ![image.png](Bybit/image%202.png)
     

@@ -6,7 +6,7 @@
     
     [云小站_专享特惠_云产品推荐-阿里云](https://www.aliyun.com/minisite/goods?userCode=a3nb4tbw)
     
-    [轻量应用服务器_web服务器_个人建站_弹性计算-阿里云](https://cn.aliyun.com/product/swas?userCode=a3nb4tbw)
+    [轻量应用服务器_web 服务器_个人建站_弹性计算-阿里云](https://cn.aliyun.com/product/swas?userCode=a3nb4tbw)
     
     阿里云国际站：
     
@@ -63,7 +63,7 @@
 
 如果没有关闭，则需手动关闭。
 
-[win10自动更新很烦，如何彻底关闭Win10自动更新-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2442719)
+[win10 自动更新很烦，如何彻底关闭 Win10 自动更新-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2442719)
 
 ## 禁用 Edge 浏览器的自动休眠
 

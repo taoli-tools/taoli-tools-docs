@@ -25,7 +25,7 @@
     ![image.png](Gate/234173a7-0c16-44dc-a944-a9bd5809e4d2.png)
     
 5. 打开 API Key 管理页面：[https://www.gate.io/myaccount/api_key_manage](https://www.gate.io/myaccount/api_key_manage)
-6. 点击创建API Key，按照下图设置。
+6. 点击创建 API Key，按照下图设置。
     
     ![image.png](Gate/image%201.png)
     

@@ -10,11 +10,11 @@
 
 OKX DEX 支持的链：[https://web3.okx.com/build/dev-docs/wallet-api/supported-chain](https://web3.okx.com/build/dev-docs/wallet-api/supported-chain)
 
-实际支持的链是Taoli Tools支持的链和OKX DEX支持的链的交集
+实际支持的链是 Taoli Tools 支持的链和 OKX DEX 支持的链的交集
 
-1. 准备好助记词，为了降低整段复制粘贴带来的安全风险，所以分前后两段输入。前段输入在Mnemonic Head中，后段输入在Mnemonic Tail中。两段助记词要能恰好一前一后拼接成完整的助记词，中间不能有重叠，也不能有空缺，也不能把一个词分到两个输入框里填，每个词之间使用英文空格分隔。建议复制粘贴完成后立即清空剪贴板。
+1. 准备好助记词，为了降低整段复制粘贴带来的安全风险，所以分前后两段输入。前段输入在 Mnemonic Head 中，后段输入在 Mnemonic Tail 中。两段助记词要能恰好一前一后拼接成完整的助记词，中间不能有重叠，也不能有空缺，也不能把一个词分到两个输入框里填，每个词之间使用英文空格分隔。建议复制粘贴完成后立即清空剪贴板。
 2. 每条链仅支持该助记词生成的第一个地址。
-3. 在对应链的钱包中存入对应的gas，存入USDC或USDT作为资金。
+3. 在对应链的钱包中存入对应的 gas，存入 USDC 或 USDT 作为资金。
 4. 设置说明：
     
     ![image.png](OKX%20DEX/image.png)
@@ -41,7 +41,7 @@ OKX DEX 支持的链：[https://web3.okx.com/build/dev-docs/wallet-api/supported
     
 - 建议每个 API Key 的限速都一样，不然可能会利用不满高限速的 API Key。
 - 只支持市价单，不支持限价单，选择限价单时仍然是下市价单。
-- 首次交易某个 ERC20 Token 时候会自动 Approve Unlimited 给[OKX DEX Router合约](https://web3.okx.com/build/dev-docs/dex-api/dex-approve-transaction)。
+- 首次交易某个 ERC20 Token 时候会自动 Approve Unlimited 给 [OKX DEX Router 合约](https://web3.okx.com/build/dev-docs/dex-api/dex-approve-transaction)。
 - Pair 的 Size 参数的改变会影响报价，从而影响差价。不填 Size 默认是 100。
-- [DEX常见问题](../DEX%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)
+- [DEX 常见问题](../DEX%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)
 - [Taoli Tools Signer](../Taoli%20Tools%20Signer.md)

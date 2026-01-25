@@ -9,7 +9,7 @@
 > [!WARNING]
 > 因 Coinbase API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md)
 
-1. 在 [https://www.coinbase.com/home](https://www.coinbase.com/home) 页面左下角，打开Coinbase Advanced。
+1. 在 [https://www.coinbase.com/home](https://www.coinbase.com/home) 页面左下角，打开 Coinbase Advanced。
     
     ![image.png](Coinbase/image.png)
     
@@ -17,7 +17,7 @@
 
 ![image.png](Coinbase/image%201.png)
 
-1. 在 [https://www.coinbase.com/settings/api](https://www.coinbase.com/settings/api) 页面，为“默认”投资组合和”永续合约“投资组合分别新建API。勾选“Trade”，点击“创建并下载”
+1. 在 [https://www.coinbase.com/settings/api](https://www.coinbase.com/settings/api) 页面，为“默认”投资组合和”永续合约“投资组合分别新建 API。勾选“Trade”，点击“创建并下载”
 
 ![image.png](Coinbase/image%202.png)
 

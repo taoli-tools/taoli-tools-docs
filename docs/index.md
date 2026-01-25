@@ -144,7 +144,7 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 
 VIP2 及以上可以进付费群。
 
-VIP 权益详细区别请参考 [VIP等级区别及价格](VIP%E7%AD%89%E7%BA%A7%E5%8C%BA%E5%88%AB%E5%8F%8A%E4%BB%B7%E6%A0%BC.md)
+VIP 权益详细区别请参考 [VIP 等级区别及价格](VIP%E7%AD%89%E7%BA%A7%E5%8C%BA%E5%88%AB%E5%8F%8A%E4%BB%B7%E6%A0%BC.md)
 
 资金额：对于现货账户和链上，只算 U。对于统一/杠杆/合约账户，算的是账户总权益。
 
@@ -155,8 +155,8 @@ VIP 权益详细区别请参考 [VIP等级区别及价格](VIP%E7%AD%89%E7%BA%A7
 
 ## 使用步骤
 
-1. 访问 [https://taoli.tools/settings](https://taoli.tools/settings) 页面，点击蓝色按钮，使用Telegram登陆。
-2. 将 [https://taoli.tools/settings](https://taoli.tools/settings) 页面左上角Telegram UID后面的数字发给我，付款后，给你开通VIP（VIP0无需这一步）。
-3. 在 [https://taoli.tools/settings](https://taoli.tools/settings) 页面添加交易所的API Key/Secret。然后点击Save按钮测试是否正确。
-4. 在 [https://taoli.tools/trade](https://taoli.tools/trade) 页面下方，”Symbol, CA”中搜索代币对名称，然后选择A和B代币对，然后点击”Add Pair”。
+1. 访问 [https://taoli.tools/settings](https://taoli.tools/settings) 页面，点击蓝色按钮，使用 Telegram 登陆。
+2. 将 [https://taoli.tools/settings](https://taoli.tools/settings) 页面左上角 Telegram UID 后面的数字发给我，付款后，给你开通 VIP（VIP0 无需这一步）。
+3. 在 [https://taoli.tools/settings](https://taoli.tools/settings) 页面添加交易所的 API Key/Secret。然后点击 Save 按钮测试是否正确。
+4. 在 [https://taoli.tools/trade](https://taoli.tools/trade) 页面下方，”Symbol, CA”中搜索代币对名称，然后选择 A 和 B 代币对，然后点击”Add Pair”。
 5. 后续步骤参考 [交易所设置说明](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E.md)、[交易页面说明](%E4%BA%A4%E6%98%93%E9%A1%B5%E9%9D%A2%E8%AF%B4%E6%98%8E.md)、[下单操作说明](%E4%B8%8B%E5%8D%95%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E.md)。建议仔细看文档，然后使用小额度操作尝试。

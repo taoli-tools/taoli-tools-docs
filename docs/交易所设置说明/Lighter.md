@@ -7,7 +7,7 @@
 [](https://app.lighter.xyz/trade/ETH?referral=TAOLI)
 
 1. 打开“API Keys“页面 [https://app.lighter.xyz/apikeys](https://app.lighter.xyz/apikeys)
-2. 点击“Generate API Key”，输入API Key Index，点击”Generate”
+2. 点击“Generate API Key”，输入 API Key Index，点击”Generate”
     
     ![image.png](Lighter/image.png)
     
@@ -16,7 +16,7 @@
     ![image.png](Lighter/image%201.png)
     
 4. 打开 [https://app.lighter.xyz/read-only-tokens/](https://app.lighter.xyz/read-only-tokens/)
-5. 点击Generate Read-Only Token，填写一些参数，点击Generate
+5. 点击 Generate Read-Only Token，填写一些参数，点击 Generate
     
     ![image.png](Lighter/image%202.png)
     

@@ -9,7 +9,7 @@
 [Hyperliquid](https://app.hyperliquid.xyz/join/ALIEZ)
 
 1. 打开“API”页面 [https://app.hyperliquid.xyz/API](https://app.hyperliquid.xyz/API)
-2. 输入“API钱包的名称”，点击“生成”，然后点击”授权API钱包”
+2. 输入“API 钱包的名称”，点击“生成”，然后点击”授权 API 钱包”
 3. 按自己需求输入“有效天数”，保存好“私钥”后，点击“授权”
     
     ![image.png](Hyperliquid/image.png)
