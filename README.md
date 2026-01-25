@@ -21,7 +21,8 @@ npm run docs:preview
 ## 链接
 
 - 官网: https://taoli.tools
-- Telegram群: https://t.me/taoli_tools
+- Telegram: https://t.me/taoli_tools
+- X: https://x.com/taoli_tools
 
 ## 许可
 
