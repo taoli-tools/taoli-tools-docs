@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Taoli Tools"
   text: "使用手册"
-  tagline: 半自动化U本位对冲交易工具
+  tagline: 半自动化U本位对冲套利工具
   actions:
     - theme: brand
       text: 开始使用
