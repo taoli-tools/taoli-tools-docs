@@ -2,13 +2,13 @@
 
 邀请码：taoli
 
-14%额外积分加成
+14% 额外积分加成
 
 邀请链接：
 
 [Paradex](https://app.paradex.trade/r/taoii)
 
-- 打开“钱包”弹窗，复制“Paradex地址”，填到“Address”中
+- 打开“钱包”弹窗，复制“Paradex 地址”，填到“Address”中
     
     ![image.png](Paradex/a3a26b9e-7a14-4487-86a8-7cee7fb3589e.png)
     
@@ -20,4 +20,4 @@
     
     ![image.png](Paradex/image%201.png)
     
-- 使用API下单无法享受零手续费 [https://docs.paradex.trade/trading/trading-fee](https://docs.paradex.trade/trading/trading-fee)
+- 使用 API 下单无法享受零手续费 [https://docs.paradex.trade/trading/trading-fee](https://docs.paradex.trade/trading/trading-fee)

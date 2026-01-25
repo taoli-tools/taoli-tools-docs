@@ -14,10 +14,10 @@
     
     ![image.png](Hyperliquid/image.png)
     
-4. 请注意，设置页面需要填写的“Address”是主钱包地址（如下图所示），“API Private Key”是API钱包私钥，不要搞混
+4. 请注意，设置页面需要填写的“Address”是主钱包地址（如下图所示），“API Private Key”是 API 钱包私钥，不要搞混
     
     ![telegram-cloud-photo-size-5-6136678122276375354-y.jpg](Hyperliquid/telegram-cloud-photo-size-5-6136678122276375354-y.jpg)
     
-5. Hyperliquid现货Symbol前面需要加一个字母U，比如UBTC，UETH。
+5. Hyperliquid 现货 Symbol 前面需要加一个字母 U，比如 UBTC，UETH。
     
     [About Unit | Unit](https://docs.hyperunit.xyz/)

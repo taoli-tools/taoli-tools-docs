@@ -1,6 +1,6 @@
 # Bybit
 
-返佣：33%自动+13%手动
+返佣：33% 自动+13% 手动
 
 邀请码：TAOLI888
 
@@ -15,7 +15,7 @@
 
 ![image.png](Bybit/image%201.png)
 
-1. 打开”API管理”页面 [https://www.bybit.com/app/user/api-management](https://www.bybit.com/app/user/api-management)
+1. 打开”API 管理”页面 [https://www.bybit.com/app/user/api-management](https://www.bybit.com/app/user/api-management)
 2. 点击”新建密钥”，选择“系统生成的API密钥”
     
     ![image.png](Bybit/image%202.png)
@@ -24,7 +24,7 @@
     
     ![image.png](Bybit/image%203.png)
     
-4. Bybit慎用市价单
+4. Bybit 慎用市价单
     
     > [!WARNING]
-> 如果下市价单时价格附近1%内的挂单数量不足，则会部分成交或不成交，也不会报错。
+> 如果下市价单时价格附近 1% 内的挂单数量不足，则会部分成交或不成交，也不会报错。

@@ -2,7 +2,7 @@
 
 [Odos](https://app.odos.xyz/)
 
-Odos支持的链：[https://docs.odos.xyz/build/contracts](https://docs.odos.xyz/build/contracts)
+Odos 支持的链：[https://docs.odos.xyz/build/contracts](https://docs.odos.xyz/build/contracts)
 
 实际支持的链是Taoli Tools支持的链和Odos支持的链的交集
 

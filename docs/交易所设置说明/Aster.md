@@ -8,7 +8,7 @@
 
 [Aster - The next-gen perp DEX for all traders](https://www.asterdex.com/en/trade/pro/futures/BTCUSDT?ref=b4b557)
 
-1. 打开“API管理“页面 [https://www.asterdex.com/zh-CN/api-management](https://www.asterdex.com/zh-CN/api-management)
+1. 打开“API 管理“页面 [https://www.asterdex.com/zh-CN/api-management](https://www.asterdex.com/zh-CN/api-management)
 2. 点击“创建API”
     
     ![image.png](Aster/image.png)

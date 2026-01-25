@@ -16,7 +16,7 @@
     
     ![image.png](Windows%20Server/image.png)
     
-3. 套餐配置：选择通用型，不要选择国际型，推荐2核4G起。
+3. 套餐配置：选择通用型，不要选择国际型，推荐 2 核 4G 起。
 
 ## 腾讯云轻量应用服务器
 
@@ -37,13 +37,13 @@
 4. 系统镜像：Windows Server 2022 中文版
 5. 地域：亚太 - 东京。因为大部分交易所的服务器都在东京
 6. 可用区：随机分配即可，无明显差别
-7. 套餐规格：推荐 2核4GB 起，添加的Pair多了，可能需要更高。
+7. 套餐规格：推荐 2 核 4GB 起，添加的 Pair 多了，可能需要更高。
 8. 登录凭证：建议先使用自动生成的密码，会通过站内信的形式收到。
 
 ## 修改默认用户名和端口
 
 > [!WARNING]
-> 默认用户名Administrator和默认端口3389会被很多黑客频繁尝试密码，导致账户被锁。因此建议修改。
+> 默认用户名 Administrator 和默认端口 3389 会被很多黑客频繁尝试密码，导致账户被锁。因此建议修改。
 
 [Windows 服务器怎么修改密码和用户名？服务器修改密码需要重启吗？-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2364143)
 
@@ -51,13 +51,13 @@
 
 [云服务器 修改云服务器远程默认端口-运维指南-文档中心-腾讯云](https://cloud.tencent.com/document/product/213/42838)
 
-修改完默认端口后重启生效，记得在远程桌面客户端里修改端口。之前使用默认端口只需填IP，现在要在IP后面加上小写冒号和端口号
+修改完默认端口后重启生效，记得在远程桌面客户端里修改端口。之前使用默认端口只需填 IP，现在要在 IP 后面加上小写冒号和端口号
 
 ![image.png](Windows%20Server/image%204.png)
 
-## 禁用Windows自动更新
+## 禁用 Windows 自动更新
 
-腾讯云轻量应用服务器默认禁用了Windows更新，可以去系统设置中确认是否有“你的组织已关闭自动更新”字样：
+腾讯云轻量应用服务器默认禁用了 Windows 更新，可以去系统设置中确认是否有“你的组织已关闭自动更新”字样：
 
 ![image.png](Windows%20Server/image%205.png)
 
@@ -65,7 +65,7 @@
 
 [win10自动更新很烦，如何彻底关闭Win10自动更新-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2442719)
 
-## 禁用Edge浏览器的自动休眠
+## 禁用 Edge 浏览器的自动休眠
 
 访问 edge://settings/system/managePerformance 如图
 
@@ -76,7 +76,7 @@
 - 关闭“使用标签页休眠功能节约资源“
 - “从不让这些站点进入睡眠状态”添加站点`https://taoli.tools`
 
-## 禁用Chrome浏览器的自动休眠
+## 禁用 Chrome 浏览器的自动休眠
 
 访问 chrome://settings/performance 如图
 
@@ -88,11 +88,11 @@
 
 ## 使系统不自动锁屏
 
-按照下面的教程创建Logout.bat
+按照下面的教程创建 Logout.bat
 
 [我希望断开桌面远程连接后，被控制电脑不要自动锁屏 - Microsoft Q&A](https://learn.microsoft.com/zh-cn/answers/questions/4105414/question-4105414)
 
-为Logout.bat再创建一个快捷方式，右键快捷方式的属性，选择高级，勾选“用管理员身份运行”
+为 Logout.bat 再创建一个快捷方式，右键快捷方式的属性，选择高级，勾选“用管理员身份运行”
 
 ![image.png](Windows%20Server/image%207.png)
 
@@ -100,13 +100,13 @@
 
 ![image.png](Windows%20Server/image%208.png)
 
-之后就可以使用任务栏里的工具栏点击运行Logout快捷方式了
+之后就可以使用任务栏里的工具栏点击运行 Logout 快捷方式了
 
 ![image.png](Windows%20Server/image%209.png)
 
 ## 使系统保持唤醒状态
 
-安装PowerToys并打开Awake功能。以避免长时间挂机导致系统休眠。
+安装 PowerToys 并打开 Awake 功能。以避免长时间挂机导致系统休眠。
 
 [安装 PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/install)
 

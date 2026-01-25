@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Taoli Tools"
   text: "使用手册"
-  tagline: 半自动化U本位对冲套利工具
+  tagline: 半自动化 U 本位对冲套利工具
   actions:
     - theme: brand
       text: 开始使用
@@ -13,7 +13,7 @@ hero:
       text: 官网
       link: https://taoli.tools
     - theme: alt
-      text: Telegram群
+      text: Telegram 群
       link: https://t.me/taoli_tools
 
 features:
@@ -25,13 +25,13 @@ features:
     details: 保护隐私和安全，不收集任何密钥或交易相关的数据
   - icon: 🌐
     title: 多交易所支持
-    details: 支持数十家交易所，包括CEX、DEX、Perp DEX
+    details: 支持数十家交易所，包括 CEX、DEX、Perp DEX
   - icon: 📊
     title: 实时监控
     details: 包括价格、差价、持仓、资金费、风险预警等多维监控
 ---
 
-Taoli Tools是一个半自动化的U本位对冲套利工具，其核心功能是一键双边下对冲单，即同时反方向交易两个交易对，支持多家DEX和CEX。这两个交易对可以是不同交易所的不同类型的交易对（比如做空Binance SOLUSDT合约的同时，在OKX DEX购买等量的SOL）。
+Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功能是一键双边下对冲单，即同时反方向交易两个交易对，支持多家 DEX 和 CEX。这两个交易对可以是不同交易所的不同类型的交易对（比如做空 Binance SOLUSDT 合约的同时，在 OKX DEX 购买等量的 SOL）。
 
 工具虽然是一个网页，但是运行在你本地，不收集任何密钥或交易相关的数据。
 
@@ -142,11 +142,11 @@ Taoli Tools是一个半自动化的U本位对冲套利工具，其核心功能�
 | VIP5 | $1,600,000 | $960/月，$2400/季 |
 | VIP6 | $5,000,000 | $1920/月，$4800/季 |
 
-VIP2及以上可以进付费群。
+VIP2 及以上可以进付费群。
 
-VIP权益详细区别请参考 [VIP等级区别及价格](VIP%E7%AD%89%E7%BA%A7%E5%8C%BA%E5%88%AB%E5%8F%8A%E4%BB%B7%E6%A0%BC.md)
+VIP 权益详细区别请参考 [VIP等级区别及价格](VIP%E7%AD%89%E7%BA%A7%E5%8C%BA%E5%88%AB%E5%8F%8A%E4%BB%B7%E6%A0%BC.md)
 
-资金额：对于现货账户和链上，只算U。对于统一/杠杆/合约账户，算的是账户总权益。
+资金额：对于现货账户和链上，只算 U。对于统一/杠杆/合约账户，算的是账户总权益。
 
 购买请联系 [Aliez Ren](https://t.me/aliez_ren)。可先购买低等级套餐，随时根据剩余时间补差价升级。
 

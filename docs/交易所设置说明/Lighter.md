@@ -20,20 +20,20 @@
     
     ![image.png](Lighter/image%202.png)
     
-6. 点击右侧按钮复制Token
+6. 点击右侧按钮复制 Token
     
     ![image.png](Lighter/image%203.png)
     
 
-1. 填写参数，添加Lighter交易所
+1. 填写参数，添加 Lighter 交易所
     
     ![image.png](Lighter/image%204.png)
     
 - Address：[https://app.lighter.xyz/trade/ETH](https://app.lighter.xyz/trade/ETH) 网页右上角的 Address
-- API Private Key：第3步中的Private Key
-- Read-Only Token：第6步中的Token
-- Account Index：[https://app.lighter.xyz/sub-accounts](https://app.lighter.xyz/sub-accounts?locale=zh) 网页中主/子账户的位置，主账户是0，子账户从1开始数
-- API Key Index：第3步中的API Key Index
+- API Private Key：第 3 步中的 Private Key
+- Read-Only Token：第 6 步中的 Token
+- Account Index：[https://app.lighter.xyz/sub-accounts](https://app.lighter.xyz/sub-accounts?locale=zh) 网页中主/子账户的位置，主账户是 0，子账户从 1 开始数
+- API Key Index：第 3 步中的 API Key Index
 
 > [!TIP]
-> 如果一个pair中的A和B都是Lighter的同一个账户，那么同时下单会导致nonce冲突。解决方式：A和B使用两个不同的API Key
+> 如果一个 pair 中的 A 和 B 都是 Lighter 的同一个账户，那么同时下单会导致 nonce 冲突。解决方式：A 和 B 使用两个不同的 API Key

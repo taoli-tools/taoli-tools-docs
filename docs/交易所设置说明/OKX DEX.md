@@ -8,7 +8,7 @@
 
 [Web3 Invitation Landing Page](https://web3.okx.com/join/TAOLI)
 
-OKX DEX支持的链：[https://web3.okx.com/build/dev-docs/wallet-api/supported-chain](https://web3.okx.com/build/dev-docs/wallet-api/supported-chain)
+OKX DEX 支持的链：[https://web3.okx.com/build/dev-docs/wallet-api/supported-chain](https://web3.okx.com/build/dev-docs/wallet-api/supported-chain)
 
 实际支持的链是Taoli Tools支持的链和OKX DEX支持的链的交集
 
@@ -20,28 +20,28 @@ OKX DEX支持的链：[https://web3.okx.com/build/dev-docs/wallet-api/supported-
     ![image.png](OKX%20DEX/image.png)
     
     1. APIs：
-        - 在 [https://web3.okx.com/build/dev-portal](https://web3.okx.com/build/dev-portal) 申请API。
-        - 各个Project之间的限速是相互独立的。如果一个Project里申请了多组API，它们之间的限速是共享的。
-        - 可以申请多组API，每行填写一组API，每行的格式为：`API Key,API Secret,Passphrase` ，注意使用小写（半角）逗号，并且你自定义的Passphrase（密码）里不能包含逗号。
-        - API Key和你用来申请API Key的钱包没有绑定关系。申请API Key的钱包里不需要存入资金。
-        - 用来申请API Key的钱包，和用来下单的钱包之间，没有关系。
+        - 在 [https://web3.okx.com/build/dev-portal](https://web3.okx.com/build/dev-portal) 申请 API。
+        - 各个 Project 之间的限速是相互独立的。如果一个 Project 里申请了多组 API，它们之间的限速是共享的。
+        - 可以申请多组 API，每行填写一组 API，每行的格式为：`API Key,API Secret,Passphrase` ，注意使用小写（半角）逗号，并且你自定义的 Passphrase（密码）里不能包含逗号。
+        - API Key 和你用来申请 API Key 的钱包没有绑定关系。申请 API Key 的钱包里不需要存入资金。
+        - 用来申请 API Key 的钱包，和用来下单的钱包之间，没有关系。
     2. Quote Interval：询价频率，详见下文。
     3. Mnemonic Head：用来下单的钱包助记词中的前几个单词。
     4. Mnemonic Tail：同一组助记词剩下的几个单词。分开复制以防剪贴板被恶意程序监控。
-    5. 点击Save，如无报错，则会显示全链U余额的总和，点击数字可以查看详情。
+    5. 点击 Save，如无报错，则会显示全链 U 余额的总和，点击数字可以查看详情。
 
 ## 限制及注意事项
 
-- Quote Interval：询价频率，根据你申请的API的数量、频率，以及添加的OKX DEX Ticker数量填写。Ticker是指Pair的A或B，如果A和B都是OKX DEX，那么1 Pair = 2 Ticker。如果每个API Key的限速都是最普通的1次/秒，则需要同时满足以下两个公式：
-    1. API个数 * Quote Interval毫秒数 ≥ OKX DEX Ticker数量 * 2000
-    2. API个数 ≥ OKX DEX Ticker数量 * 2
+- Quote Interval：询价频率，根据你申请的 API 的数量、频率，以及添加的 OKX DEX Ticker 数量填写。Ticker 是指 Pair 的 A 或 B，如果 A 和 B 都是 OKX DEX，那么 1 Pair = 2 Ticker。如果每个 API Key 的限速都是最普通的 1 次/秒，则需要同时满足以下两个公式：
+    1. API 个数 * Quote Interval 毫秒数 ≥ OKX DEX Ticker 数量 * 2000
+    2. API 个数 ≥ OKX DEX Ticker 数量 * 2
     
     > [!TIP]
-> 因此，最开始的时候，建议添加三组API，Quote Interval调整为 2000+，只使用一个Pair。等产生一些交易量后，再联系OKX DEX商务给API Key提速。只需给其中一组API提速。
+> 因此，最开始的时候，建议添加三组 API，Quote Interval 调整为 2000+，只使用一个 Pair。等产生一些交易量后，再联系 OKX DEX 商务给 API Key 提速。只需给其中一组 API 提速。
     
-- 建议每个API Key的限速都一样，不然可能会利用不满高限速的API Key。
+- 建议每个 API Key 的限速都一样，不然可能会利用不满高限速的 API Key。
 - 只支持市价单，不支持限价单，选择限价单时仍然是下市价单。
-- 首次交易某个ERC20 Token时候会自动Approve Unlimited给[OKX DEX Router合约](https://web3.okx.com/build/dev-docs/dex-api/dex-approve-transaction)。
-- Pair的Size参数的改变会影响报价，从而影响差价。不填Size默认是100。
+- 首次交易某个 ERC20 Token 时候会自动 Approve Unlimited 给[OKX DEX Router合约](https://web3.okx.com/build/dev-docs/dex-api/dex-approve-transaction)。
+- Pair 的 Size 参数的改变会影响报价，从而影响差价。不填 Size 默认是 100。
 - [DEX常见问题](../DEX%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)
 - [Taoli Tools Signer](../Taoli%20Tools%20Signer.md)

@@ -1,6 +1,6 @@
 # KuCoin
 
-返佣：自动66%
+返佣：自动 66%
 
 邀请码：TAOTAOLI
 
@@ -8,12 +8,12 @@
 
 [](https://www.kucoin.com/r/af/TAOTAOLI)
 
-帕劳ID购买：
+帕劳 ID 购买：
 买一年的就可以，帕劳 KYC 通过后可以先用电子卡去 KuCoin 进行 KYC，然后把 KuCoin UID 发给我加速审核，等实体卡收到后再补充一遍 KuCoin KYC 材料。
 
 [rns.id - Web 3.0 Digital ID](https://rns.id/?rc_by=TAOTAOLI)
 
-1. 打开API申请页面 [https://www.kucoin.com/account/api](https://www.kucoin.com/account/api)
+1. 打开 API 申请页面 [https://www.kucoin.com/account/api](https://www.kucoin.com/account/api)
 2. 按照下图勾选。
     
     ![image.png](KuCoin/image.png)
