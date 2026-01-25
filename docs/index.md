@@ -7,11 +7,11 @@ hero:
   tagline: 半自动化 U 本位对冲套利工具
   actions:
     - theme: brand
-      text: 开始使用
+      text: 安装部署
       link: /安装部署
     - theme: alt
-      text: 官网
-      link: https://taoli.tools
+      text: 开始交易
+      link: https://taoli.tools/trade
     - theme: alt
       text: Telegram 群
       link: https://t.me/taoli_tools

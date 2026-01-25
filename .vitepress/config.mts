@@ -15,9 +15,9 @@ export default defineConfig({
     },
 
     nav: [
-      { text: '首页', link: '/' },
-      { text: '官网', link: 'https://taoli.tools' },
-      { text: 'Telegram群', link: 'https://t.me/taoli_tools' }
+      { text: '资金费率', link: 'https://taoli.tools' },
+      { text: '开始交易', link: 'https://taoli.tools/trade' },
+      { text: 'Telegram 群', link: 'https://t.me/taoli_tools' }
     ],
 
     sidebar: [
@@ -26,7 +26,7 @@ export default defineConfig({
         items: [
           { text: '安装部署', link: '/安装部署' },
           { text: '解除浏览器跨域限制', link: '/解除浏览器跨域限制' },
-          { text: 'VIP等级区别及价格', link: '/VIP等级区别及价格' },
+          { text: 'VIP 等级区别及价格', link: '/VIP等级区别及价格' },
           { text: '基础知识', link: '/基础知识' },
         ]
       },
@@ -44,7 +44,7 @@ export default defineConfig({
         items: [
           { text: '风险提示', link: '/风险提示' },
           { text: '常见问题', link: '/常见问题' },
-          { text: 'DEX常见问题', link: '/DEX常见问题' },
+          { text: 'DEX 常见问题', link: '/DEX常见问题' },
           { text: 'Taoli Tools Signer', link: '/Taoli Tools Signer' },
           { text: '小技巧', link: '/小技巧' },
           { text: '开发者激励计划', link: '/开发者激励计划' },
