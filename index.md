@@ -19,16 +19,16 @@ hero:
 features:
   - icon: 🔄
     title: 一键对冲
-    details: 一键自动双边下对冲单，支持跨所搬砖套利、永续合约资金费套利
+    details: 同时反向交易两个交易对，支持跨所搬砖套利、永续合约资金费套利
   - icon: 🔒
     title: 本地运行
-    details: 工具运行在你本地，不收集任何密钥或交易相关的数据
+    details: 保护隐私和安全，不收集任何密钥或交易相关的数据
   - icon: 🌐
     title: 多交易所支持
-    details: 支持多家DEX和CEX，包括Binance、OKX、Hyperliquid等
+    details: 支持数十家交易所，包括CEX、DEX、Perp DEX
   - icon: 📊
     title: 实时监控
-    details: 实时监控交易对价格，帮助你找到套利机会
+    details: 包括价格、差价、持仓、资金费、风险预警等多维监控
 ---
 
 Taoli Tools是一个半自动化的U本位对冲交易工具，其核心功能是一键双边下对冲单，即同时反方向交易两个交易对，支持多家DEX和CEX。这两个交易对可以是不同交易所的不同类型的交易对（比如做空Binance SOLUSDT合约的同时，在OKX DEX购买等量的SOL）。
