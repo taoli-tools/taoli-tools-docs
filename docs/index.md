@@ -24,8 +24,8 @@ features:
     title: 本地运行
     details: 保护隐私和安全，不收集任何密钥或交易相关的数据
   - icon: 🌐
-    title: 多交易所支持
-    details: 支持数十家交易所，包括 CEX、DEX、Perp DEX
+    title: 多交易所
+    details: 支持几十家交易所，包括 CEX、DEX、Perp DEX
   - icon: 📊
     title: 实时监控
     details: 包括价格、差价、持仓、资金费、风险预警等多维监控
