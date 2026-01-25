@@ -1,6 +1,6 @@
 # 本地运行
 
-本地电脑打开网页，[disable-browser-cors](../disable-browser-cors.md) 后就可以直接使用。
+本地电脑打开网页，[解除浏览器跨域限制](../disable-browser-cors.md) 后就可以直接使用。
 
 ## 推荐浏览器
 
@@ -12,7 +12,7 @@
 ## 使用步骤
 
 1. 访问 [https://taoli.tools](https://taoli.tools)
-2. 按照 [disable-browser-cors](../disable-browser-cors.md) 的说明配置浏览器
+2. 按照 [解除浏览器跨域限制](../disable-browser-cors.md) 的说明配置浏览器
 3. 刷新页面即可正常使用
 
 ## 注意事项

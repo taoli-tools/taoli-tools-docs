@@ -5,7 +5,7 @@
 邀请链接：[https://app.extended.exchange/join/TAOLI](https://app.extended.exchange/join/TAOLI)
 
 > [!WARNING]
-> 因 Extended API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [disable-browser-cors](../disable-browser-cors.md)
+> 因 Extended API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors.md)
 
 - 前往 [https://app.extended.exchange/api-management](https://app.extended.exchange/api-management) 生成私钥
 - 点击“Show API Details”显示弹窗

@@ -11,7 +11,7 @@ Bitget Wallet Card 邀请码：`1t5Nzd`
 邀请链接：[https://web3.bitget.com/invite/card/1t5Nzd](https://web3.bitget.com/invite/card/1t5Nzd)
 
 > [!WARNING]
-> 因 Bitget API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [disable-browser-cors](../disable-browser-cors.md)
+> 因 Bitget API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors.md)
 
 > [!WARNING]
 > 暂不支持 Bitget 统一账户

@@ -7,7 +7,7 @@
 邀请链接：[https://www.bmwweb.ac/join?ref=TAOLITOOLS](https://www.bmwweb.ac/join?ref=TAOLITOOLS)
 
 > [!WARNING]
-> 因 Binance API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [disable-browser-cors](../disable-browser-cors.md)
+> 因 Binance API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors.md)
 
 1. 打开“API 管理“页面 [https://www.binance.com/my/settings/api-management](https://www.binance.com/my/settings/api-management)
 2. 点击“创建 API”，类型选择“系统生成”

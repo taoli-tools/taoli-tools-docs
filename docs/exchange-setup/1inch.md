@@ -3,7 +3,7 @@
 [dApp 1inch - DeFi / DEX aggregator on Ethereum, Binance Smart Chain, Optimism, Polygon, Arbitrum](https://app.1inch.io/)
 
 > [!WARNING]
-> 因 1inch API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [disable-browser-cors](../disable-browser-cors.md)
+> 因 1inch API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors.md)
 
 1inch 支持的链：[https://business.1inch.com/portal/documentation/contracts/aggregation-protocol/aggregation-introduction](https://business.1inch.com/portal/documentation/contracts/aggregation-protocol/aggregation-introduction)
 
