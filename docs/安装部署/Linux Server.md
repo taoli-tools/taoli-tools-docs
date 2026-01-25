@@ -47,7 +47,7 @@
 3. 在[Tailscale Console](https://login.tailscale.com/admin/machines)中查看机器运行状态，复制机器的`内网IP`
 4. 本地安装[Tailscale Client](https://tailscale.com/download)并运行
 5. 本地使用浏览器访问 [`https://](https://IP)内网IP` ，并忽略证书错误，即可使用
-6. 给远程浏览器安装插件以 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6%2019764b000c2580e1b8e7c06fa3d53f6c.md) 
+6. 给远程浏览器安装插件以 [解除浏览器跨域限制](../%E8%A7%A3%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B7%A8%E5%9F%9F%E9%99%90%E5%88%B6.md) 
 7. 申请交易所API时的IP白名单，要填在云服务后台看到的公网IP，而不是Tailscale里的内网IP
 
 ## 与Signer配合使用

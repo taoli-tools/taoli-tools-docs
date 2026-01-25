@@ -16,4 +16,4 @@ Odos支持的链：[https://docs.odos.xyz/build/contracts](https://docs.odos.xyz
 - 只支持市价单，不支持限价单，选择限价单时仍然是下市价单。
 - 默认的EVM交易对列表是根据本工具支持的其他交易所的充提币列表中获取到的合约地址生成的，如果一个币不在默认列表中，说明本工具支持的其他交易所中没有任何一个支持这个币在EVM链上的充提。
 - 首次交易某个token时候会自动Approve Unlimited给[Odos Router V2合约](https://docs.odos.xyz/build/contracts#sor-router-deployments)。
-- [DEX常见问题](../DEX%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%201fd64b000c258093a771de0028b8e9c4.md)
+- [DEX常见问题](../DEX%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)

@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 开始使用
-      link: /Taoli Tools 使用手册/安装部署 27d64b000c258020a818db1691f7d939
+      link: /安装部署
     - theme: alt
       text: 官网
       link: https://taoli.tools
@@ -60,40 +60,40 @@ Taoli Tools是一个半自动化的U本位对冲交易工具，其核心功能�
 
 | **CEX** | 永续合约 | 现货 | 现货杠杆 |
 | --- | --- | --- | --- |
-| [Binance](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Binance%2018d64b000c25809aa558c6d54b92307e.md) | ✅ | ✅ | ✅ |
-| [Coinbase](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Coinbase%2021e64b000c25800383f0f4407613b7c1.md) | ✅ | ✅ |  |
-| [Bybit](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Bybit%2018e64b000c2580078e22c79748179190.md) | ✅ | ✅ | ✅ |
-| [OKX](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/OKX%2018e64b000c258002a23fcc065e0c2ec8.md) | ✅ | ✅ |  |
-| [Bitget](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Bitget%2019064b000c258069bebad077c79f8e54.md) | ✅ | ✅ | ✅ |
-| [Backpack](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Backpack%2019f64b000c2580b987e0fdcb84c8d95d.md) | ✅ | ✅ | ✅ |
-| [Gate](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Gate%2019764b000c258052ac55e7beb4fd46b8.md) | ✅ | ✅ | ✅ |
-| [KuCoin](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/KuCoin%202e464b000c2580028335fa05db156be7.md) | ✅ | ✅ |  |
-| [MEXC](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/MEXC%201e764b000c25801cb0e5c25951481872.md) |  | ✅ |  |
+| [Binance](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Binance.md) | ✅ | ✅ | ✅ |
+| [Coinbase](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Coinbase.md) | ✅ | ✅ |  |
+| [Bybit](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Bybit.md) | ✅ | ✅ | ✅ |
+| [OKX](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/OKX.md) | ✅ | ✅ |  |
+| [Bitget](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Bitget.md) | ✅ | ✅ | ✅ |
+| [Backpack](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Backpack.md) | ✅ | ✅ | ✅ |
+| [Gate](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Gate.md) | ✅ | ✅ | ✅ |
+| [KuCoin](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/KuCoin.md) | ✅ | ✅ |  |
+| [MEXC](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/MEXC.md) |  | ✅ |  |
 
 | **Perp DEX** | 永续合约 | 现货 |
 | --- | --- | --- |
-| [Hyperliquid](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Hyperliquid%2018e64b000c258004b565fbff4dd19a5f.md) | ✅ | ✅ |
-| [Aster](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Aster%2021064b000c25805b8f6df2d69be7b328.md) | ✅ | ✅ |
-| [Lighter](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Lighter%2027664b000c258031a7d5e7e554c96703.md) | ✅ | ✅ |
-| [Grvt](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Grvt%2028b64b000c258079bebaeb407d40198f.md) | ✅ |  |
-| [Ethereal](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Ethereal%202bf64b000c25806d9cd3db4a24dca6df.md) | ✅ |  |
-| [Paradex](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Paradex%2028c64b000c258011a7a9c76f813e81c6.md) | ✅ |  |
-| [Pacifica](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Pacifica%2028d64b000c258032acbfe6f738095ca9.md) | ✅ |  |
-| [Extended](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Extended%2028e64b000c258076bfafda4474bfef31.md) | ✅ |  |
-| [StandX](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/StandX%202bd64b000c2580058dcbff6c48c961dc.md) | ✅ |  |
-| [Apex Omni](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Apex%20Omni%2029364b000c25807fb20bc301a5489ca7.md) | ✅ |  |
+| [Hyperliquid](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Hyperliquid.md) | ✅ | ✅ |
+| [Aster](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Aster.md) | ✅ | ✅ |
+| [Lighter](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Lighter.md) | ✅ | ✅ |
+| [Grvt](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Grvt.md) | ✅ |  |
+| [Ethereal](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Ethereal.md) | ✅ |  |
+| [Paradex](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Paradex.md) | ✅ |  |
+| [Pacifica](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Pacifica.md) | ✅ |  |
+| [Extended](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Extended.md) | ✅ |  |
+| [StandX](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/StandX.md) | ✅ |  |
+| [Apex Omni](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Apex%20Omni.md) | ✅ |  |
 
 | **DEX** | 现货 |
 | --- | --- |
-| [OKX DEX](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/OKX%20DEX%201f064b000c258031ab6bdb0b589c86d0.md) | ✅ |
-| [Li.FI](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/LI%20FI%202a864b000c2580a68c7aff0a4d5b234e.md) | ✅ |
-| [EVM Router](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/EVM%20Router%2029e64b000c258022b9b5f019ef7f6d90.md) | ✅ |
-| [Jupiter](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Jupiter%201aa64b000c2580a39e6fdeaa4eb66218.md) | ✅ |
-| [1inch](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/1inch%201b464b000c25804fa3e2dcc841f982ea.md) | ✅ |
-| [Uniswap V3](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Uniswap%20V3%2024764b000c25802fac50e97d7584c3cb.md) | ✅ |
-| [PancakeSwap V3](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/PancakeSwap%20V3%2024764b000c2580c18d02d6fe443e5b05.md) | ✅ |
-| [Odos](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Odos%201b464b000c258018a7f8e9b74b4d4012.md) | ✅ |
-| [Hyperion](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Hyperion%2024964b000c2580b18318db214532e620.md) | ✅ |
+| [OKX DEX](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/OKX%20DEX.md) | ✅ |
+| [Li.FI](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/LI%20FI.md) | ✅ |
+| [EVM Router](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/EVM%20Router.md) | ✅ |
+| [Jupiter](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Jupiter.md) | ✅ |
+| [1inch](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/1inch.md) | ✅ |
+| [Uniswap V3](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Uniswap%20V3.md) | ✅ |
+| [PancakeSwap V3](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/PancakeSwap%20V3.md) | ✅ |
+| [Odos](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Odos.md) | ✅ |
+| [Hyperion](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E/Hyperion.md) | ✅ |
 
 ## 支持的区块链
 
@@ -148,7 +148,7 @@ Taoli Tools是一个半自动化的U本位对冲交易工具，其核心功能�
 
 VIP2及以上可以进付费群。
 
-VIP权益详细区别请参考 [VIP等级区别及价格](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/VIP%E7%AD%89%E7%BA%A7%E5%8C%BA%E5%88%AB%E5%8F%8A%E4%BB%B7%E6%A0%BC%201ce64b000c25809e809edeb311aa01dc.md)
+VIP权益详细区别请参考 [VIP等级区别及价格](VIP%E7%AD%89%E7%BA%A7%E5%8C%BA%E5%88%AB%E5%8F%8A%E4%BB%B7%E6%A0%BC.md)
 
 资金额：对于现货账户和链上，只算U。对于统一/杠杆/合约账户，算的是账户总权益。
 
@@ -167,4 +167,4 @@ VIP权益详细区别请参考 [VIP等级区别及价格](Taoli%20Tools%20%E4%BD
 2. 将 [https://taoli.tools/settings](https://taoli.tools/settings) 页面左上角Telegram UID后面的数字发给我，付款后，给你开通VIP（VIP0无需这一步）。
 3. 在 [https://taoli.tools/settings](https://taoli.tools/settings) 页面添加交易所的API Key/Secret。然后点击Save按钮测试是否正确。
 4. 在 [https://taoli.tools/trade](https://taoli.tools/trade) 页面下方，”Symbol, CA”中搜索代币对名称，然后选择A和B代币对，然后点击”Add Pair”。
-5. 后续步骤参考 [交易所设置说明](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E%2018d64b000c25808e9eb3fab39b370d0b.md)、[交易页面说明](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%BA%A4%E6%98%93%E9%A1%B5%E9%9D%A2%E8%AF%B4%E6%98%8E%201ac64b000c258099bdcec9f942c58e66.md)、[下单操作说明](Taoli%20Tools%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/%E4%B8%8B%E5%8D%95%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E%2018e64b000c258088a402cb8a55046824.md)。建议仔细看文档，然后使用小额度操作尝试。
+5. 后续步骤参考 [交易所设置说明](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E.md)、[交易页面说明](%E4%BA%A4%E6%98%93%E9%A1%B5%E9%9D%A2%E8%AF%B4%E6%98%8E.md)、[下单操作说明](%E4%B8%8B%E5%8D%95%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E.md)。建议仔细看文档，然后使用小额度操作尝试。

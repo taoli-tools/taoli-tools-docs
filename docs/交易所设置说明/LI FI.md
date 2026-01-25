@@ -26,5 +26,5 @@ LI.FI支持的链：[https://li.quest/v1/chains?chainTypes=EVM,SVM,MVM](https://
 - 只支持市价单，不支持限价单，选择限价单时仍然是下市价单。
 - 首次交易某个ERC20 Token时候会自动Approve Unlimited给[Li.Fi Diamond合约](https://docs.li.fi/introduction/lifi-architecture/smart-contract-addresses)。
 - Pair的Size参数的改变会影响报价，从而影响差价。不填Size默认是100。
-- [DEX常见问题](../DEX%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%201fd64b000c258093a771de0028b8e9c4.md)
-- [Taoli Tools Signer](../Taoli%20Tools%20Signer%2020f64b000c2580eda7f2f6fbb357da94.md)
+- [DEX常见问题](../DEX%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)
+- [Taoli Tools Signer](../Taoli%20Tools%20Signer.md)
