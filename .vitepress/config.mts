@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Taoli Tools 使用手册",
-  description: "Taoli Tools 半自动化对冲交易工具使用手册",
+  description: "Taoli Tools 半自动化对冲套利工具使用手册",
   base: '/',
   srcDir: 'docs',
 
@@ -19,9 +19,10 @@ export default defineConfig({
       {
         text: '开始使用',
         items: [
-          { text: 'VIP等级区别及价格', link: '/VIP等级区别及价格' },
-          { text: '解除浏览器跨域限制', link: '/解除浏览器跨域限制' },
           { text: '安装部署', link: '/安装部署' },
+          { text: '解除浏览器跨域限制', link: '/解除浏览器跨域限制' },
+          { text: 'VIP等级区别及价格', link: '/VIP等级区别及价格' },
+          { text: '基础知识', link: '/基础知识' },
         ]
       },
       {
@@ -41,7 +42,6 @@ export default defineConfig({
           { text: 'DEX常见问题', link: '/DEX常见问题' },
           { text: 'Taoli Tools Signer', link: '/Taoli Tools Signer' },
           { text: '小技巧', link: '/小技巧' },
-          { text: '基础知识', link: '/基础知识' },
           { text: '开发者激励计划', link: '/开发者激励计划' },
           { text: '信息收集与多开限制', link: '/信息收集与多开限制' },
         ]
