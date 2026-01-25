@@ -31,7 +31,7 @@ features:
     details: 包括价格、差价、持仓、资金费、风险预警等多维监控
 ---
 
-Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功能是一键双边下对冲单，即同时反方向交易两个交易对，支持多家 DEX 和 CEX。这两个交易对可以是不同交易所的不同类型的交易对（比如做空 Binance SOLUSDT 合约的同时，在 OKX DEX 购买等量的 SOL）。
+Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功能是一键双边下对冲单，即同时反方向交易两个交易对，支持多家 CEX、DEX 和 Perp DEX。这两个交易对可以是不同交易所的不同类型的交易对（比如做空 Binance SOLUSDT 合约的同时，在 OKX DEX 购买等量的 SOL）。
 
 工具虽然是一个网页，但是运行在你本地，不收集任何密钥或交易相关的数据。
 
@@ -66,6 +66,18 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 | [KuCoin](交易所设置/KuCoin.md) | ✅ | ✅ |  |
 | [MEXC](交易所设置/MEXC.md) |  | ✅ |  |
 
+| **DEX** | 现货 |
+| --- | --- |
+| [OKX DEX](交易所设置/OKX DEX.md) | ✅ |
+| [Li.FI](交易所设置/LI FI.md) | ✅ |
+| [EVM Router](交易所设置/EVM Router.md) | ✅ |
+| [Jupiter](交易所设置/Jupiter.md) | ✅ |
+| [1inch](交易所设置/1inch.md) | ✅ |
+| [Uniswap V3](交易所设置/Uniswap V3.md) | ✅ |
+| [PancakeSwap V3](交易所设置/PancakeSwap V3.md) | ✅ |
+| [Odos](交易所设置/Odos.md) | ✅ |
+| [Hyperion](交易所设置/Hyperion.md) | ✅ |
+
 | **Perp DEX** | 永续合约 | 现货 |
 | --- | --- | --- |
 | [Hyperliquid](交易所设置/Hyperliquid.md) | ✅ | ✅ |
@@ -78,18 +90,6 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 | [Extended](交易所设置/Extended.md) | ✅ |  |
 | [StandX](交易所设置/StandX.md) | ✅ |  |
 | [Apex Omni](交易所设置/Apex Omni.md) | ✅ |  |
-
-| **DEX** | 现货 |
-| --- | --- |
-| [OKX DEX](交易所设置/OKX DEX.md) | ✅ |
-| [Li.FI](交易所设置/LI FI.md) | ✅ |
-| [EVM Router](交易所设置/EVM Router.md) | ✅ |
-| [Jupiter](交易所设置/Jupiter.md) | ✅ |
-| [1inch](交易所设置/1inch.md) | ✅ |
-| [Uniswap V3](交易所设置/Uniswap V3.md) | ✅ |
-| [PancakeSwap V3](交易所设置/PancakeSwap V3.md) | ✅ |
-| [Odos](交易所设置/Odos.md) | ✅ |
-| [Hyperion](交易所设置/Hyperion.md) | ✅ |
 
 ## 支持的区块链
 

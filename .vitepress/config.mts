@@ -73,6 +73,21 @@ export default defineConfig({
                 ]
               },
               {
+                text: 'DEX',
+                collapsed: true,
+                items: [
+                  { text: 'OKX DEX', link: '/交易所设置/OKX DEX' },
+                  { text: 'LI.FI', link: '/交易所设置/LI FI' },
+                  { text: 'EVM Router', link: '/交易所设置/EVM Router' },
+                  { text: 'Jupiter', link: '/交易所设置/Jupiter' },
+                  { text: '1inch', link: '/交易所设置/1inch' },
+                  { text: 'Uniswap V3', link: '/交易所设置/Uniswap V3' },
+                  { text: 'PancakeSwap V3', link: '/交易所设置/PancakeSwap V3' },
+                  { text: 'Odos', link: '/交易所设置/Odos' },
+                  { text: 'Hyperion', link: '/交易所设置/Hyperion' },
+                ]
+              },
+              {
                 text: 'Perp DEX',
                 collapsed: true,
                 items: [
@@ -86,21 +101,6 @@ export default defineConfig({
                   { text: 'Extended', link: '/交易所设置/Extended' },
                   { text: 'StandX', link: '/交易所设置/StandX' },
                   { text: 'Apex Omni', link: '/交易所设置/Apex Omni' },
-                ]
-              },
-              {
-                text: 'DEX',
-                collapsed: true,
-                items: [
-                  { text: 'OKX DEX', link: '/交易所设置/OKX DEX' },
-                  { text: 'LI.FI', link: '/交易所设置/LI FI' },
-                  { text: 'EVM Router', link: '/交易所设置/EVM Router' },
-                  { text: 'Jupiter', link: '/交易所设置/Jupiter' },
-                  { text: '1inch', link: '/交易所设置/1inch' },
-                  { text: 'Uniswap V3', link: '/交易所设置/Uniswap V3' },
-                  { text: 'PancakeSwap V3', link: '/交易所设置/PancakeSwap V3' },
-                  { text: 'Odos', link: '/交易所设置/Odos' },
-                  { text: 'Hyperion', link: '/交易所设置/Hyperion' },
                 ]
               }
             ]
