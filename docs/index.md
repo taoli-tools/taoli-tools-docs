@@ -63,7 +63,7 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 | [Bitget](exchange-setup/bitget.md) | ✅ | ✅ | ✅ |
 | [Backpack](exchange-setup/backpack.md) | ✅ | ✅ | ✅ |
 | [Gate](exchange-setup/gate.md) | ✅ | ✅ | ✅ |
-| [KuCoin](exchange-setup/kucoin.md) | ✅ | ✅ |  |
+| [KuCoin](exchange-setup/ku-coin.md) | ✅ | ✅ |  |
 | [MEXC](exchange-setup/mexc.md) |  | ✅ |  |
 
 | **DEX** | 现货 |
@@ -74,7 +74,7 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 | [Jupiter](exchange-setup/jupiter.md) | ✅ |
 | [1inch](exchange-setup/1inch.md) | ✅ |
 | [Uniswap V3](exchange-setup/uniswap-v3.md) | ✅ |
-| [PancakeSwap V3](exchange-setup/pancakeswap-v3.md) | ✅ |
+| [PancakeSwap V3](exchange-setup/pancake-swap-v3.md) | ✅ |
 | [Odos](exchange-setup/odos.md) | ✅ |
 | [Hyperion](exchange-setup/hyperion.md) | ✅ |
 
@@ -88,7 +88,7 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 | [Paradex](exchange-setup/paradex.md) | ✅ |  |
 | [Pacifica](exchange-setup/pacifica.md) | ✅ |  |
 | [Extended](exchange-setup/extended.md) | ✅ |  |
-| [StandX](exchange-setup/standx.md) | ✅ |  |
+| [StandX](exchange-setup/stand-x.md) | ✅ |  |
 | [Apex Omni](exchange-setup/apex-omni.md) | ✅ |  |
 
 ## 支持的区块链

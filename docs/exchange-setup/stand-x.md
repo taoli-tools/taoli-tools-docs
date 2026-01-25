@@ -4,7 +4,7 @@
 
 邀请链接：[https://standx.com/referral?code=TaoliTools](https://standx.com/referral?code=TaoliTools)
 
-![image.png](StandX/image.png)
+![image.png](stand-x/image.png)
 
 1. Mnemonic Head：用来下单的钱包助记词中的前几个单词。
 2. Mnemonic Tail：同一组助记词剩下的几个单词。分开复制以防剪贴板被恶意程序监控。

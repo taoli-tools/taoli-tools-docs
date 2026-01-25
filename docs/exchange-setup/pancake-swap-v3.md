@@ -8,7 +8,7 @@ PancakeSwap V3 支持的链：[https://developer.pancakeswap.finance/contracts/v
 
 设置说明：
 
-![image.png](pancakeswap-v3/image.png)
+![image.png](pancake-swap-v3/image.png)
 
 1. 通过 Wallet Type 来选择使用助记词、私钥、或 [Taoli Tools Signer](../taoli-tools-signer.md) 作为钱包
 2. 点击 Save，如无报错，则会以绿色数字显示全链 U 余额的总和，点击数字查看详情
