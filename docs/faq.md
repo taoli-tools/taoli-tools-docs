@@ -23,7 +23,7 @@ head:
     - 也可能是网络问题
 3. 出现黄字提示是怎么回事？
     
-    ![telegram-cloud-photo-size-5-6129714348201984999-y.jpg](faq/telegram-cloud-photo-size-5-6129714348201984999-y.jpg)
+    ![image.png](faq/telegram-cloud-photo-size-5-6129714348201984999-y.jpg)
     
     - 灰字和黄字不用慌，放在那不动或者点击 x 关掉即可。
     - 如果出现红字，那么运行会停止，并且你此时的仓位 Position 会出现不平衡（单腿），需要你手动操作补仓。
@@ -48,7 +48,7 @@ head:
     
 6. 这样资金费是亏的还是赚的？
     
-    ![telegram-cloud-photo-size-5-6136195535456027525-x.jpg](faq/18786fb6-3e19-4d6a-baaf-9b86dcad442a.png)
+    ![image.png](faq/18786fb6-3e19-4d6a-baaf-9b86dcad442a.png)
     
     先看单边交易：如果持仓 Position 和资金费率 Funding 的正负号是一致的，那就是亏；不一致就赚。
     
@@ -71,25 +71,24 @@ head:
     
 9. `InvalidInputRpcError Missing or invalid parameters.`
 
-`Double check you have provided the correct parameters`
+    `Double check you have provided the correct parameters`
 
-EVM 链 nonce 冲突，或者 Gas 不够了
+    EVM 链 nonce 冲突，或者 Gas 不够了
 
-1. Once 或 Loop 卡住
+10. Once 或 Loop 卡住
     
     当-A、+B、+A、-B 的其中任意一个（或多个）变为黄色且不恢复时，说明你的网络不稳定，订单卡住了，这单的 PnL 可能不会显示，并且 Loop 会暂停。此时并不一定没有下单成功，而是不知道是否下单成功。一般自动重连后黄色会消失并可以继续下单，如果黄色长时间没有消失，建议重启浏览器。如果刷新后的继续下单仍然有同样的问题，那么大概率是交易所服务器出现了问题，未通过 Websocket 通知下单成功事件，此时建议不要再继续交易。如果非要交易，可以通过多次点击 Once 代替 Loop。
-    
 
-![image.png](faq/image.png)
+    ![image.png](faq/image.png)
 
-1. 重启浏览器没用
+11. 重启浏览器没用
     
     如果浏览器提示更新的时候关掉浏览器再打开，浏览器并不会重启，只有更新或重启操作系统才有用。
     
-2. 出现单腿并且没有产生 PnL 交易记录
+12. 出现单腿并且没有产生 PnL 交易记录
     
     一般是因为：如果使用 Market 模式的 A then B 模式下单，A 出错后 B 就不会再下单，并且不会产生 PnL 交易记录。但可能出现 A 的 API 或 RPC 返回结果异常误判了失败（实际成功了）导致单腿。
     
-3. 重启后，之前配置好的交易所都没了
+13. 重启后，之前配置好的交易所都没了
     
     没有使用和之前一样的方式打开浏览器，或者硬盘剩余空间不足，浏览器清理了数据。

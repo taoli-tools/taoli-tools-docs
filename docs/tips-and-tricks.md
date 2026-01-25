@@ -2,7 +2,7 @@
 
 1. 设置两个一样的 Pair，如图设置，可以做到期期套利的时候一边始终是多，另一边始终是空。
     
-    ![telegram-cloud-photo-size-5-6138481244036515295-y.jpg](tips-and-tricks/telegram-cloud-photo-size-5-6138481244036515295-y.jpg)
+    ![image.png](tips-and-tricks/telegram-cloud-photo-size-5-6138481244036515295-y.jpg)
     
 2. 搜索 Ticker 时末尾加斜线`/`，可以进行精准搜索，排除模糊匹配的结果。
 3. 如果觉得运行很卡，或者浏览器崩溃。可能是因为 PnL 记录太多了，可以试试在 Settings 页面点击清空 PnL。
