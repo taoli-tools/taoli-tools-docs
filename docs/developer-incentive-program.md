@@ -1,0 +1,44 @@
+# 开发者激励计划
+
+无论你是科班出身的程序员，还是 AI Vibe Coding 的爱好者，都可以通过制作辅助套利的小工具（包括但不限于网页、Telegram Bot）来加入 Taoli Tools 的开发者激励计划。该计划可以为你提供免费的 Taoli Tools VIP2。
+
+小工具需要满足以下条件：
+
+- 不收费
+- 功能与套利相关，但功能与 Taoli Tools 不重叠
+
+投票规则：
+
+- 每月月底，付费群里进行“最喜欢的小工具”投票。一人一票，非匿名投票，投票时间至少持续 24 小时。
+- 得票最多的前`N`个，并且得票数大于等于`M`的小工具的开发者，将获得一个月的免费 VIP2。
+    
+    其中`N = 付费群人数 * 3%`，`M = 付费群人数 * 9%` N 和 M 均为向下取整。其中付费群人数不包括群里的 Bot，人数按照发起投票时来算。
+    
+- 如果多个小工具由同一个开发者开发，则票数合计。
+
+邀请规则：
+
+- 群主会直接联系优秀的开发者直接赠送一个月 VIP2。
+- 给群主推荐开发者，推荐人也有机会获得一个月 VIP2。
+
+开发者如需更高的 VIP 等级，可以补差价升级，也可以折算时间（比如：一个月 VIP2=半个月 VIP3）。
+
+在开发者获得免费 VIP2 后，推荐在其小工具界面（网页或 Bot 简介）上加入“由 [https://t.me/taoli_tools](https://t.me/taoli_tools) 赞助”字样。
+
+## 历史记录
+
+[2025-12](developer-incentive-program/2025-12.md)
+
+[2025-11](developer-incentive-program/2025-11.md)
+
+[2025-10](developer-incentive-program/2025-10.md)
+
+[2025-09](developer-incentive-program/2025-09.md)
+
+[2025-08](developer-incentive-program/2025-08.md)
+
+[2025-07](developer-incentive-program/2025-07.md)
+
+[2025-06](developer-incentive-program/2025-06.md)
+
+[2025-05](developer-incentive-program/2025-05.md)

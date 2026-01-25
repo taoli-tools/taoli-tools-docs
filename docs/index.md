@@ -8,13 +8,13 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /快速开始
+      link: /quick-start
     - theme: alt
       text: 安装部署
-      link: /安装部署
+      link: /installation
     - theme: alt
       text: 基础知识
-      link: /基础知识
+      link: /basics
 
 features:
   - icon: 🔁
@@ -56,40 +56,40 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 
 | **CEX** | 永续合约 | 现货 | 现货杠杆 |
 | --- | --- | --- | --- |
-| [Binance](交易所设置/Binance.md) | ✅ | ✅ | ✅ |
-| [Coinbase](交易所设置/Coinbase.md) | ✅ | ✅ |  |
-| [Bybit](交易所设置/Bybit.md) | ✅ | ✅ | ✅ |
-| [OKX](交易所设置/OKX.md) | ✅ | ✅ |  |
-| [Bitget](交易所设置/Bitget.md) | ✅ | ✅ | ✅ |
-| [Backpack](交易所设置/Backpack.md) | ✅ | ✅ | ✅ |
-| [Gate](交易所设置/Gate.md) | ✅ | ✅ | ✅ |
-| [KuCoin](交易所设置/KuCoin.md) | ✅ | ✅ |  |
-| [MEXC](交易所设置/MEXC.md) |  | ✅ |  |
+| [Binance](exchange-setup/Binance.md) | ✅ | ✅ | ✅ |
+| [Coinbase](exchange-setup/Coinbase.md) | ✅ | ✅ |  |
+| [Bybit](exchange-setup/Bybit.md) | ✅ | ✅ | ✅ |
+| [OKX](exchange-setup/OKX.md) | ✅ | ✅ |  |
+| [Bitget](exchange-setup/Bitget.md) | ✅ | ✅ | ✅ |
+| [Backpack](exchange-setup/Backpack.md) | ✅ | ✅ | ✅ |
+| [Gate](exchange-setup/Gate.md) | ✅ | ✅ | ✅ |
+| [KuCoin](exchange-setup/KuCoin.md) | ✅ | ✅ |  |
+| [MEXC](exchange-setup/MEXC.md) |  | ✅ |  |
 
 | **DEX** | 现货 |
 | --- | --- |
-| [OKX DEX](交易所设置/OKX%20DEX.md) | ✅ |
-| [Li.FI](交易所设置/LI%20FI.md) | ✅ |
-| [EVM Router](交易所设置/EVM%20Router.md) | ✅ |
-| [Jupiter](交易所设置/Jupiter.md) | ✅ |
-| [1inch](交易所设置/1inch.md) | ✅ |
-| [Uniswap V3](交易所设置/Uniswap%20V3.md) | ✅ |
-| [PancakeSwap V3](交易所设置/PancakeSwap%20V3.md) | ✅ |
-| [Odos](交易所设置/Odos.md) | ✅ |
-| [Hyperion](交易所设置/Hyperion.md) | ✅ |
+| [OKX DEX](exchange-setup/OKX%20DEX.md) | ✅ |
+| [Li.FI](exchange-setup/LI%20FI.md) | ✅ |
+| [EVM Router](exchange-setup/EVM%20Router.md) | ✅ |
+| [Jupiter](exchange-setup/Jupiter.md) | ✅ |
+| [1inch](exchange-setup/1inch.md) | ✅ |
+| [Uniswap V3](exchange-setup/Uniswap%20V3.md) | ✅ |
+| [PancakeSwap V3](exchange-setup/PancakeSwap%20V3.md) | ✅ |
+| [Odos](exchange-setup/Odos.md) | ✅ |
+| [Hyperion](exchange-setup/Hyperion.md) | ✅ |
 
 | **Perp DEX** | 永续合约 | 现货 |
 | --- | --- | --- |
-| [Hyperliquid](交易所设置/Hyperliquid.md) | ✅ | ✅ |
-| [Aster](交易所设置/Aster.md) | ✅ | ✅ |
-| [Lighter](交易所设置/Lighter.md) | ✅ | ✅ |
-| [Grvt](交易所设置/Grvt.md) | ✅ |  |
-| [Ethereal](交易所设置/Ethereal.md) | ✅ |  |
-| [Paradex](交易所设置/Paradex.md) | ✅ |  |
-| [Pacifica](交易所设置/Pacifica.md) | ✅ |  |
-| [Extended](交易所设置/Extended.md) | ✅ |  |
-| [StandX](交易所设置/StandX.md) | ✅ |  |
-| [Apex Omni](交易所设置/Apex%20Omni.md) | ✅ |  |
+| [Hyperliquid](exchange-setup/Hyperliquid.md) | ✅ | ✅ |
+| [Aster](exchange-setup/Aster.md) | ✅ | ✅ |
+| [Lighter](exchange-setup/Lighter.md) | ✅ | ✅ |
+| [Grvt](exchange-setup/Grvt.md) | ✅ |  |
+| [Ethereal](exchange-setup/Ethereal.md) | ✅ |  |
+| [Paradex](exchange-setup/Paradex.md) | ✅ |  |
+| [Pacifica](exchange-setup/Pacifica.md) | ✅ |  |
+| [Extended](exchange-setup/Extended.md) | ✅ |  |
+| [StandX](exchange-setup/StandX.md) | ✅ |  |
+| [Apex Omni](exchange-setup/Apex%20Omni.md) | ✅ |  |
 
 ## 支持的区块链
 
@@ -144,7 +144,7 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 
 VIP2 及以上可以进付费群。
 
-VIP 权益详细区别请参考 [VIP 等级区别及价格](VIP等级区别及价格.md)
+VIP 权益详细区别请参考 [VIP 等级区别及价格](vip-levels-and-pricing.md)
 
 资金额：对于现货账户和链上，只算 U。对于统一/杠杆/合约账户，算的是账户总权益。
 
