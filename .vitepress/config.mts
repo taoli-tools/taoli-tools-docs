@@ -24,10 +24,11 @@ export default defineConfig({
       {
         text: '开始使用',
         items: [
+          { text: '快速开始', link: '/快速开始' },
           { text: '安装部署', link: '/安装部署' },
+          { text: '基础知识', link: '/基础知识' },
           { text: '解除浏览器跨域限制', link: '/解除浏览器跨域限制' },
           { text: 'VIP 等级区别及价格', link: '/VIP等级区别及价格' },
-          { text: '基础知识', link: '/基础知识' },
         ]
       },
       {

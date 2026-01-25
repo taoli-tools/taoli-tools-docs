@@ -7,14 +7,14 @@ hero:
   tagline: 半自动化 U 本位对冲套利工具
   actions:
     - theme: brand
+      text: 快速开始
+      link: /快速开始
+    - theme: alt
       text: 安装部署
       link: /安装部署
     - theme: alt
-      text: 开始交易
-      link: https://taoli.tools/trade
-    - theme: alt
-      text: Telegram 群
-      link: https://t.me/taoli_tools
+      text: 基础知识
+      link: /基础知识
 
 features:
   - icon: 🔄
@@ -152,11 +152,3 @@ VIP 权益详细区别请参考 [VIP 等级区别及价格](VIP%E7%AD%89%E7%BA%A
 
 > [!WARNING]
 > 不支持退款
-
-## 使用步骤
-
-1. 访问 [https://taoli.tools/settings](https://taoli.tools/settings) 页面，点击蓝色按钮，使用 Telegram 登陆。
-2. 将 [https://taoli.tools/settings](https://taoli.tools/settings) 页面左上角 Telegram UID 后面的数字发给我，付款后，给你开通 VIP（VIP0 无需这一步）。
-3. 在 [https://taoli.tools/settings](https://taoli.tools/settings) 页面添加交易所的 API Key/Secret。然后点击 Save 按钮测试是否正确。
-4. 在 [https://taoli.tools/trade](https://taoli.tools/trade) 页面下方，”Symbol, CA”中搜索代币对名称，然后选择 A 和 B 代币对，然后点击”Add Pair”。
-5. 后续步骤参考 [交易所设置](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE.md)、[交易页面](%E4%BA%A4%E6%98%93%E9%A1%B5%E9%9D%A2.md)、[下单操作](%E4%B8%8B%E5%8D%95%E6%93%8D%E4%BD%9C.md)。建议仔细看文档，然后使用小额度操作尝试。
