@@ -96,7 +96,7 @@ export default defineConfig({
           {
             text: '安装部署',
             link: '/installation',
-            collapsed: true,
+            collapsed: false,
             items: [
               { text: '本地运行', link: '/installation/local-setup' },
               { text: 'Windows 服务器', link: '/installation/windows-server' },
@@ -107,7 +107,7 @@ export default defineConfig({
           {
             text: '解除浏览器跨域限制',
             link: '/disable-browser-cors',
-            collapsed: true,
+            collapsed: false,
             items: [
               { text: '浏览器插件', link: '/disable-browser-cors/browser-extension' },
               { text: '命令行禁用', link: '/disable-browser-cors/command-line' },
@@ -122,7 +122,7 @@ export default defineConfig({
           {
             text: '交易所设置',
             link: '/exchange-setup',
-            collapsed: true,
+            collapsed: false,
             items: [
               {
                 text: 'CEX',
