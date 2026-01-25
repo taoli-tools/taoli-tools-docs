@@ -8,7 +8,7 @@
 
 ## 数据展示区域
 
-![image.png](trading-page-guide/image%201.png)
+![image.png](trading-page-guide/image-1.png)
 
 每个虚线划分的区域里分为 A 和 B 两个交易对，A 有两行，B 也有两行：
 
@@ -18,9 +18,9 @@
         - 首先显示的是 未成交委托的订单个数`∑`未成交的每单数量加起来的总量，不同方向的订单加起来会互相抵消。
         - 后面显示每个未成交的委托：三个数字分别是：委托总量（已成交数量）$价格，最后面的`×`是取消委托按钮，取消委托**没有**二次确认。当按住键盘上的 Shift 或 Alt 按键时，最后的取消按钮消失，最前面会出现一个`✓`按钮，作用是市价追单，追单按钮也没有二次确认，可能需要点击多次才能追单成功，有些交易所没有修改委托接口，所以有些实现方式是先取消再重新下单，因此可能会出现取消委托但没重新下单的问题。在工具内操作成功的追单，可以正确计算到其对应的 PnL。
             
-            ![image.png](trading-page-guide/image%202.png)
+            ![image.png](trading-page-guide/image-2.png)
             
-            ![image.png](trading-page-guide/image%203.png)
+            ![image.png](trading-page-guide/image-3.png)
             
 - 第二、四行：
     - Position：持仓量。只要 A 和 B 持仓量一致，那仓位就处于平衡状态，和杠杆倍数无关，杠杆倍数只会影响保证金率和爆仓价。如果没有处于平衡状态，需要你去交易所里手动补平衡，才能实现对冲。杠杆倍数需要去交易所里调整，无法在工具里进行调整。Hyperliquid 需要在没有仓位的时候就设置好，其余的交易所可以先下单，后设置。
@@ -41,14 +41,14 @@
     - 展示信息。灰色信息可以忽略；黄色信息需要留意一下，并无大碍；红色信息说明你的交易至少有一边失败了。重要的信息会覆盖不重要的信息。刷新网页后仍然能看到信息。点击信息最后面的`×`按钮可以关闭信息。
     - 有些红色信息可以进行补单，此时按住 Shift 或 Alt 键之后可以看到一个`✓`按钮，后面跟着可以进行重试的交易方向和 size，点击即可市价补单。在工具内操作成功的补单，可以正确计算到其对应的 PnL。
         
-        ![image.png](trading-page-guide/image%204.png)
+        ![image.png](trading-page-guide/image-4.png)
         
 
 ## 下单操作区域
 
-![image.png](trading-page-guide/image%205.png)
+![image.png](trading-page-guide/image-5.png)
 
-![image.png](trading-page-guide/image%206.png)
+![image.png](trading-page-guide/image-6.png)
 
 - 请移步 [下单操作](./order-operations.md)
 
@@ -57,7 +57,7 @@
 > [!TIP]
 > 要先添加交易所，才能搜索到相应交易所里的代币对。
 
-![image.png](trading-page-guide/image%207.png)
+![image.png](trading-page-guide/image-7.png)
 
 - `⟳`：点击刷新交易对。
 - `Symbol, CA`：用于搜索筛选。
@@ -72,7 +72,7 @@
     - Spot：现货；Isolated：逐仓杠杆；Cross：全仓杠杆；Perp：永续合约
 - `Advanced`：勾选后展示更多选项。
     
-    ![image.png](trading-page-guide/image%208.png)
+    ![image.png](trading-page-guide/image-8.png)
     
     - 可以提前设置好的操作区域的参数。具体含义见 [下单操作](./order-operations.md) 。
     - 可以为-A+B 和+A-B 交易方向指定初始下单状态，点击 Add Pair 后可自动开始 Once 或者 Loop：
@@ -86,7 +86,7 @@
 
 ## P&L 区域
 
-![image.png](trading-page-guide/image%209.png)
+![image.png](trading-page-guide/image-9.png)
 
 - 每次下单都会下两单，一多一空，这里显示的是这两个订单的合计 PnL，手续费也包含在内。
 - 如果是购买现货，手续费是按现货收取。其余三种情况是收 U。
@@ -105,6 +105,6 @@
 
 ![image.png](trading-page-guide/98d2234d-d968-415a-aea3-36eda925d221.png)
 
-![image.png](trading-page-guide/image%2010.png)
+![image.png](trading-page-guide/image-10.png)
 
 左侧是该交易对的持仓资金费收支明细，右侧是该交易对的历史资金费率，右侧下方显示该永续合约的指数成分。

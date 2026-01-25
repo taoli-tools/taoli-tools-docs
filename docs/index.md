@@ -56,40 +56,40 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 
 | **CEX** | 永续合约 | 现货 | 现货杠杆 |
 | --- | --- | --- | --- |
-| [Binance](exchange-setup/Binance.md) | ✅ | ✅ | ✅ |
-| [Coinbase](exchange-setup/Coinbase.md) | ✅ | ✅ |  |
-| [Bybit](exchange-setup/Bybit.md) | ✅ | ✅ | ✅ |
-| [OKX](exchange-setup/OKX.md) | ✅ | ✅ |  |
-| [Bitget](exchange-setup/Bitget.md) | ✅ | ✅ | ✅ |
-| [Backpack](exchange-setup/Backpack.md) | ✅ | ✅ | ✅ |
-| [Gate](exchange-setup/Gate.md) | ✅ | ✅ | ✅ |
-| [KuCoin](exchange-setup/KuCoin.md) | ✅ | ✅ |  |
-| [MEXC](exchange-setup/MEXC.md) |  | ✅ |  |
+| [Binance](exchange-setup/binance.md) | ✅ | ✅ | ✅ |
+| [Coinbase](exchange-setup/coinbase.md) | ✅ | ✅ |  |
+| [Bybit](exchange-setup/bybit.md) | ✅ | ✅ | ✅ |
+| [OKX](exchange-setup/okx.md) | ✅ | ✅ |  |
+| [Bitget](exchange-setup/bitget.md) | ✅ | ✅ | ✅ |
+| [Backpack](exchange-setup/backpack.md) | ✅ | ✅ | ✅ |
+| [Gate](exchange-setup/gate.md) | ✅ | ✅ | ✅ |
+| [KuCoin](exchange-setup/kucoin.md) | ✅ | ✅ |  |
+| [MEXC](exchange-setup/mexc.md) |  | ✅ |  |
 
 | **DEX** | 现货 |
 | --- | --- |
-| [OKX DEX](exchange-setup/OKX%20DEX.md) | ✅ |
-| [Li.FI](exchange-setup/LI%20FI.md) | ✅ |
-| [EVM Router](exchange-setup/EVM%20Router.md) | ✅ |
-| [Jupiter](exchange-setup/Jupiter.md) | ✅ |
+| [OKX DEX](exchange-setup/okx-dex.md) | ✅ |
+| [Li.FI](exchange-setup/li-fi.md) | ✅ |
+| [EVM Router](exchange-setup/evm-router.md) | ✅ |
+| [Jupiter](exchange-setup/jupiter.md) | ✅ |
 | [1inch](exchange-setup/1inch.md) | ✅ |
-| [Uniswap V3](exchange-setup/Uniswap%20V3.md) | ✅ |
-| [PancakeSwap V3](exchange-setup/PancakeSwap%20V3.md) | ✅ |
-| [Odos](exchange-setup/Odos.md) | ✅ |
-| [Hyperion](exchange-setup/Hyperion.md) | ✅ |
+| [Uniswap V3](exchange-setup/uniswap-v3.md) | ✅ |
+| [PancakeSwap V3](exchange-setup/pancakeswap-v3.md) | ✅ |
+| [Odos](exchange-setup/odos.md) | ✅ |
+| [Hyperion](exchange-setup/hyperion.md) | ✅ |
 
 | **Perp DEX** | 永续合约 | 现货 |
 | --- | --- | --- |
-| [Hyperliquid](exchange-setup/Hyperliquid.md) | ✅ | ✅ |
-| [Aster](exchange-setup/Aster.md) | ✅ | ✅ |
-| [Lighter](exchange-setup/Lighter.md) | ✅ | ✅ |
-| [Grvt](exchange-setup/Grvt.md) | ✅ |  |
-| [Ethereal](exchange-setup/Ethereal.md) | ✅ |  |
-| [Paradex](exchange-setup/Paradex.md) | ✅ |  |
-| [Pacifica](exchange-setup/Pacifica.md) | ✅ |  |
-| [Extended](exchange-setup/Extended.md) | ✅ |  |
-| [StandX](exchange-setup/StandX.md) | ✅ |  |
-| [Apex Omni](exchange-setup/Apex%20Omni.md) | ✅ |  |
+| [Hyperliquid](exchange-setup/hyperliquid.md) | ✅ | ✅ |
+| [Aster](exchange-setup/aster.md) | ✅ | ✅ |
+| [Lighter](exchange-setup/lighter.md) | ✅ | ✅ |
+| [Grvt](exchange-setup/grvt.md) | ✅ |  |
+| [Ethereal](exchange-setup/ethereal.md) | ✅ |  |
+| [Paradex](exchange-setup/paradex.md) | ✅ |  |
+| [Pacifica](exchange-setup/pacifica.md) | ✅ |  |
+| [Extended](exchange-setup/extended.md) | ✅ |  |
+| [StandX](exchange-setup/standx.md) | ✅ |  |
+| [Apex Omni](exchange-setup/apex-omni.md) | ✅ |  |
 
 ## 支持的区块链
 
