@@ -129,6 +129,8 @@ export default defineConfig({
 
     search: {
       provider: 'local'
-    }
+    },
+
+    externalLinkIcon: true
   }
 })

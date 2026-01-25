@@ -17,7 +17,7 @@ hero:
       link: /基础知识
 
 features:
-  - icon: 🔄
+  - icon: 🔁
     title: 一键对冲
     details: 同时反向交易两个交易对，支持跨所搬砖套利、永续合约资金费套利
   - icon: 🔒
@@ -148,7 +148,7 @@ VIP 权益详细区别请参考 [VIP 等级区别及价格](VIP%E7%AD%89%E7%BA%A
 
 资金额：对于现货账户和链上，只算 U。对于统一/杠杆/合约账户，算的是账户总权益。
 
-购买请联系 [Aliez Ren](https://t.me/aliez_ren)。可先购买低等级套餐，随时根据剩余时间补差价升级。
+购买请联系 [Aliez Ren](https://t.me/aliez_ren)。可先购买低等级套餐，随时根据剩余时间的比例补差价升级。
 
 > [!WARNING]
 > 不支持退款
