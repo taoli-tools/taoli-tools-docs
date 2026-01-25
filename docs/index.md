@@ -152,3 +152,24 @@ VIP 权益详细区别请参考 [VIP 等级区别及价格](VIP%E7%AD%89%E7%BA%A
 
 > [!WARNING]
 > 不支持退款
+
+## 团队
+
+<script setup>
+import { VPTeamMembers } from 'vitepress/theme'
+
+const members = [
+  {
+    avatar: 'https://www.github.com/aliez-ren.png',
+    name: 'Aliez Ren',
+    title: '创始人',
+    links: [
+      { icon: 'github', link: 'https://github.com/aliez-ren' },
+      { icon: 'x', link: 'https://x.com/aliez_ren' },
+      { icon: 'telegram', link: 'https://t.me/aliez_ren' }
+    ]
+  }
+]
+</script>
+
+<VPTeamMembers size="small" :members="members" />
