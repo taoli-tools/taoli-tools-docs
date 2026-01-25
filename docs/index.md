@@ -159,4 +159,4 @@ VIP 权益详细区别请参考 [VIP 等级区别及价格](VIP%E7%AD%89%E7%BA%A
 2. 将 [https://taoli.tools/settings](https://taoli.tools/settings) 页面左上角 Telegram UID 后面的数字发给我，付款后，给你开通 VIP（VIP0 无需这一步）。
 3. 在 [https://taoli.tools/settings](https://taoli.tools/settings) 页面添加交易所的 API Key/Secret。然后点击 Save 按钮测试是否正确。
 4. 在 [https://taoli.tools/trade](https://taoli.tools/trade) 页面下方，”Symbol, CA”中搜索代币对名称，然后选择 A 和 B 代币对，然后点击”Add Pair”。
-5. 后续步骤参考 [交易所设置说明](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E.md)、[交易页面说明](%E4%BA%A4%E6%98%93%E9%A1%B5%E9%9D%A2%E8%AF%B4%E6%98%8E.md)、[下单操作说明](%E4%B8%8B%E5%8D%95%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E.md)。建议仔细看文档，然后使用小额度操作尝试。
+5. 后续步骤参考 [交易所设置](%E4%BA%A4%E6%98%93%E6%89%80%E8%AE%BE%E7%BD%AE.md)、[交易页面](%E4%BA%A4%E6%98%93%E9%A1%B5%E9%9D%A2.md)、[下单操作](%E4%B8%8B%E5%8D%95%E6%93%8D%E4%BD%9C.md)。建议仔细看文档，然后使用小额度操作尝试。
