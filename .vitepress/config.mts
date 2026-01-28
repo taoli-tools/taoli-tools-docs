@@ -136,6 +136,7 @@ export default defineConfig({
                   { text: 'Backpack', link: '/exchange-setup/backpack' },
                   { text: 'Gate', link: '/exchange-setup/gate' },
                   { text: 'KuCoin', link: '/exchange-setup/ku-coin' },
+                  { text: 'HTX', link: '/exchange-setup/htx' },
                   { text: 'MEXC', link: '/exchange-setup/mexc' },
                 ]
               },

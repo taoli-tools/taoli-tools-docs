@@ -64,6 +64,7 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 | [Backpack](exchange-setup/backpack.md) | ✅ | ✅ | ✅ |
 | [Gate](exchange-setup/gate.md) | ✅ | ✅ | ✅ |
 | [KuCoin](exchange-setup/ku-coin.md) | ✅ | ✅ |  |
+| [HTX](exchange-setup/htx.md) | ✅ | ✅ |  |
 | [MEXC](exchange-setup/mexc.md) |  | ✅ |  |
 
 | **DEX** | 现货 |
