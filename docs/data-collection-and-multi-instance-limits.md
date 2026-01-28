@@ -15,7 +15,7 @@ Taoli Tools 不收集任何密钥和交易相关的数据，但会收集以下�
 
 在同一个机器上，可以使用以下方式开启多个互不影响的浏览器环境：
 
-修改命令中的“Taoli Tools”为“Taoli Tools 1”，“Taoli Tools 2”等不同文件夹路径，一个文件夹路径对应一个独立的浏览器环境。
+修改命令中的「Taoli Tools」为「Taoli Tools 1」，「Taoli Tools 2」等不同文件夹路径，一个文件夹路径对应一个独立的浏览器环境。
 
 - Windows + Edge：按 Windows 键+R 后，输入以下内容然后按回车：
     

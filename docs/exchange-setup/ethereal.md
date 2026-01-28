@@ -8,11 +8,11 @@
 
 ![image.png](ethereal/image.png)
 
-1. 打开浏览器开发者模式，找到”signerKey”
-    
+1. 打开浏览器开发者模式，找到「signerKey」
+
     ![image.png](ethereal/image-1.png)
-    
-2. “Address”填主钱包地址，“API Private Key”填”signerKey”
+
+2. 「Address」填主钱包地址，「API Private Key」填「signerKey」
     
     ![image.png](ethereal/image-2.png)
     

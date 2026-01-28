@@ -23,8 +23,8 @@ Bitget Wallet Card 邀请码：`1t5Nzd`
     
     ![image.png](bitget/image-2.png)
     
-5. 在“API 密钥”页面 [https://www.bitget.com/account/newapi](https://www.bitget.com/account/newapi) 点击“新建 API Key”
-6. 选择“系统生成的 API 密钥”
+5. 在「API 密钥」页面 [https://www.bitget.com/account/newapi](https://www.bitget.com/account/newapi) 点击「新建 API Key」
+6. 选择「系统生成的 API 密钥」
     
     ![image.png](bitget/image.png)
     

@@ -18,7 +18,7 @@
     
 2. 打开一个合约交易页面，比如 [https://www.gate.io/futures/USDT/BTC_USDT](https://www.gate.io/futures/USDT/BTC_USDT)
 3. 点击右上角齿轮按钮
-4. 设置“账户模式”为“跨币种保证金模式”，设置“持仓模式”为“单向持仓”
+4. 设置「账户模式」为「跨币种保证金模式」，设置「持仓模式」为「单向持仓」
     
     ![image.png](gate/image-3.png)
     

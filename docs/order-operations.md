@@ -68,7 +68,7 @@ head:
 
 - $MinA：Min A Position Value。A 的最小持仓量，单位是 U。-A+B 时，如果仓位价值即将小于这个数，则会暂停下单，黄色字报错`A: Position value will be less than $MinA`，但不会停止 Loop。如果是现货，只能填大于等于 0 的数，否则可以填负数。
 - $MaxA：Max A Position Value。A 的最大持仓量，单位是 U。买入或做多时，如果仓位价值即将大于这个数，则会暂停下单，黄色字报错`A: Position value will be greater than $MaxA`，但不会停止 Loop。
-- 即使不再按 Shift，只要填写了$MinA 和$MaxA，就会持续生效。并且和 MinA 和 MaxA 一起都有效，逻辑上是“and”的关系。
+- 即使不再按 Shift，只要填写了$MinA 和$MaxA，就会持续生效。并且和 MinA 和 MaxA 一起都有效，逻辑上是「and」的关系。
 - 黄色的未成交挂单也会算在内。
 
 ## 设置差价及下单

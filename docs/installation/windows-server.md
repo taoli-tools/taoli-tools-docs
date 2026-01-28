@@ -57,7 +57,7 @@
 
 ## 禁用 Windows 自动更新
 
-腾讯云轻量应用服务器默认禁用了 Windows 更新，可以去系统设置中确认是否有“你的组织已关闭自动更新”字样：
+腾讯云轻量应用服务器默认禁用了 Windows 更新，可以去系统设置中确认是否有「你的组织已关闭自动更新」字样：
 
 ![image.png](windows-server/image-5.png)
 
@@ -71,10 +71,10 @@
 
 ![image.png](windows-server/image-11.png)
 
-- 关闭”启用高效模式”
-- 关闭“使用效率模式改善电脑游戏体验”
-- 关闭“使用标签页休眠功能节约资源“
-- “从不让这些站点进入睡眠状态”添加站点`https://taoli.tools`
+- 关闭「启用高效模式」
+- 关闭「使用效率模式改善电脑游戏体验」
+- 关闭「使用标签页休眠功能节约资源」
+- 「从不让这些站点进入睡眠状态」添加站点`https://taoli.tools`
 
 ## 禁用 Chrome 浏览器的自动休眠
 
@@ -82,9 +82,9 @@
 
 ![image.png](windows-server/image-6.png)
 
-- “始终让以下网站保持活跃状态”添加站点`https://taoli.tools`
-- 关闭“省内存模式”
-- 关闭“节能模式”
+- 「始终让以下网站保持活跃状态」添加站点`https://taoli.tools`
+- 关闭「省内存模式」
+- 关闭「节能模式」
 
 ## 使系统不自动锁屏
 
@@ -92,11 +92,11 @@
 
 [我希望断开桌面远程连接后，被控制电脑不要自动锁屏 - Microsoft Q&A](https://learn.microsoft.com/zh-cn/answers/questions/4105414/question-4105414)
 
-为 Logout.bat 再创建一个快捷方式，右键快捷方式的属性，选择高级，勾选“用管理员身份运行”
+为 Logout.bat 再创建一个快捷方式，右键快捷方式的属性，选择高级，勾选「用管理员身份运行」
 
 ![image.png](windows-server/image-7.png)
 
-右键任务栏，勾选工具栏里的”桌面”选项
+右键任务栏，勾选工具栏里的「桌面」选项
 
 ![image.png](windows-server/image-8.png)
 

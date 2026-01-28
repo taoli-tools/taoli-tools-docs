@@ -12,12 +12,12 @@
 > [!WARNING]
 > 因 Grvt API 限制，一个浏览器环境中仅支持添加一个 Grvt 账号，如果添加多个账号，会引起错乱。并且 API 和交易所网页无法同时使用。
 
-- 前往页面 [https://grvt.io/exchange/account/api-keys](https://grvt.io/exchange/account/api-keys) 点击“Create”
-- 选择“Generate”
+- 前往页面 [https://grvt.io/exchange/account/api-keys](https://grvt.io/exchange/account/api-keys) 点击「Create」
+- 选择「Generate」
     
     ![image.png](grvt/image.png)
     
-- 选择一个 TradingAccount（不要选 FundingAccount），并勾选“Trade”权限
+- 选择一个 TradingAccount（不要选 FundingAccount），并勾选「Trade」权限
     
     ![image.png](grvt/image-1.png)
     
