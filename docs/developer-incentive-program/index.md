@@ -9,6 +9,9 @@ head:
 
 # 开发者激励计划
 
+> [!WARNING]
+> 此计划已于 2026 年 1 月暂停。
+
 无论你是科班出身的程序员，还是 AI Vibe Coding 的爱好者，都可以通过制作辅助套利的小工具（包括但不限于网页、Telegram Bot）来加入 Taoli Tools 的开发者激励计划。该计划可以为你提供免费的 Taoli Tools VIP2。
 
 小工具需要满足以下条件：
