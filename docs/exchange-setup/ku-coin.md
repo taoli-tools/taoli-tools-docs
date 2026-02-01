@@ -1,3 +1,12 @@
+---
+title: KuCoin 设置 - Taoli Tools 使用手册
+description: 配置 KuCoin 交易所 API,支持现货和合约交易,66% 自动返佣
+head:
+  - - meta
+    - name: keywords
+      content: KuCoin,CEX,现货交易,永续合约,Taoli Tools,API 配置
+---
+
 # KuCoin
 
 返佣：自动 66%

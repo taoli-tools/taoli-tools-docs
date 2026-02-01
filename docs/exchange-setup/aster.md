@@ -1,3 +1,12 @@
+---
+title: Aster 设置 - Taoli Tools 使用手册
+description: 配置 Aster Perp DEX API,支持永续合约和现货交易
+head:
+  - - meta
+    - name: keywords
+      content: Aster,Perp DEX,永续合约,Taoli Tools,API 配置
+---
+
 # Aster
 
 返佣：10%

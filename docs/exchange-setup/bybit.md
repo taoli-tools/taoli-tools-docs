@@ -1,3 +1,12 @@
+---
+title: Bybit 设置 - Taoli Tools 使用手册
+description: 配置 Bybit 交易所 API,支持现货、合约和杠杆交易,最高 46% 返佣
+head:
+  - - meta
+    - name: keywords
+      content: Bybit,CEX,现货交易,永续合约,Taoli Tools,API 配置
+---
+
 # Bybit
 
 返佣：33% 自动 + 13% 手动

@@ -1,3 +1,12 @@
+---
+title: 开发者激励计划 - Taoli Tools 使用手册
+description: 加入 Taoli Tools 开发者激励计划,制作辅助套利的小工具获得免费 VIP 权益
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools 开发者激励,VIP 奖励,套利工具开发,Telegram Bot,开源项目
+---
+
 # 开发者激励计划
 
 无论你是科班出身的程序员，还是 AI Vibe Coding 的爱好者，都可以通过制作辅助套利的小工具（包括但不限于网页、Telegram Bot）来加入 Taoli Tools 的开发者激励计划。该计划可以为你提供免费的 Taoli Tools VIP2。

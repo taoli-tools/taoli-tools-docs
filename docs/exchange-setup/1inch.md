@@ -1,3 +1,12 @@
+---
+title: 1inch 设置 - Taoli Tools 使用手册
+description: 配置 1inch DEX 聚合器 API,支持多链 DeFi 交易
+head:
+  - - meta
+    - name: keywords
+      content: 1inch,DEX 聚合器,DeFi,Taoli Tools,链上交易
+---
+
 # 1inch
 
 [dApp 1inch - DeFi / DEX aggregator on Ethereum, Binance Smart Chain, Optimism, Polygon, Arbitrum](https://app.1inch.io/)

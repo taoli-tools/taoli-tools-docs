@@ -1,3 +1,12 @@
+---
+title: 本地运行 - Taoli Tools 使用手册
+description: 在本地电脑浏览器中运行 Taoli Tools,无需额外部署,简单快捷的使用方式
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools 本地运行,浏览器运行,Chrome,Edge,本地部署
+---
+
 # 本地运行
 
 本地电脑打开网页，[解除浏览器跨域限制](../disable-browser-cors/) 后就可以直接使用。

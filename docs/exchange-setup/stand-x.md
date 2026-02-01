@@ -1,3 +1,12 @@
+---
+title: StandX 设置 - Taoli Tools 使用手册
+description: 配置 StandX Perp DEX API,支持永续合约交易
+head:
+  - - meta
+    - name: keywords
+      content: StandX,Perp DEX,永续合约,DUSD,Taoli Tools,API 配置
+---
+
 # StandX
 
 邀请码：`TaoliTools`

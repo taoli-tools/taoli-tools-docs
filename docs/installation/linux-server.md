@@ -1,3 +1,12 @@
+---
+title: Linux 服务器部署 - Taoli Tools 使用手册
+description: 在 Linux 服务器上使用 Docker 部署 Taoli Tools,通过 Tailscale 和 VNC 远程访问
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools Linux 服务器,Docker 部署,Vultr,Tailscale,VNC,Debian
+---
+
 # Linux 服务器
 
 > [!WARNING]

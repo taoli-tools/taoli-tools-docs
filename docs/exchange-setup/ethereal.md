@@ -1,3 +1,12 @@
+---
+title: Ethereal 设置 - Taoli Tools 使用手册
+description: 配置 Ethereal Perp DEX API,支持永续合约交易
+head:
+  - - meta
+    - name: keywords
+      content: Ethereal,Perp DEX,永续合约,Taoli Tools,API 配置
+---
+
 # Ethereal
 
 邀请码：`XK0YCAFN6OXU`

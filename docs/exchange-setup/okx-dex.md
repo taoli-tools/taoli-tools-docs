@@ -1,3 +1,12 @@
+---
+title: OKX DEX 设置 - Taoli Tools 使用手册
+description: 配置 OKX DEX 聚合器,支持多链 EVM 和 Solana 交易,20% 返佣
+head:
+  - - meta
+    - name: keywords
+      content: OKX DEX,DEX,聚合器,EVM,Solana,链上交易,Taoli Tools
+---
+
 # OKX DEX
 
 返佣：20%

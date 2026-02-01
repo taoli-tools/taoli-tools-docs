@@ -1,3 +1,12 @@
+---
+title: Hyperion 设置 - Taoli Tools 使用手册
+description: 配置 Hyperion DEX,支持 Aptos 链上交易
+head:
+  - - meta
+    - name: keywords
+      content: Hyperion,DEX,Aptos,链上交易,Taoli Tools
+---
+
 # Hyperion
 
 [Hyperion](https://hyperion.xyz/swap)

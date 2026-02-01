@@ -1,3 +1,12 @@
+---
+title: Taoli Tools Signer - Taoli Tools 使用手册
+description: 使用 Taoli Tools Signer 开源项目保护你的钱包助记词安全,部署独立的签名服务
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools Signer,钱包安全,助记词保护,签名服务,EVM,Solana
+---
+
 # Taoli Tools Signer
 
 这是一个开源项目，可以让你的钱包助记词不再存到 Taoli Tools 中，而是变为像 Taoli Tools 调用其他中心化交易所 API 一样，来调用你自己部署的 Signer 服务。

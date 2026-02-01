@@ -1,4 +1,10 @@
 ---
+title: Taoli Tools 使用手册 - 半自动化 U 本位对冲套利工具
+description: Taoli Tools 是一个半自动化的 U 本位对冲套利工具,支持跨所搬砖套利、永续合约资金费套利,支持数十家 CEX、DEX 和 Perp DEX
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools,对冲套利,资金费套利,跨所搬砖,加密货币交易,U本位,永续合约,CEX,DEX,Perp DEX
 layout: home
 
 hero:

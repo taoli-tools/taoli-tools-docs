@@ -1,3 +1,12 @@
+---
+title: Hyperliquid 设置 - Taoli Tools 使用手册
+description: 配置 Hyperliquid Perp DEX API,支持永续合约和现货交易,4% 返佣
+head:
+  - - meta
+    - name: keywords
+      content: Hyperliquid,Perp DEX,永续合约,现货交易,Taoli Tools,API 配置
+---
+
 # Hyperliquid
 
 返佣：4%

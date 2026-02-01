@@ -1,3 +1,12 @@
+---
+title: Lighter 设置 - Taoli Tools 使用手册
+description: 配置 Lighter Perp DEX API,支持永续合约和现货交易
+head:
+  - - meta
+    - name: keywords
+      content: Lighter,Perp DEX,永续合约,现货交易,Taoli Tools,API 配置
+---
+
 # Lighter
 
 邀请码：`TAOLI`

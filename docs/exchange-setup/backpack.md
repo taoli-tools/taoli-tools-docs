@@ -1,3 +1,12 @@
+---
+title: Backpack 设置 - Taoli Tools 使用手册
+description: 配置 Backpack 交易所 API,支持现货、合约和杠杆交易,35% 返佣
+head:
+  - - meta
+    - name: keywords
+      content: Backpack,CEX,现货交易,永续合约,Taoli Tools,API 配置
+---
+
 # Backpack
 
 返佣：35%

@@ -1,3 +1,12 @@
+---
+title: Bitget 设置 - Taoli Tools 使用手册
+description: 配置 Bitget 交易所 API,支持现货、合约和杠杆交易,最高 60% 返佣
+head:
+  - - meta
+    - name: keywords
+      content: Bitget,CEX,现货交易,永续合约,Taoli Tools,API 配置
+---
+
 # Bitget
 
 返佣：现货 50%，合约 60%。注册后把 Bitget UID 发给 [Aliez Ren](https://t.me/aliez_ren)，在后台给你升级为子代理后，即可登记返佣。（使用 API 下单时，合约 50%）

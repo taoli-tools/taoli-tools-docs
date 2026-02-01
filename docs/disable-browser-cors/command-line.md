@@ -1,3 +1,12 @@
+---
+title: 命令行禁用跨域 - Taoli Tools 使用手册
+description: 通过命令行参数启动浏览器禁用跨域安全检查,支持 Windows、macOS 和 Linux 系统
+head:
+  - - meta
+    - name: keywords
+      content: 命令行禁用跨域,disable-web-security,Chrome 命令行,Edge 命令行
+---
+
 # 命令行禁用
 
 通过命令行禁用浏览器跨域安全

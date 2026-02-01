@@ -1,3 +1,12 @@
+---
+title: 交易所设置 - Taoli Tools 使用手册
+description: 配置 Taoli Tools 支持的各个交易所 API,包括 CEX、DEX 和 Perp DEX 的设置教程
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools 交易所设置,API 配置,CEX,DEX,Perp DEX,交易所 API
+---
+
 # 交易所设置
 
 在 [设置页面](https://taoli.tools/trade?settings=1) 填写交易所的 API 信息，然后点击 Save 按钮保存

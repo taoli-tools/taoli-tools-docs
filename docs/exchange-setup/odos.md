@@ -1,3 +1,12 @@
+---
+title: Odos 设置 - Taoli Tools 使用手册
+description: 配置 Odos DEX 聚合器,支持多链 EVM 交易
+head:
+  - - meta
+    - name: keywords
+      content: Odos,DEX,聚合器,EVM,链上交易,Taoli Tools
+---
+
 # Odos
 
 [Odos](https://app.odos.xyz/)

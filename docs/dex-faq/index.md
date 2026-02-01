@@ -1,3 +1,12 @@
+---
+title: DEX 常见问题 - Taoli Tools 使用手册
+description: Taoli Tools DEX 交易常见问题解答,包括代币搜索、交易失败原因、滑点设置、RPC 配置等
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools DEX,DEX 常见问题,滑点设置,Gas Fee,RPC 配置,链上交易
+---
+
 # DEX 常见问题
 
 1. 搜不到代币

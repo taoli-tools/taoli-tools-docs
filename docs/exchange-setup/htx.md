@@ -1,3 +1,12 @@
+---
+title: HTX 设置 - Taoli Tools 使用手册
+description: 配置 HTX 火币交易所 API,支持现货和合约交易,最高 56% 返佣
+head:
+  - - meta
+    - name: keywords
+      content: HTX,火币,CEX,现货交易,永续合约,Taoli Tools,API 配置
+---
+
 # HTX
 
 返佣：合约 30% 自动 + 26% 手动，现货 30% 自动 + 16% 手动。

@@ -1,3 +1,12 @@
+---
+title: Extended 设置 - Taoli Tools 使用手册
+description: 配置 Extended Perp DEX API,支持永续合约交易
+head:
+  - - meta
+    - name: keywords
+      content: Extended,Perp DEX,永续合约,Taoli Tools,API 配置
+---
+
 # Extended
 
 邀请码：`TAOLI`

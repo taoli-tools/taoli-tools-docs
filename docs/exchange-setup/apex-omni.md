@@ -1,3 +1,12 @@
+---
+title: Apex Omni 设置 - Taoli Tools 使用手册
+description: 配置 Apex Omni Perp DEX API,获取最高 40% 返佣
+head:
+  - - meta
+    - name: keywords
+      content: Apex Omni,Perp DEX,永续合约,Taoli Tools,API 配置
+---
+
 # Apex Omni
 
 返佣：现货 40%，合约 30%。积分最高 1.5 倍加成（等车队交易量达到 50MU）

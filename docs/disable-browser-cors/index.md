@@ -1,3 +1,12 @@
+---
+title: 解除浏览器跨域限制 - Taoli Tools 使用手册
+description: 解除浏览器跨域安全限制以正常使用 Taoli Tools,支持浏览器插件和命令行两种方案
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools 跨域,CORS,浏览器插件,Chrome 插件,跨域限制
+---
+
 # 解除浏览器跨域限制
 
 由于浏览器的跨域安全限制，Taoli Tools 需要解除跨域限制才能正常使用。以下提供两种方案，选择其中一种即可。

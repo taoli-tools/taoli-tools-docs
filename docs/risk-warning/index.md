@@ -1,3 +1,12 @@
+---
+title: 风险提示 - Taoli Tools 使用手册
+description: 了解使用 Taoli Tools 进行加密货币交易的安全风险和金融风险,包括 API 安全、爆仓风险、ADL 等重要提示
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools 风险提示,API 安全,爆仓风险,ADL 自动减仓,保证金率,加密货币风险
+---
+
 # 风险提示
 
 ## 安全风险

@@ -1,3 +1,12 @@
+---
+title: Jupiter 设置 - Taoli Tools 使用手册
+description: 配置 Jupiter DEX 聚合器,支持 Solana 链上交易
+head:
+  - - meta
+    - name: keywords
+      content: Jupiter,DEX,Solana,链上交易,DEX 聚合器,Taoli Tools
+---
+
 # Jupiter
 
 [Jupiter](https://jup.ag/)

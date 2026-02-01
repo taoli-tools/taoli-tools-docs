@@ -1,3 +1,12 @@
+---
+title: Windows 服务器部署 - Taoli Tools 使用手册
+description: 在 Windows 服务器上部署 Taoli Tools,支持阿里云和腾讯云,实现 7×24 小时稳定运行
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools Windows 服务器,阿里云,腾讯云,远程桌面,服务器部署,东京服务器
+---
+
 # Windows 服务器
 
 ## 阿里云轻量应用服务器

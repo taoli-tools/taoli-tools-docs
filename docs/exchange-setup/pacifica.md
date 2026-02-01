@@ -1,3 +1,12 @@
+---
+title: Pacifica 设置 - Taoli Tools 使用手册
+description: 配置 Pacifica Perp DEX API,支持永续合约交易,15% 返佣
+head:
+  - - meta
+    - name: keywords
+      content: Pacifica,Perp DEX,永续合约,Taoli Tools,API 配置
+---
+
 # Pacifica
 
 返佣：15%

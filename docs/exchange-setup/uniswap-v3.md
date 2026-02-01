@@ -1,3 +1,12 @@
+---
+title: Uniswap V3 设置 - Taoli Tools 使用手册
+description: 配置 Uniswap V3 DEX,支持多链 EVM 交易
+head:
+  - - meta
+    - name: keywords
+      content: Uniswap,DEX,Ethereum,EVM,链上交易,Taoli Tools
+---
+
 # Uniswap V3
 
 [Uniswap Interface](https://app.uniswap.org/swap)

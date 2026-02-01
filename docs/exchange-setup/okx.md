@@ -1,3 +1,12 @@
+---
+title: OKX 设置 - Taoli Tools 使用手册
+description: 配置 OKX 欧易交易所 API,支持现货和合约交易,最高 26% 返佣
+head:
+  - - meta
+    - name: keywords
+      content: OKX,欧易,CEX,现货交易,永续合约,Taoli Tools,API 配置
+---
+
 # OKX
 
 返佣：20% 自动 + 6% 手动

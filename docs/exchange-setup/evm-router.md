@@ -1,3 +1,12 @@
+---
+title: EVM Router 设置 - Taoli Tools 使用手册
+description: 配置 Taoli Tools 自研的 EVM Router,支持多链上的 Uniswap 和 PancakeSwap 协议
+head:
+  - - meta
+    - name: keywords
+      content: EVM Router,DEX,Uniswap,PancakeSwap,多链交易,Taoli Tools
+---
+
 # EVM Router
 
 EVM Router 是 Taoli Tools 自研的简易路由器，支持多个 EVM 链上的多个协议。

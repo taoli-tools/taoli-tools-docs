@@ -1,3 +1,12 @@
+---
+title: Paradex 设置 - Taoli Tools 使用手册
+description: 配置 Paradex Perp DEX API,支持永续合约交易,14% 额外积分加成
+head:
+  - - meta
+    - name: keywords
+      content: Paradex,Perp DEX,永续合约,Taoli Tools,API 配置
+---
+
 # Paradex
 
 邀请码：`taoli`

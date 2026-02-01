@@ -1,3 +1,12 @@
+---
+title: LI.FI 设置 - Taoli Tools 使用手册
+description: 配置 LI.FI 跨链聚合器,支持多链 EVM 和 Solana 交易
+head:
+  - - meta
+    - name: keywords
+      content: LI.FI,DEX,跨链聚合器,EVM,Solana,Taoli Tools
+---
+
 # LI.FI
 
 LI.FI 支持的链：[https://li.quest/v1/chains?chainTypes=EVM,SVM,MVM](https://li.quest/v1/chains?chainTypes=EVM,SVM,MVM)

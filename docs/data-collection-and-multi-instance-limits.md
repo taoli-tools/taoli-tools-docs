@@ -1,3 +1,12 @@
+---
+title: 信息收集与多开限制 - Taoli Tools 使用手册
+description: 了解 Taoli Tools 的信息收集政策和多开限制规则,包括收集的数据类型和多浏览器环境使用方法
+head:
+  - - meta
+    - name: keywords
+      content: Taoli Tools 隐私政策,信息收集,多开限制,浏览器环境,数据安全
+---
+
 # 信息收集与多开限制
 
 ## 信息收集

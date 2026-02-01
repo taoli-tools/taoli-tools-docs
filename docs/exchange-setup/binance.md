@@ -1,3 +1,12 @@
+---
+title: Binance 设置 - Taoli Tools 使用手册
+description: 配置 Binance 币安交易所 API,支持现货、合约和杠杆交易
+head:
+  - - meta
+    - name: keywords
+      content: Binance,币安,CEX,现货交易,永续合约,Taoli Tools,API 配置
+---
+
 # Binance
 
 返佣：19.99%+

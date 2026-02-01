@@ -1,3 +1,12 @@
+---
+title: Coinbase 设置 - Taoli Tools 使用手册
+description: 配置 Coinbase 交易所 API,支持现货和永续合约交易
+head:
+  - - meta
+    - name: keywords
+      content: Coinbase,CEX,现货交易,永续合约,Taoli Tools,API 配置
+---
+
 # Coinbase
 
 邀请码：`6ZX9X5P`

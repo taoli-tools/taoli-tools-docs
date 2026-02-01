@@ -1,3 +1,12 @@
+---
+title: PancakeSwap V3 设置 - Taoli Tools 使用手册
+description: 配置 PancakeSwap V3 DEX,支持多链 EVM 交易
+head:
+  - - meta
+    - name: keywords
+      content: PancakeSwap,DEX,BNB Chain,EVM,链上交易,Taoli Tools
+---
+
 # PancakeSwap V3
 
 [Exchange | PancakeSwap](https://pancakeswap.finance/swap)

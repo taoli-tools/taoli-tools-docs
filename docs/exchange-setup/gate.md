@@ -1,3 +1,12 @@
+---
+title: Gate 设置 - Taoli Tools 使用手册
+description: 配置 Gate 交易所 API,支持现货、合约和杠杆交易,最高 70% 返佣
+head:
+  - - meta
+    - name: keywords
+      content: Gate,CEX,现货交易,永续合约,杠杆交易,Taoli Tools,API 配置
+---
+
 # Gate
 
 返佣：合约 64%，现货 60%。注册后把 Gate UID 发给 [Aliez Ren](https://t.me/aliez_ren)，并在 App 里确认升级为超级代理，即可登记返佣。（在任何交易所交易量大的，发截图，合约比例可以提高到 70%）（使用 API 下单时，合约 44%，现货 40%）
