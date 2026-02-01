@@ -228,6 +228,11 @@ export default defineConfig({
       }
     },
 
-    externalLinkIcon: true
+    externalLinkIcon: true,
+
+    footer: {
+      message: '文档采用 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans" target="_blank">CC BY-NC-ND 4.0</a> 协议发布',
+      copyright: '© 2025 Taoli Tools'
+    }
   }
 })
