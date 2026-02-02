@@ -44,7 +44,7 @@ OKX DEX 支持的链：[https://web3.okx.com/build/dev-docs/wallet-api/supported
     2. API 个数 ≥ OKX DEX Ticker 数量 * 2
     
     > [!TIP]
-> 因此，最开始的时候，建议添加三组 API，Quote Interval 调整为 2000+，只使用一个 Pair。等产生一些交易量后，再联系 OKX DEX 商务给 API Key 提速。只需给其中一组 API 提速。
+    > 因此，最开始的时候，建议添加三组 API，Quote Interval 调整为 2000+，只使用一个 Pair。等产生一些交易量后，再联系 OKX DEX 商务给 API Key 提速。只需给其中一组 API 提速。
     
 - 建议每个 API Key 的限速都一样，不然可能会利用不满高限速的 API Key。
 - 只支持市价单，不支持限价单，选择限价单时仍然是下市价单。
