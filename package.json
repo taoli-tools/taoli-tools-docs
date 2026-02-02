@@ -7,7 +7,8 @@
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview",
-    "deploy": "wrangler pages deploy"
+    "deploy": "wrangler pages deploy",
+    "format": "prettier . --write"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +18,7 @@
     "vitepress": "^2.0.0-alpha.16"
   },
   "devDependencies": {
+    "prettier": "^2.8.8",
     "wrangler": "^4.60.0"
   }
 }

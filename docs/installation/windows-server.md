@@ -12,37 +12,37 @@ head:
 ## 阿里云轻量应用服务器
 
 1. 阿里云优惠链接：
-    
-    [云小站_专享特惠_云产品推荐-阿里云](https://www.aliyun.com/minisite/goods?userCode=a3nb4tbw)
-    
-    [轻量应用服务器_web 服务器_个人建站_弹性计算-阿里云](https://cn.aliyun.com/product/swas?userCode=a3nb4tbw)
-    
-    阿里云国际站：
-    
-    [Simple Application Server-Alibaba Cloud](https://www.alibabacloud.com/product/swas?referral_code=A92PTS)
-    
+
+   [云小站*专享特惠*云产品推荐-阿里云](https://www.aliyun.com/minisite/goods?userCode=a3nb4tbw)
+
+   [轻量应用服务器*web 服务器*个人建站\_弹性计算-阿里云](https://cn.aliyun.com/product/swas?userCode=a3nb4tbw)
+
+   阿里云国际站：
+
+   [Simple Application Server-Alibaba Cloud](https://www.alibabacloud.com/product/swas?referral_code=A92PTS)
+
 2. 按照下图方式筛选机器：
-    
-    ![image.png](windows-server/image.png)
-    
+
+   ![image.png](windows-server/image.png)
+
 3. 套餐配置：选择通用型，不要选择国际型，推荐 2 核 4G 起。
 
 ## 腾讯云轻量应用服务器
 
 1. 腾讯云优惠链接：
-    
-    [腾讯云运营活动 - 腾讯云](https://curl.qcloud.com/G8aWWIr7)
-    
+
+   [腾讯云运营活动 - 腾讯云](https://curl.qcloud.com/G8aWWIr7)
+
 2. 按照下图方式筛选机器：
-    
-    ![image.png](windows-server/image-1.png)
-    
+
+   ![image.png](windows-server/image-1.png)
+
 3. 进入服务器购买页面，如图选择：
-    
-    ![image.png](windows-server/image-2.png)
-    
-    ![image.png](windows-server/image-3.png)
-    
+
+   ![image.png](windows-server/image-2.png)
+
+   ![image.png](windows-server/image-3.png)
+
 4. 系统镜像：Windows Server 2022 中文版
 5. 地域：亚太 - 东京。因为大部分交易所的服务器都在东京
 6. 可用区：随机分配即可，无明显差别

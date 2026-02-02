@@ -22,16 +22,14 @@ head:
 
 ![image.png](bybit/image-1.png)
 
-1. 打开「API 管理」页面 [https://www.bybit.com/app/user/api-management](https://www.bybit.com/app/user/api-management)
-2. 点击「新建密钥」，选择「系统生成的 API 密钥」
-    
+1.  打开「API 管理」页面 [https://www.bybit.com/app/user/api-management](https://www.bybit.com/app/user/api-management)
+2.  点击「新建密钥」，选择「系统生成的 API 密钥」
+
     ![image.png](bybit/image-2.png)
-    
-3. 选择「读写权限」，勾选「统一交易账户」中的全部四个选项，然后提交
-    
+
+3.  选择「读写权限」，勾选「统一交易账户」中的全部四个选项，然后提交
+
     ![image.png](bybit/image-3.png)
-    
-4. Bybit 慎用市价单
-    
-    > [!WARNING]
-> 如果下市价单时价格附近 1% 内的挂单数量不足，则会部分成交或不成交，也不会报错。
+
+4.  Bybit 慎用市价单 > [!WARNING]
+    > 如果下市价单时价格附近 1% 内的挂单数量不足，则会部分成交或不成交，也不会报错。

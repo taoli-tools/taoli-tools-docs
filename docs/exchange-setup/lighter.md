@@ -15,27 +15,26 @@ head:
 
 1. 打开「API Keys」页面 [https://app.lighter.xyz/apikeys](https://app.lighter.xyz/apikeys)
 2. 点击「Generate API Key」，输入 API Key Index，点击「Generate」
-    
-    ![image.png](lighter/image.png)
-    
+
+   ![image.png](lighter/image.png)
+
 3. 签名两次后，复制「Private Key」
-    
-    ![image.png](lighter/image-1.png)
-    
+
+   ![image.png](lighter/image-1.png)
+
 4. 打开 [https://app.lighter.xyz/read-only-tokens/](https://app.lighter.xyz/read-only-tokens/)
 5. 点击 Generate Read-Only Token，填写一些参数，点击「Generate」
-    
-    ![image.png](lighter/image-2.png)
-    
-6. 点击右侧按钮复制 Token
-    
-    ![image.png](lighter/image-3.png)
-    
 
-1. 填写参数，添加 Lighter 交易所
-    
-    ![image.png](lighter/image-4.png)
-    
+   ![image.png](lighter/image-2.png)
+
+6. 点击右侧按钮复制 Token
+
+   ![image.png](lighter/image-3.png)
+
+7. 填写参数，添加 Lighter 交易所
+
+   ![image.png](lighter/image-4.png)
+
 - Address：[https://app.lighter.xyz/trade/ETH](https://app.lighter.xyz/trade/ETH) 网页右上角的 Address
 - API Private Key：第 3 步中的 Private Key
 - Read-Only Token：第 6 步中的 Token

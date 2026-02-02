@@ -27,25 +27,18 @@ Taoli Tools 不收集任何密钥和交易相关的数据，但会收集以下�
 修改命令中的「Taoli Tools」为「Taoli Tools 1」，「Taoli Tools 2」等不同文件夹路径，一个文件夹路径对应一个独立的浏览器环境。
 
 - Windows + Edge：按 Windows 键+R 后，输入以下内容然后按回车：
-    
-    ```powershell
-    msedge.exe --user-data-dir="C:\Taoli Tools"
-    ```
-    
-- Windows + Chrome：按Windows键+R后，输入以下内容然后按回车：
-    
-    ```powershell
-    chrome.exe --user-data-dir="C:\Taoli Tools"
-    ```
-    
-- macOS + Chrome：打开Terminal.app输入以下内容然后按回车：
-    
-    ```bash
-    open -na "Google Chrome" --args --user-data-dir="$HOME/Taoli Tools"
-    ```
-    
-- Linux + Chrome：打开Terminal，输入以下内容然后按回车：
-    
-    ```bash
-    exec google-chrome-stable --user-data-dir="$HOME/Taoli Tools"
-    ```
+  ```powershell
+  msedge.exe --user-data-dir="C:\Taoli Tools"
+  ```
+- Windows + Chrome：按 Windows 键+R 后，输入以下内容然后按回车：
+  ```powershell
+  chrome.exe --user-data-dir="C:\Taoli Tools"
+  ```
+- macOS + Chrome：打开 Terminal.app 输入以下内容然后按回车：
+  ```bash
+  open -na "Google Chrome" --args --user-data-dir="$HOME/Taoli Tools"
+  ```
+- Linux + Chrome：打开 Terminal，输入以下内容然后按回车：
+  ```bash
+  exec google-chrome-stable --user-data-dir="$HOME/Taoli Tools"
+  ```

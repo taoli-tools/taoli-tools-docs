@@ -22,12 +22,12 @@ head:
 
 - 访问 GitHub，下载压缩包，并解压
 
-    [GitHub - taoli-tools/taoli-tools-extension](https://github.com/taoli-tools/taoli-tools-extension)
+  [GitHub - taoli-tools/taoli-tools-extension](https://github.com/taoli-tools/taoli-tools-extension)
 
 - 浏览器访问 chrome://extensions/ ，开启开发者模式，点击 Load unpacked，选择刚刚解压的文件夹
 
-    ![image.png](image.png)
+  ![image.png](image.png)
 
 - 看到下图代表加载成功
 
-    ![image.png](image-1.png)
+  ![image.png](image-1.png)

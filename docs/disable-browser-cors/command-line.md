@@ -13,28 +13,27 @@ head:
 
 - Windows + Edge：按 Windows 键+R 后，输入以下内容然后按回车：
 
-    ```powershell
-    msedge.exe --disable-web-security --user-data-dir="C:\Taoli Tools"
-    ```
+  ```powershell
+  msedge.exe --disable-web-security --user-data-dir="C:\Taoli Tools"
+  ```
 
-- Windows + Chrome：按Windows键+R后，输入以下内容然后按回车：
+- Windows + Chrome：按 Windows 键+R 后，输入以下内容然后按回车：
 
-    ```powershell
-    chrome.exe --disable-web-security --user-data-dir="C:\Taoli Tools"
-    ```
+  ```powershell
+  chrome.exe --disable-web-security --user-data-dir="C:\Taoli Tools"
+  ```
 
-- macOS + Chrome：打开Terminal.app输入以下内容然后按回车：
+- macOS + Chrome：打开 Terminal.app 输入以下内容然后按回车：
 
-    ```bash
-    open -na "Google Chrome" --args --disable-web-security --user-data-dir="$HOME/Taoli Tools"
-    ```
+  ```bash
+  open -na "Google Chrome" --args --disable-web-security --user-data-dir="$HOME/Taoli Tools"
+  ```
 
-- Linux + Chrome：打开Terminal，输入以下内容然后按回车：
+- Linux + Chrome：打开 Terminal，输入以下内容然后按回车：
 
-    ```bash
-    exec google-chrome-stable --disable-web-security --user-data-dir="$HOME/Taoli Tools"
-    ```
-
+  ```bash
+  exec google-chrome-stable --disable-web-security --user-data-dir="$HOME/Taoli Tools"
+  ```
 
 打开的浏览器中有这个提示，说明成功了。
 

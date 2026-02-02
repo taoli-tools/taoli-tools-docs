@@ -23,9 +23,6 @@ head:
 ## 套利
 
 - 资金费率套利
-    
-    [爱套利的渣沫沫 on Twitter / X](https://x.com/zhamomo666/status/1855959221411733729)
-    
+  [爱套利的渣沫沫 on Twitter / X](https://x.com/zhamomo666/status/1855959221411733729)
 - 差价套利
-    
-    [爱套利的渣沫沫 on Twitter / X](https://x.com/zhamomo666/status/1858446690233270766)
+  [爱套利的渣沫沫 on Twitter / X](https://x.com/zhamomo666/status/1858446690233270766)

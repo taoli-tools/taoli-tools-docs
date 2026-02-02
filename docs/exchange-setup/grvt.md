@@ -23,17 +23,10 @@ head:
 
 - 前往页面 [https://grvt.io/exchange/account/api-keys](https://grvt.io/exchange/account/api-keys) 点击「Create」
 - 选择「Generate」
-    
-    ![image.png](grvt/image.png)
-    
+  ![image.png](grvt/image.png)
 - 选择一个 TradingAccount（不要选 FundingAccount），并勾选「Trade」权限
-    
-    ![image.png](grvt/image-1.png)
-    
+  ![image.png](grvt/image-1.png)
 - 签名后，获得 API Key 和 Secret Private Key
-    
-    ![image.png](grvt/image-2.png)
-    
+  ![image.png](grvt/image-2.png)
 - 关闭对话框后，获得 Trading Account ID
-    
-    ![image.png](grvt/image-3.png)
+  ![image.png](grvt/image-3.png)

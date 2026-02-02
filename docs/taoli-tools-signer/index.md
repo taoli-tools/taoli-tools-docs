@@ -17,9 +17,7 @@ head:
 
 - 根据开源项目中的教程部署 Signer 服务。
 - 勾选 Enable Signer，并将 Signer URL 和 Signer Secret 填入，点击 Save 进行测试。
-    
-    ![image.png](./image.png)
-    
+  ![image.png](./image.png)
 
 ## 注意事项
 

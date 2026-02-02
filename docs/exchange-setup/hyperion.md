@@ -12,15 +12,14 @@ head:
 [Hyperion](https://hyperion.xyz/swap)
 
 1. 设置 Aptos 链：
-    
-    ![image.png](hyperion/image.png)
-    
-    Aptos 无法设置 RPC，并且需要 [去 Geomi 申请 API Key](https://geomi.dev/manage) 并填入
-    
+
+   ![image.png](hyperion/image.png)
+
+   Aptos 无法设置 RPC，并且需要 [去 Geomi 申请 API Key](https://geomi.dev/manage) 并填入
+
 2. 添加 Exchange：
-    
-    ![image.png](hyperion/image-1.png)
-    
+
+   ![image.png](hyperion/image-1.png)
 
 ## 限制及注意事项
 

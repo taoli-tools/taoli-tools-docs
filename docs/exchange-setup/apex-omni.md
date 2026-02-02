@@ -17,11 +17,11 @@ head:
 
 - 前往 [https://omni.apex.exchange/keyManagement](https://omni.apex.exchange/keyManagement) 生成私钥
 - 点击「创建 API」，生成
-    - Api Key
-    - Api Key Passphrase
-    - Api Key Secret
+  - Api Key
+  - Api Key Passphrase
+  - Api Key Secret
 - 点击「Omni Key」，复制
-    - Omni Key Seed
+  - Omni Key Seed
 
 > [!WARNING]
 > Omni Key Seed 有提款权限，但也是交易 API 必须的，没办法，必须填。

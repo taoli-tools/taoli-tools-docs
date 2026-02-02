@@ -17,16 +17,16 @@ LI.FI 支持的链：[https://li.quest/v1/chains?chainTypes=EVM,SVM,MVM](https:/
 2. 每条链仅支持该助记词生成的第一个地址。
 3. 在对应链的钱包中存入对应的 gas，存入 USDC 或 USDT 作为资金。
 4. 设置说明：
-    
-    ![image.png](li-fi/image.png)
-    
-    1. API Key：申请网址 [https://portal.li.fi/integrations](https://portal.li.fi/integrations)
-        - 如果不填，单 IP 限速每分钟 200 个请求
-        - 即使后台看到 LIFI's Fee 不等于 0bps 也没事。只要是在 Taoli Tools 内使用。就是 0 手续费，并且不收正滑点。
-    2. Quote Interval：询价频率。
-    3. Mnemonic Head：用来下单的钱包助记词中的前几个单词。
-    4. Mnemonic Tail：同一组助记词剩下的几个单词。分开复制以防剪贴板被恶意程序监控。
-    5. 点击 Save，如无报错，则会显示全链 U 余额的总和，点击数字可以查看详情。
+
+   ![image.png](li-fi/image.png)
+
+   1. API Key：申请网址 [https://portal.li.fi/integrations](https://portal.li.fi/integrations)
+      - 如果不填，单 IP 限速每分钟 200 个请求
+      - 即使后台看到 LIFI's Fee 不等于 0bps 也没事。只要是在 Taoli Tools 内使用。就是 0 手续费，并且不收正滑点。
+   2. Quote Interval：询价频率。
+   3. Mnemonic Head：用来下单的钱包助记词中的前几个单词。
+   4. Mnemonic Tail：同一组助记词剩下的几个单词。分开复制以防剪贴板被恶意程序监控。
+   5. 点击 Save，如无报错，则会显示全链 U 余额的总和，点击数字可以查看详情。
 
 ## 限制及注意事项
 
