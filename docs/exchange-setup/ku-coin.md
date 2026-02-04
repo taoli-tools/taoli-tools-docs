@@ -29,3 +29,6 @@ head:
 4. 打开任意一个合约页面 [https://www.kucoin.com/trade/futures/XBTUSDTM](https://www.kucoin.com/trade/futures/XBTUSDTM) 点击右上角齿轮，改为单向持仓
 
    ![image.png](ku-coin/image-1.png)
+
+5. KuCoin 市价买入现货（或现货杠杆）传入的参数是 U 的数量，而不是币的数量，所以可能会导致实际成交数量和设置的 Size 略微有些出入。
+6. KuCoin 市价不支持 FOK。
