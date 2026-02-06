@@ -19,3 +19,5 @@ head:
 2. 按照下图勾选。
 
    ![image.png](mexc/image.png)
+
+3. 暂不支持子账户
