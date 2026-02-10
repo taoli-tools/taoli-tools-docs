@@ -30,7 +30,7 @@ head:
     | Risks | Risk 中出现红色字时，或者勾选 FLAT 后两边不平衡时通知 |
   - Telegram 通知需要填写 Bot Token 才可以使用。点击工具中的链接查看教程。创建 Bot 后要点一下 Bot 的 Start 按钮，Bot 才有权限给你发消息。
   - Lark 通知需要填写 Webhook URL 才可以使用。点击工具中的链接查看教程
-- 其他设置
+- 通用设置
   ![image.png](./image-2.png)
   - Theme：主题色
   - Language：语言
@@ -38,6 +38,12 @@ head:
   - Display FPS：价格更新显示频率。只影响显示，不影响差价计算
   - Loop Interval：Loop 时两笔下单之间的间隔。每个 Pair 内下单都是串行的，如果订单从发送到确认的时间超过了这个设置的间隔，则下一笔订单会立即发送。也就是说：`实际下单间隔=max(从下单到确认所需的时间,Loop Interval)`
   - P&L High-performance DB：为 P&L 启用高性能数据库，只支持 Chrome，Edge 和 Firefox 浏览器。勾选后，一个浏览器中不可以同时打开两个版本不一致的网页，否则可能导致数据库卡住。
+- 其他
+  ![image.png](./image-10.png)
+  - Link：一些外部链接
+  - Ver：版本号
+  - Export：导出设置，点击后会提示下载一个 json 文件，并将一个 `tt-` 开头的密钥字符串复制到剪贴板。
+  - Import：导入设置，点击后会提示上传一个 json 文件，并要求输入 `tt-` 开头的密钥字符串。
 
 ## 第二列
 

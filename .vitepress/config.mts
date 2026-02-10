@@ -129,12 +129,12 @@ export default defineConfig({
   ],
   transformPageData(pageData) {
     const title = pageData.frontmatter.title || pageData.title;
-    const description = pageData.frontmatter.description ||
-      pageData.description;
+    const description =
+      pageData.frontmatter.description || pageData.description;
 
     pageData.frontmatter.head?.push(
       ["meta", { property: "og:title", content: title }],
-      ["meta", { property: "og:description", content: description }],
+      ["meta", { property: "og:description", content: description }]
     );
   },
   sitemap: {
