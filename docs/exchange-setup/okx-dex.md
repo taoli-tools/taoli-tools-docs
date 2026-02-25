@@ -25,7 +25,6 @@ OKX DEX 支持的链：[https://web3.okx.com/build/dev-docs/wallet-api/supported
 4. 设置说明：
 
    ![image.png](okx-dex/image.png)
-
    1. APIs：
       - 在 [https://web3.okx.com/build/dev-portal](https://web3.okx.com/build/dev-portal) 申请 API。
       - 各个 Project 之间的限速是相互独立的。如果一个 Project 里申请了多组 API，它们之间的限速是共享的。

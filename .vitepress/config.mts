@@ -20,8 +20,7 @@ export default defineConfig({
       "meta",
       {
         name: "keywords",
-        content:
-          "对冲套利,资金费套利,加密货币交易,U本位,跨所搬砖,DEX,CEX,永续合约,Taoli Tools",
+        content: "对冲套利,资金费套利,加密货币交易,U本位,跨所搬砖,DEX,CEX,永续合约,Taoli Tools",
       },
     ],
     // Open Graph
@@ -129,12 +128,11 @@ export default defineConfig({
   ],
   transformPageData(pageData) {
     const title = pageData.frontmatter.title || pageData.title;
-    const description =
-      pageData.frontmatter.description || pageData.description;
+    const description = pageData.frontmatter.description || pageData.description;
 
     pageData.frontmatter.head?.push(
       ["meta", { property: "og:title", content: title }],
-      ["meta", { property: "og:description", content: description }]
+      ["meta", { property: "og:description", content: description }],
     );
   },
   sitemap: {

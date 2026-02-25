@@ -25,7 +25,6 @@ head:
 3. 可以在 Ticker 后面修改滑点和 Gas Fee：
 
    ![image.png](./image.png)
-
    - 左边的百分数是滑点
    - 右边的数是默认 Gas 的倍数（部分链不支持调整 Gas）
    - BNB Chain 和 Ethereum 支持 Bundle，勾选方框后开启

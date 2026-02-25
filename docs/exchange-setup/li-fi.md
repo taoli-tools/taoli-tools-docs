@@ -19,7 +19,6 @@ LI.FI 支持的链：[https://li.quest/v1/chains?chainTypes=EVM,SVM,MVM](https:/
 4. 设置说明：
 
    ![image.png](li-fi/image.png)
-
    1. API Key：申请网址 [https://portal.li.fi/integrations](https://portal.li.fi/integrations)
       - 如果不填，单 IP 限速每分钟 200 个请求
       - 即使后台看到 LIFI's Fee 不等于 0bps 也没事。只要是在 Taoli Tools 内使用。就是 0 手续费，并且不收正滑点。

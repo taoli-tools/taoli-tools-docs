@@ -2,23 +2,23 @@
   "name": "taoli-tools-docs",
   "version": "1.0.0",
   "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview",
     "deploy": "wrangler pages deploy",
-    "format": "prettier . --write"
+    "format": "oxfmt . --write"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
     "vitepress": "^2.0.0-alpha.16"
   },
   "devDependencies": {
-    "prettier": "^2.8.8",
+    "oxfmt": "^0.35.0",
     "wrangler": "^4.60.0"
   }
 }

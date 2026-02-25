@@ -24,7 +24,6 @@ head:
    ![image.png](binance/image.png)
 
 3. 点击「编辑权限」，勾选以下权限并保存。需要填写「只访问受信任的 IP」，或者取消勾选「默认安全限制」，才可以勾选 API 权限。在更改账户类型后，需要重新创建 API Key。
-
    1. 如果是经典账户，则权限如下：
 
       ![image.png](binance/image-2.png)

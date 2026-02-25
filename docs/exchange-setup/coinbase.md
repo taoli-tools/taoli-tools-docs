@@ -33,7 +33,6 @@ head:
    ![image.png](coinbase/image-3.png)
 
    ![image.png](coinbase/image-4.png)
-
    - 」默认「投资组合的」API 密钥名称「填写到「Default API Key」
    - 」默认「投资组合的」私钥「填写到「Default Private Key」
    - 」永续合约「投资组合的」API 密钥名称「填写到「Perpetuals API Key」
