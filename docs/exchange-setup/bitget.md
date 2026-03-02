@@ -13,7 +13,7 @@ head:
 
 邀请码：`taoli888`
 
-邀请链接：[https://partner.bitget.xyz/bg/jhyb565e](https://partner.bitget.xyz/bg/jhyb565e)
+邀请链接：[https://partner.bitget.com/bg/jhyb565e](https://partner.bitget.com/bg/jhyb565e)
 
 Bitget Wallet Card 邀请码：`1t5Nzd`
 

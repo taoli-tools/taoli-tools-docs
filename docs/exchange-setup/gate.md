@@ -13,7 +13,7 @@ head:
 
 邀请码：`TAOLITOO`
 
-邀请链接：[https://www.gatenode.xyz/share/taolitoo](https://www.gatenode.xyz/share/taolitoo)
+邀请链接：[https://www.gate.com/share/taolitoo](https://www.gate.com/share/taolitoo)
 
 > [!WARNING]
 > 因 Gate API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors/)

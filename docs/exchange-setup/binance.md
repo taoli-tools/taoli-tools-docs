@@ -13,7 +13,7 @@ head:
 
 邀请码：`TAOLITOOLS`
 
-邀请链接：[https://www.bmwweb.ac/join?ref=TAOLITOOLS](https://www.bmwweb.ac/join?ref=TAOLITOOLS)
+邀请链接：[https://www.binance.com/join?ref=TAOLITOOLS](https://www.binance.com/join?ref=TAOLITOOLS)
 
 > [!WARNING]
 > 因 Binance API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors/)
