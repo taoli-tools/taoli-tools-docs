@@ -50,8 +50,6 @@ head:
 
 ![image.png](./image-5.png)
 
-![image.png](./image-6.png)
-
 - 请移步 [下单操作](../order-operations)
 
 ## 添加交易对区域
