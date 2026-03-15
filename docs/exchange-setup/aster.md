@@ -15,11 +15,15 @@ head:
 
 邀请链接：[https://www.asterdex.com/en/trade/pro/futures/BTCUSDT?ref=b4b557](https://www.asterdex.com/en/trade/pro/futures/BTCUSDT?ref=b4b557)
 
-1. 打开「API 管理」页面 [https://www.asterdex.com/zh-CN/api-management](https://www.asterdex.com/zh-CN/api-management)
-2. 点击「创建 API」
+1. 打开「API 钱包」页面 [https://www.asterdex.com/zh-CN/api-wallet](https://www.asterdex.com/zh-CN/api-wallet)
+2. 点击「授权新的 API 钱包」，点击生成 API 钱包地址，点击复制生成的 API 钱包私钥
 
    ![image.png](aster/image.png)
 
-3. 点击右上角小齿轮，设置持仓模式为「单向持仓」
+3. Address 填主钱包地址，API Private Key 填 API 钱包私钥
+
+   ![image.png](aster/image-2.png)
+
+4. 点击右上角小齿轮，设置持仓模式为「单向持仓」
 
    ![image.png](aster/image-1.png)
