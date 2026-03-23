@@ -13,7 +13,7 @@ head:
 
 邀请码：`b4b557`
 
-邀请链接：[https://www.asterdex.com/en/trade/pro/futures/BTCUSDT?ref=b4b557](https://www.asterdex.com/en/trade/pro/futures/BTCUSDT?ref=b4b557)
+邀请链接：[https://www.asterdex.com/referral/b4b557](https://www.asterdex.com/referral/b4b557)
 
 1. 打开「API 钱包」页面 [https://www.asterdex.com/zh-CN/api-wallet](https://www.asterdex.com/zh-CN/api-wallet)
 2. 点击「授权新的 API 钱包」，点击生成 API 钱包地址，勾选「永久合约交易」和「现货交易」，点击复制生成的 API 钱包私钥
