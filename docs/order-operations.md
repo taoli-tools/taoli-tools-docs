@@ -110,9 +110,9 @@ head:
 
 从左到右：
 
-- 向上移动 Pair 的位置，Once 或 Loop 等待下单时不能移动。
+- 左键点击：向上移动 Pair 的位置。右键点击：将 Pair 置顶。Once 或 Loop 等待下单时不能移动。
 - 复制出一个相同的 Pair，但 A 和 B 交换位置，N 变为倒数，MinA 和 MaxA 会对调，Sequence 也会变。
-- 向下移动 Pair 的位置，Once 或 Loop 等待下单时不能移动。
+- 左键点击：向下移动 Pair 的位置。右键点击：将 Pair 置底。Once 或 Loop 等待下单时不能移动。
 
 > [!TIP]
 > 请不要关闭或最小化网页，会导致无法触发下单。
