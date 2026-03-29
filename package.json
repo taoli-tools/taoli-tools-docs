@@ -15,10 +15,10 @@
     "format": "oxfmt . --write"
   },
   "dependencies": {
-    "vitepress": "^2.0.0-alpha.16"
+    "vitepress": "^2.0.0-alpha.17"
   },
   "devDependencies": {
-    "oxfmt": "^0.35.0",
-    "wrangler": "^4.60.0"
+    "oxfmt": "^0.42.0",
+    "wrangler": "^4.78.0"
   }
 }
