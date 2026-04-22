@@ -265,6 +265,7 @@ export default defineConfig({
           { text: "DEX 常见问题", link: "/dex-faq" },
           { text: "Taoli Tools Signer", link: "/taoli-tools-signer" },
           { text: "开发者激励计划", link: "/developer-incentive-program" },
+          { text: "第三方工具", link: "/third-party-tools" },
           {
             text: "信息收集与多开限制",
             link: "/data-collection-and-multi-instance-limits",
