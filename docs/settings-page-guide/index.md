@@ -20,7 +20,7 @@ head:
   - 点击 Current Funds 后面数字可以查看资金额详情
 - 通知设置
   ![image.png](./image-1.png)
-  - 支持网页，Telegram，Lark（飞书）三种通知方式
+  - 支持 Web（网页）、TG（电报）、Lark（飞书）、Bark（狗叫）共计四种通知方式
   - 支持五种通知类型
     | Order | 下单通知。是在工具中触发下单，不是订单成交 |
     | ----- | ------------------------------------------------------- |
@@ -30,6 +30,7 @@ head:
     | Risks | Risk 中出现红色字时，或者勾选 FLAT 后两边不平衡时通知 |
   - Telegram 通知需要填写 Bot Token 才可以使用。点击工具中的链接查看教程。创建 Bot 后要点一下 Bot 的 Start 按钮，Bot 才有权限给你发消息。
   - Lark 通知需要填写 Webhook URL 才可以使用。点击工具中的链接查看教程
+  - Bark 通知需要填写 Server URL 才可以使用。点击工具中的链接查看教程
 - 通用设置
   ![image.png](./image-2.png)
   - Theme：主题色
