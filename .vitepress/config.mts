@@ -318,7 +318,7 @@ export default defineConfig({
     footer: {
       message:
         '文档采用 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans" target="_blank">CC BY-NC-ND 4.0</a> 协议发布',
-      copyright: "© 2025 Taoli Tools",
+      copyright: "© 2026 Taoli Tools",
     },
   },
 });
