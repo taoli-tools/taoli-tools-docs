@@ -12,12 +12,9 @@
     "build": "vitepress build",
     "preview": "vitepress preview",
     "deploy": "wrangler pages deploy",
-    "format": "oxfmt . --write"
+    "fmt": "oxfmt --write"
   },
   "dependencies": {
     "vitepress": "^2.0.0-alpha.17"
-  },
-  "devDependencies": {
-    "oxfmt": "^0.42.0"
   }
 }

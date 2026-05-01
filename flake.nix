@@ -18,6 +18,7 @@
         formatter = pkgs.alejandra;
         devShells.default = pkgs.mkShell {
           buildInputs = with pkgs; [
+            oxfmt
             nodejs
             wrangler
           ];
