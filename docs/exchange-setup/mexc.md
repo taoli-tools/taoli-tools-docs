@@ -19,3 +19,7 @@ head:
 2. 按照下图勾选。
 
    ![image.png](mexc/image.png)
+
+3. 仓位模式改为单向持仓
+
+   ![image.png](mexc/image-1.png)
