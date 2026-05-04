@@ -64,26 +64,26 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 | -------------------------------------- | -------- | ---- | -------- | ------ |
 | [Binance](exchange-setup/binance.md)   | ✅       | ✅   | ✅       | ✅     |
 | [Coinbase](exchange-setup/coinbase.md) | ✅       | ✅   |          |        |
-| [Bybit](exchange-setup/bybit.md)       | ✅       | ✅   | ✅       |        |
-| [OKX](exchange-setup/okx.md)           | ✅       | ✅   |          |        |
-| [Bitget](exchange-setup/bitget.md)     | ✅       | ✅   | ✅       |        |
+| [Bybit](exchange-setup/bybit.md)       | ✅       | ✅   | ✅       | ✅     |
+| [OKX](exchange-setup/okx.md)           | ✅       | ✅   |          | ✅     |
+| [Bitget](exchange-setup/bitget.md)     | ✅       | ✅   | ✅       | ✅     |
 | [Backpack](exchange-setup/backpack.md) | ✅       | ✅   | ✅       |        |
 | [Gate](exchange-setup/gate.md)         | ✅       | ✅   | ✅       | ✅     |
-| [KuCoin](exchange-setup/ku-coin.md)    | ✅       | ✅   |          |        |
+| [KuCoin](exchange-setup/ku-coin.md)    | ✅       | ✅   |          | ✅     |
 | [HTX](exchange-setup/htx.md)           | ✅       | ✅   |          |        |
 | [MEXC](exchange-setup/mexc.md)         | ✅       | ✅   |          |        |
 
 | **Perp DEX**                                 | 永续合约 | 现货 | TradFi |
 | -------------------------------------------- | -------- | ---- | ------ |
 | [Hyperliquid](exchange-setup/hyperliquid.md) | ✅       | ✅   | ✅     |
-| [Aster](exchange-setup/aster.md)             | ✅       | ✅   |        |
+| [Aster](exchange-setup/aster.md)             | ✅       | ✅   | ✅     |
 | [Lighter](exchange-setup/lighter.md)         | ✅       | ✅   |        |
-| [Grvt](exchange-setup/grvt.md)               | ✅       |      |        |
+| [Grvt](exchange-setup/grvt.md)               | ✅       |      | ✅     |
 | [Ethereal](exchange-setup/ethereal.md)       | ✅       |      |        |
-| [Paradex](exchange-setup/paradex.md)         | ✅       |      |        |
-| [Pacifica](exchange-setup/pacifica.md)       | ✅       |      |        |
+| [Paradex](exchange-setup/paradex.md)         | ✅       |      | ✅     |
+| [Pacifica](exchange-setup/pacifica.md)       | ✅       |      | ✅     |
 | [Extended](exchange-setup/extended.md)       | ✅       |      |        |
-| [StandX](exchange-setup/stand-x.md)          | ✅       |      |        |
+| [StandX](exchange-setup/stand-x.md)          | ✅       |      | ✅     |
 | [Apex Omni](exchange-setup/apex-omni.md)     | ✅       |      |        |
 
 | **DEX**                                             | 现货 |
