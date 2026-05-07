@@ -12,7 +12,8 @@
     "build": "vitepress build",
     "preview": "vitepress preview",
     "deploy": "wrangler pages deploy",
-    "fmt": "oxfmt --write"
+    "fmt": "oxfmt --write",
+    "prepare": "prek install"
   },
   "dependencies": {
     "vitepress": "^2.0.0-alpha.17"

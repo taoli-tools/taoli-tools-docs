@@ -1,0 +1,10 @@
+[[repos]]
+repo = "local"
+
+[[repos.hooks]]
+id = "oxfmt"
+name = "oxfmt"
+language = "system"
+entry = "oxfmt --write"
+types_or = ["javascript", "jsx", "tsx", "ts", "json", "yaml", "toml", "css", "html", "markdown"]
+priority = 0
