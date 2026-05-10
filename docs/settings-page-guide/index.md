@@ -20,17 +20,23 @@ head:
   - 点击 Current Funds 后面数字可以查看资金额详情
 - 通知设置
   ![image.png](./image-1.png)
-  - 支持 Web（网页）、TG（电报）、Lark（飞书）、Bark（狗叫）共计四种通知方式
-  - 支持五种通知类型
+  - 支持 Web（网页）、TG（电报）、Lark（飞书）、Bark（狗叫）共计 4 种通知方式
+    | 方式 | 说明 |
+    | --- | --- |
+    | Web | 需要授予网页通知权限才可以使用。 |
+    | TG | 需要填写 Bot Token 才可以使用。点击工具中的链接查看教程。创建 Bot 后要点一下 Bot 的 Start 按钮，Bot 才有权限给你发消息。 |
+    | Lark | 需要填写 Webhook URL 才可以使用。同时也支持 Echobell。点击工具中的链接查看教程 |
+    | Bark | 需要填写 Server URL 才可以使用。点击工具中的链接查看教程 |
+  - 支持 6 种通知类型
+    | 类型 | 说明 |
+    | --- | --- |
     | Order | 下单通知。是在工具中触发下单，不是订单成交 |
-    | ----- | ------------------------------------------------------- |
     | Info | 价格过期通知 |
     | Warn | 现货余额不足，到达 MaxO、MinA、MaxA，A then B 时 A 出错 |
     | Error | 每个 Pair 下方的红色字 |
     | Risks | Risk 中出现红色字时，或者勾选 FLAT 后两边不平衡时通知 |
-  - Telegram 通知需要填写 Bot Token 才可以使用。点击工具中的链接查看教程。创建 Bot 后要点一下 Bot 的 Start 按钮，Bot 才有权限给你发消息。
-  - Lark 通知需要填写 Webhook URL 才可以使用。点击工具中的链接查看教程
-  - Bark 通知需要填写 Server URL 才可以使用。点击工具中的链接查看教程
+    | Price | 价格超过安全范围时通知 |
+
 - 通用设置
   ![image.png](./image-2.png)
   - Theme：主题色
