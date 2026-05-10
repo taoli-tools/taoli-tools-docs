@@ -232,7 +232,6 @@ export default defineConfig({
                     text: "PancakeSwap V3",
                     link: "/exchange-setup/pancake-swap-v3",
                   },
-                  { text: "Odos", link: "/exchange-setup/odos" },
                   { text: "Hyperion", link: "/exchange-setup/hyperion" },
                 ],
               },
