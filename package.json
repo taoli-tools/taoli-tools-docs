@@ -16,6 +16,6 @@
     "prepare": "command -v prek >/dev/null 2>&1 && prek install || true"
   },
   "dependencies": {
-    "vitepress": "^2.0.0-alpha.17"
+    "vitepress": "^1.6.4"
   }
 }
