@@ -31,11 +31,11 @@ head:
     | 类型 | 说明 |
     | --- | --- |
     | Order | 下单通知。是在工具中触发下单，不是订单成交 |
-    | Info | 价格过期通知 |
-    | Warn | 现货余额不足，到达 MaxO、MinA、MaxA，A then B 时 A 出错 |
-    | Error | 每个 Pair 下方的红色字 |
-    | Risks | Risk 中出现红色字时，或者勾选 FLAT 后两边不平衡时通知 |
-    | Price | 价格超过安全范围时通知 |
+    | Warn | 现货余额不足，或者超过 MaxO、MinA、MaxA，或者 A then B 时 A 出错 |
+    | Stale | 价格过时（每 60 秒检测） |
+    | Error | 每个 Pair 下方出现红色字 |
+    | Risks | Risk 中出现红色字时，或者勾选 FLAT 后两边不平衡（每 15 秒检测） |
+    | Price | 价格超过设置的安全范围（每 30 秒检测） |
 
 - 通用设置
   ![image.png](./image-2.png)
