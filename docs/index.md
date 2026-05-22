@@ -30,7 +30,7 @@ features:
     title: 本地运行
     details: 保护隐私和安全，不收集任何密钥或交易相关的数据
   - icon: 🌐
-    title: 多交易所
+    title: 链上链下
     details: 支持几十家交易所，包括 CEX、DEX、Perp DEX
   - icon: 📊
     title: 实时监控
@@ -171,7 +171,7 @@ const members = [
   {
     avatar: 'https://www.github.com/aliez-ren.png',
     name: 'Aliez Ren',
-    title: '创始人',
+    title: '独立开发者',
     links: [
       { icon: 'github', link: 'https://github.com/aliez-ren' },
       { icon: 'x', link: 'https://x.com/aliez_ren' },
