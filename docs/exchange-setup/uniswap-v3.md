@@ -11,7 +11,7 @@ head:
 
 [Uniswap Interface](https://app.uniswap.org/swap)
 
-Uniswap V3 支持的链：[https://docs.uniswap.org/contracts/v3/reference/deployments/](https://docs.uniswap.org/contracts/v3/reference/deployments/)
+Uniswap V3 支持的链：[https://developers.uniswap.org/docs/protocols/v3/deployments](https://developers.uniswap.org/docs/protocols/v3/deployments)
 
 实际支持的链是 Taoli Tools 支持的链和 Uniswap V3 支持的链的交集
 
@@ -25,7 +25,7 @@ Uniswap V3 支持的链：[https://docs.uniswap.org/contracts/v3/reference/deplo
 ## 限制及注意事项
 
 - 只支持市价单，不支持限价单，选择限价单时仍然是下市价单。
-- 首次交易某个 ERC20 Token 时候会自动 Approve Unlimited 给 [Uniswap V3 Router 合约](https://docs.uniswap.org/contracts/v3/reference/deployments/)。
+- 首次交易某个 ERC20 Token 时候会自动 Approve Unlimited 给 [Uniswap V3 Router 合约](https://developers.uniswap.org/docs/protocols/v3/deployments)。
 - Pair 的 Size 参数的改变会影响报价，从而影响差价。不填 Size 默认是 100。
 - [DEX 常见问题](../dex-faq/)
 - [Taoli Tools Signer](../taoli-tools-signer/)

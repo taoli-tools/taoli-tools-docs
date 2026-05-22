@@ -19,9 +19,9 @@ EVM Router 是 Taoli Tools 自研的简易路由器，支持多个 EVM 链上的
 支持的协议如下：
 
 - Uniswap V2
-  - 支持的链：[https://docs.uniswap.org/contracts/v2/reference/smart-contracts/v2-deployments](https://docs.uniswap.org/contracts/v2/reference/smart-contracts/v2-deployments)
+  - 支持的链：[https://developers.uniswap.org/docs/protocols/v2/deployments](https://developers.uniswap.org/docs/protocols/v2/deployments)
 - Uniswap V3
-  - 支持的链：[https://docs.uniswap.org/contracts/v3/reference/deployments/](https://docs.uniswap.org/contracts/v3/reference/deployments/)
+  - 支持的链：[https://developers.uniswap.org/docs/protocols/v3/deployments](https://developers.uniswap.org/docs/protocols/v3/deployments)
 - Uniswap V4
   - 支持的链：[https://docs.uniswap.org/contracts/v4/deployments](https://docs.uniswap.org/contracts/v4/deployments)
   - 需要填写 Subgrap API Key 才会启用
