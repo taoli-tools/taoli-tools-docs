@@ -22,9 +22,6 @@ Bitget Wallet Card 邀请码：`1t5Nzd`
 > [!WARNING]
 > 因 Bitget API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors/)
 
-> [!WARNING]
-> 暂不支持 Bitget 统一账户
-
 1. 打开一个合约，比如 [https://www.bitget.comfutures/usdt/BTCUSDT](https://www.bitget.com/futures/usdt/BTCUSDT)
 2. 点击右侧齿轮按钮
 3. 按照下图设置。持仓模式：单向持仓。
