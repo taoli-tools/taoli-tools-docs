@@ -15,7 +15,7 @@ head:
 
 邀请链接：[https://standx.com/referral?code=AliezRen](https://standx.com/referral?code=AliezRen)
 
-1. 访问 https://standx.com/user/session ，点击「生成 API 令牌」
+1. 访问 [https://standx.com/user/session](https://standx.com/user/session)，点击「生成 API 令牌」
 2. 「Request Sign Key」选择「Generate」
 3. 「Permissions」只选「Trade」
 
