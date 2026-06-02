@@ -30,8 +30,10 @@ head:
 
    ![image-2.png](hyperliquid/image-2.png)
 
-7. Hyperliquid 现货 Symbol 前面需要加一个字母 `U`。比如 `UBTC`、`UETH`。
+7. Hyperliquid 现货 Symbol 前面需要加一个字母 `U`。比如 `UBTC`、`UETH`
 
    [About Unit | Unit](https://docs.hyperunit.xyz/)
 
-8. HIP-3 代币需要增加前缀，并且交易对名字和网页显示的也不一定相同，比如 `SAMSUNG-USDC` 在 Taoli Tools 中显示为 `xyz:SMSN`
+8. HIP-3 代币需要增加前缀，并且交易对名字和 Hyperliquid 网页显示的也不一定相同，比如 `WTIOIL-USDC` 在 Taoli Tools 中显示为 `xyz:CL`
+
+   ![image-3.png](hyperliquid/image-3.png)
