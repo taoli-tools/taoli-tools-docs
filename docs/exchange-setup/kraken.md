@@ -9,6 +9,8 @@ head:
 
 # Kraken
 
+邀请码：`sk24f3kp`
+
 邀请链接：[https://invite.kraken.com/JDNW/flejwu9y](https://invite.kraken.com/JDNW/flejwu9y)
 
 Kraken 的现货和合约需要分别创建 API Key。如果只使用现货或只使用合约，只创建对应的 API Key 即可。
