@@ -208,6 +208,7 @@ export default defineConfig({
                 items: [
                   { text: "Binance", link: "/exchange-setup/binance" },
                   { text: "Coinbase", link: "/exchange-setup/coinbase" },
+                  { text: "Kraken", link: "/exchange-setup/kraken" },
                   { text: "Bybit", link: "/exchange-setup/bybit" },
                   { text: "OKX", link: "/exchange-setup/okx" },
                   { text: "Bitget", link: "/exchange-setup/bitget" },
