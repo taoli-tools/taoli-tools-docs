@@ -11,9 +11,6 @@ head:
 
 邀请链接：[https://invite.kraken.com/JDNW/flejwu9y](https://invite.kraken.com/JDNW/flejwu9y)
 
-> [!WARNING]
-> 因 Kraken API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors/)
-
 Kraken 的现货和合约需要分别创建 API Key。如果只使用现货或只使用合约，只创建对应的 API Key 即可。
 
 1. 打开 Kraken Pro 的「API」页面 [https://pro.kraken.com/app/settings/api](https://pro.kraken.com/app/settings/api)
