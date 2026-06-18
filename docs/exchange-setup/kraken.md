@@ -9,6 +9,8 @@ head:
 
 # Kraken
 
+返佣：40%，限注册后 90 天
+
 邀请码：`sk24f3kp`
 
 邀请链接：[https://invite.kraken.com/JDNW/flejwu9y](https://invite.kraken.com/JDNW/flejwu9y)
