@@ -32,4 +32,6 @@ Kraken 的现货和合约需要分别创建 API Key。
 
    ![image.png](kraken/image1.png)
 
-5. USD 和 USDC 等稳定币之间可以免费兑换，每天 10 万 U 额度 [https://support.kraken.com/zh-cn/articles/free-stablecoin-conversions](https://support.kraken.com/zh-cn/articles/free-stablecoin-conversions)
+5. 不支持合成的交易对 [https://blog.kraken.com/product/pro/synthetic-pairs](https://blog.kraken.com/product/pro/synthetic-pairs)
+
+6. USD 和 USDC 等稳定币之间可以免费兑换，每天 10 万 U 额度 [https://support.kraken.com/zh-cn/articles/free-stablecoin-conversions](https://support.kraken.com/zh-cn/articles/free-stablecoin-conversions)
