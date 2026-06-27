@@ -39,4 +39,3 @@ Bitget Wallet Card 邀请码：`1t5Nzd`
    ![image.png](bitget/image-1.png)
 
 8. Bitget 市价买入现货（或现货杠杆）传入的参数是 U 的数量，而不是币的数量，所以可能会导致实际成交数量和设置的 Size 略微有些出入。
-9. 暂不支持 Bitget 统一账户
