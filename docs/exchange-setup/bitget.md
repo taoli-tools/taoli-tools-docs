@@ -38,7 +38,7 @@ Bitget Wallet Card 邀请码：`1t5Nzd`
 
    ![image.png](bitget/image-1.png)
 
-8. 如果使用统一账户则，按照图中的进行勾选
+8. 如果使用统一账户，按照图中的进行勾选
 
    ![image.png](bitget/image-3.png)
 
