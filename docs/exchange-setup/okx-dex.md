@@ -39,7 +39,7 @@ OKX DEX 支持的链：[https://web3.okx.com/build/dev-docs/wallet-api/supported
 ## 限制及注意事项
 
 - Quote Interval：询价频率，根据你申请的 API 的数量、频率，以及添加的 OKX DEX Ticker 数量填写。Ticker 是指 Pair 的 A 或 B，如果 A 和 B 都是 OKX DEX，那么 1 Pair = 2 Ticker。如果每个 API Key 的限速都是最普通的 1 次/秒，则需要同时满足以下两个公式：
-  1. API 个数 _ Quote Interval 毫秒数 ≥ OKX DEX Ticker 数量 _ 2000
+  1. API 个数 \* Quote Interval 毫秒数 ≥ OKX DEX Ticker 数量 \* 2000
   2. API 个数 ≥ OKX DEX Ticker 数量 \* 2
      > [!TIP]
      > 因此，最开始的时候，建议添加三组 API，Quote Interval 调整为 2000+，只使用一个 Pair。等产生一些交易量后，再联系 OKX DEX 商务给 API Key 提速。只需给其中一组 API 提速。
