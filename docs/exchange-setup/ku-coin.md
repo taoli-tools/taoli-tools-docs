@@ -15,10 +15,9 @@ head:
 
 邀请链接：[https://www.kucoin.com/r/af/TAOTAOLI](https://www.kucoin.com/r/af/TAOTAOLI)
 
-帕劳 ID 购买：
-买一年的就可以，帕劳 KYC 通过后等实体卡收到后再进行 KuCoin KYC。
-
-邀请链接：[https://rns.id/?rc_by=TAOTAOLI](https://rns.id/?rc_by=TAOTAOLI)
+帕劳 ID 购买：[https://rns.id/?rc_by=TAOTAOLI](https://rns.id/?rc_by=TAOTAOLI) 买一年的就可以。
+等帕劳 ID 实体卡收到后再进行 KuCoin KYC，认证类型选择护照。
+不要使用 163、126、QQ 等邮箱注册 KuCoin。
 
 1. 打开 API 申请页面 [https://www.kucoin.com/account/api](https://www.kucoin.com/account/api)
 2. 按照下图勾选。
