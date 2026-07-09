@@ -242,6 +242,7 @@ export default defineConfig({
                 items: [
                   { text: "Hyperliquid", link: "/exchange-setup/hyperliquid" },
                   { text: "Aster", link: "/exchange-setup/aster" },
+                  { text: "Ondo Perps", link: "/exchange-setup/ondo-perps" },
                   { text: "Lighter", link: "/exchange-setup/lighter" },
                   { text: "Grvt", link: "/exchange-setup/grvt" },
                   { text: "Ethereal", link: "/exchange-setup/ethereal" },
