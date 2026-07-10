@@ -16,6 +16,7 @@ head:
 - TAOLI OPS -- 套利监控系统 [https://taoli.asia/](https://taoli.asia/)
 - KAI 差价监控 [https://taoli.ducks.life/cex](https://taoli.ducks.life/cex)
 - PAOPAO 监控 -- 多交易所套利与资金费率预警 [https://taolimonitor.life/](https://taolimonitor.life/)
+- OKX OnchainOS API Proxy [https://proxy.lofi.asia/](https://proxy.lofi.asia/)
 - Cross-Chain Bridge [https://www.letsbridge.xyz/](https://www.letsbridge.xyz/)
 
 ## Bot
