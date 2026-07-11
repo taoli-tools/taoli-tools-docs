@@ -29,11 +29,3 @@ head:
 6. 修改「账户类型」为「统一账户」或「投资组合保证金」模式
 
    ![image-2.png](hyperliquid/image-2.png)
-
-7. Hyperliquid 现货 Symbol 前面需要加一个字母 `U`。比如 `UBTC`、`UETH`
-
-   [About Unit | Unit](https://docs.hyperunit.xyz/)
-
-8. HIP-3 代币需要增加前缀，并且交易对名字和 Hyperliquid 网页显示的也不一定相同，比如 `WTIOIL-USDC` 在 Taoli Tools 中显示为 `xyz:CL`
-
-   ![image-3.png](hyperliquid/image-3.png)
