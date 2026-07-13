@@ -16,7 +16,7 @@ head:
 2. 交易失败的常见原因：
    - `slippage exceeded` 价格超过了滑点，交易尚未发送
    - `simulation failed/error` 交易模拟执行时失败了，交易尚未发送。大概率是因为滑点不够导致的，小概率是由询价的 bug 导致
-   - `insufficient funds for gas`，`transaction creation failed` Gas 不够了，交易未上链
+   - `insufficient funds for gas`、`transaction creation failed`、`missing or invalid parameters` Gas 不够了
    - `min return not reached` 通常是交易实际上链执行时超过了滑点，也可能是其他原因
    - `transaction reverted` 交易已上链并失败
    - `bundle expired` 捆绑交易因为 gas（贿赂）不够等问题，没有上链
