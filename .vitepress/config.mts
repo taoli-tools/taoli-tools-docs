@@ -119,7 +119,7 @@ export default defineConfig({
           logo: "https://docs.taoli.tools/logo-light.svg",
           sameAs: [
             "https://x.com/taoli_tools",
-            "https://t.me/taoli_tools",
+            "https://telegram.me/taoli_tools",
             "https://github.com/taoli-tools",
           ],
         },
@@ -280,7 +280,7 @@ export default defineConfig({
     socialLinks: [
       { icon: "github", link: "https://github.com/taoli-tools" },
       { icon: "x", link: "https://x.com/taoli_tools" },
-      { icon: "telegram", link: "https://t.me/taoli_tools" },
+      { icon: "telegram", link: "https://telegram.me/taoli_tools" },
     ],
 
     search: {

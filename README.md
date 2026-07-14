@@ -24,5 +24,5 @@ npm run deploy
 ## 链接
 
 - 官网: https://taoli.tools
-- Telegram: https://t.me/taoli_tools
+- Telegram: https://telegram.me/taoli_tools
 - X: https://x.com/taoli_tools

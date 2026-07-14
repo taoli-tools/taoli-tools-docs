@@ -9,7 +9,7 @@ head:
 
 # Gate
 
-返佣：合约 64%，现货 60%。注册后把 Gate UID 发给 [Aliez Ren](https://t.me/aliez_ren)，并在 App 里确认升级为超级代理，即可登记返佣。（使用 API 下单时，合约 44%，现货 40%）
+返佣：合约 64%，现货 60%。注册后把 Gate UID 发给 [Aliez Ren](https://telegram.me/aliez_ren)，并在 App 里确认升级为超级代理，即可登记返佣。（使用 API 下单时，合约 44%，现货 40%）
 
 邀请码：`TAOLITOO`
 

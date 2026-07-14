@@ -33,7 +33,7 @@ head:
 
 开发者如需更高的 VIP 等级，可以补差价升级，也可以折算时间（比如：一个月 VIP2=半个月 VIP3）。
 
-在开发者获得免费 VIP2 后，推荐在其小工具界面（网页或 Bot 简介）上加入「由 [https://t.me/taoli_tools](https://t.me/taoli_tools) 赞助」字样。
+在开发者获得免费 VIP2 后，推荐在其小工具界面（网页或 Bot 简介）上加入「由 [https://telegram.me/taoli_tools](https://telegram.me/taoli_tools) 赞助」字样。
 
 ## 历史记录
 

@@ -160,7 +160,7 @@ VIP 权益详细区别请参考 [VIP 等级区别及价格](vip-levels-and-prici
 
 资金额：对于现货账户和链上，只算 U。对于统一/杠杆/合约账户，算的是账户总权益。
 
-购买请联系 [Aliez Ren](https://t.me/aliez_ren)。可先购买低等级套餐，随时根据剩余时间的比例补差价升级。
+购买请联系 [Aliez Ren](https://telegram.me/aliez_ren)。可先购买低等级套餐，随时根据剩余时间的比例补差价升级。
 
 > [!WARNING]
 > 不支持退款
@@ -178,7 +178,7 @@ const members = [
     links: [
       { icon: 'github', link: 'https://github.com/aliez-ren' },
       { icon: 'x', link: 'https://x.com/aliez_ren' },
-      { icon: 'telegram', link: 'https://t.me/aliez_ren' }
+      { icon: 'telegram', link: 'https://telegram.me/aliez_ren' }
     ]
   }
 ]

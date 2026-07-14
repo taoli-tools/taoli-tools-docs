@@ -21,7 +21,7 @@ head:
 
 ## Bot
 
-- 币探 -- 查询/订阅充提状态&指数成分 [https://t.me/cryptomonitor666_bot](https://t.me/cryptomonitor666_bot)
-- 价差监控通知 [https://t.me/+D4oR5aBr8WE4NWZl](https://t.me/+D4oR5aBr8WE4NWZl)
-- 会计 -- 收益计算机器人 [https://t.me/u_calc_bot](https://t.me/u_calc_bot)
-- newcoin [https://t.me/newnewcoin_bot](https://t.me/newnewcoin_bot)
+- 币探 -- 查询/订阅充提状态&指数成分 [https://telegram.me/cryptomonitor666_bot](https://telegram.me/cryptomonitor666_bot)
+- 价差监控通知 [https://telegram.me/+D4oR5aBr8WE4NWZl](https://telegram.me/+D4oR5aBr8WE4NWZl)
+- 会计 -- 收益计算机器人 [https://telegram.me/u_calc_bot](https://telegram.me/u_calc_bot)
+- newcoin [https://telegram.me/newnewcoin_bot](https://telegram.me/newnewcoin_bot)
