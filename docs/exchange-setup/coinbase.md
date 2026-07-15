@@ -15,6 +15,8 @@ head:
 
 邀请链接：[https://advanced.coinbase.com/join/6ZX9X5P](https://advanced.coinbase.com/join/6ZX9X5P)
 
+注册使用香港 VPN + 大陆护照 KYC，填邮箱前记得打开 VPN，否则邮箱作废。
+
 > [!WARNING]
 > 因 Coinbase API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors/)
 
