@@ -33,10 +33,10 @@ head:
    ![image.png](coinbase/image-3.png)
 
    ![image.png](coinbase/image-4.png)
-   - 」默认「投资组合的」API 密钥名称「填写到「Default API Key」
-   - 」默认「投资组合的」私钥「填写到「Default Private Key」
-   - 」永续合约「投资组合的」API 密钥名称「填写到「Perpetuals API Key」
-   - 」永续合约「投资组合的」私钥「填写到「Perpetuals Private Key」
+   - 默认「投资组合的」API 密钥名称「填写到「Default API Key」
+   - 默认「投资组合的」私钥「填写到「Default Private Key」
+   - 永续合约「投资组合的」API 密钥名称「填写到「Perpetuals API Key」
+   - 永续合约「投资组合的」私钥「填写到「Perpetuals Private Key」
 
 2. 只支持 Coinbase International，不支持 US。
 3. Coinbase 的永续合约杠杆倍数设置后并不会对已有仓位造成影响，需要下一次下单时才会生效。
