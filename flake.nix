@@ -21,7 +21,6 @@
             prek
             oxfmt
             nodejs
-            wrangler
           ];
         };
       }
