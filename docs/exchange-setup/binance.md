@@ -15,6 +15,10 @@ head:
 
 邀请链接：[https://www.binance.com/join?ref=TAOLITOOLS](https://www.binance.com/join?ref=TAOLITOOLS)
 
+老用户回归码：`TAOLIBACK`
+
+回归链接：[https://www.binance.com/zh-CN/activity/referral/bind-ref](https://www.binance.com/zh-CN/activity/referral/bind-ref)
+
 > [!WARNING]
 > 因 Binance API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors/)
 
