@@ -15,6 +15,8 @@ head:
 
 邀请链接：[https://www.okx.com/join/TAOLITOOLS](https://www.okx.com/join/TAOLITOOLS)
 
+老用户换绑：[https://www.okx.com/ul/J6l2R5](https://www.okx.com/ul/J6l2R5)
+
 1. 在 [https://www.okx.com/trade-swap/btc-usdt-swap](https://www.okx.com/trade-swap/btc-usdt-swap) 页面右上角点击小齿轮「交易设置」
 2. 切换「账户模式」为「合约模式」或「进阶模式」中的「跨币种保证金」或「组合保证金」。
 
