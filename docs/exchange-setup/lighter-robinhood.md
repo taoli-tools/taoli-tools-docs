@@ -18,15 +18,27 @@ Lighter 部署在 Robinhood Chain 上的独立实例，永续合约和现货都�
 
 邀请链接：[https://robinhoodchain.lighter.xyz/?referral=TAOLI](https://robinhoodchain.lighter.xyz/?referral=TAOLI)
 
-配置步骤和 [Lighter](./lighter) 完全一致，只是把网址换成 `robinhoodchain.lighter.xyz`，页面布局相同，截图可以参考 [Lighter](./lighter) 页面：
-
 1. 打开「API Keys」页面 [https://robinhoodchain.lighter.xyz/apikeys](https://robinhoodchain.lighter.xyz/apikeys)
 2. 点击「Generate API Key」，输入 API Key Index，点击「Generate」
+
+   ![image.png](lighter/image.png)
+
 3. 签名两次后，复制「Private Key」
+
+   ![image.png](lighter/image-1.png)
+
 4. 打开 [https://robinhoodchain.lighter.xyz/read-only-tokens/](https://robinhoodchain.lighter.xyz/read-only-tokens/)
 5. 点击 Generate Read-Only Token，填写一些参数，点击「Generate」
+
+   ![image.png](lighter/image-2.png)
+
 6. 点击右侧按钮复制 Token
+
+   ![image.png](lighter/image-3.png)
+
 7. 填写参数，添加 Lighter Robinhood 交易所
+
+   ![image.png](lighter/image-4.png)
 
 - Address：[https://robinhoodchain.lighter.xyz/trade/LIT](https://robinhoodchain.lighter.xyz/trade/LIT) 网页右上角的 Address
 - API Private Key：第 3 步中的 Private Key
