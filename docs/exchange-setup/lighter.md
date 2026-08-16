@@ -9,6 +9,9 @@ head:
 
 # Lighter
 
+> [!TIP]
+> Lighter 在 Robinhood Chain 上还有一个以代币化股票为主、用 USDG 结算的独立实例，账户和行情都与这里互不相干，配置方式见 [Lighter Robinhood](./lighter-robinhood)。
+
 邀请码：`TAOLI`
 
 邀请链接：[https://app.lighter.xyz/trade/ETH?referral=TAOLI](https://app.lighter.xyz/trade/ETH?referral=TAOLI)

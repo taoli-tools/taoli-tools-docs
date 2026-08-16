@@ -244,6 +244,10 @@ export default defineConfig({
                   { text: "Aster", link: "/exchange-setup/aster" },
                   { text: "Ondo Perps", link: "/exchange-setup/ondo-perps" },
                   { text: "Lighter", link: "/exchange-setup/lighter" },
+                  {
+                    text: "Lighter Robinhood",
+                    link: "/exchange-setup/lighter-robinhood",
+                  },
                   { text: "Grvt", link: "/exchange-setup/grvt" },
                   { text: "Ethereal", link: "/exchange-setup/ethereal" },
                   { text: "Paradex", link: "/exchange-setup/paradex" },
