@@ -22,24 +22,23 @@ Bitget Wallet Card 邀请码：`1t5Nzd`
 > [!WARNING]
 > 因 Bitget API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors/)
 
-1. 打开一个合约，比如 [https://www.bitget.comfutures/usdt/BTCUSDT](https://www.bitget.com/futures/usdt/BTCUSDT)
+1. 分别打开 USDT 本位合约和 USDC 本位合约页面，比如 [BTCUSDT 合约](https://www.bitget.com/futures/usdt/BTCUSDT) 和 [BTCPERP 合约](https://www.bitget.com/futures/usdc/BTCPERP)。两种合约需要分别设置。
 2. 点击右侧齿轮按钮
 3. 按照下图设置。持仓模式：单向持仓。
-4. USDC 合约和 U 本位合约要分别设置，都只支持单向持仓。
 
    ![image.png](bitget/image-2.png)
 
-5. 在「API 密钥」页面 [https://www.bitget.com/account/newapi](https://www.bitget.com/account/newapi) 点击「新建 API Key」
-6. 选择「系统生成的 API 密钥」
+4. 在「API 密钥」页面 [https://www.bitget.com/account/newapi](https://www.bitget.com/account/newapi) 点击「新建 API Key」
+5. 选择「系统生成的 API 密钥」
 
    ![image.png](bitget/image.png)
 
-7. 按照图中的进行勾选
+6. 按照图中的进行勾选
 
    ![image.png](bitget/image-1.png)
 
-8. 如果使用统一账户，按照图中的进行勾选
+7. 如果使用统一账户，按照图中的进行勾选
 
    ![image.png](bitget/image-3.png)
 
-9. Bitget 市价买入现货（或现货杠杆）传入的参数是 U 的数量，而不是币的数量，所以可能会导致实际成交数量和设置的 Size 略微有些出入。
+8. Bitget 市价买入现货（或现货杠杆）传入的参数是 U 的数量，而不是币的数量，所以可能会导致实际成交数量和设置的 Size 略微有些出入。

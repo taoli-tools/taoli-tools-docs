@@ -27,8 +27,8 @@ head:
    ![image.png](okx/image-1.png)
 
 4. 打开「API」页面 [https://www.okx.com/account/my-api](https://www.okx.com/account/my-api)
-5. 点击「创建 API Keys」，权限选择「读取」和「交易」
+5. 点击「创建 API Keys」，权限勾选「交易」（「读取」默认开启）。展开的「交易市场」中勾选「现货交易 & 杠杆交易」和「永续合约」。
 
-   ![image.png](okx/image-2.png)
+   ![image.png](okx/image-3.png)
 
 6. 永续合约只支持全仓保证金。

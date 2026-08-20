@@ -22,6 +22,9 @@ head:
 > [!WARNING]
 > 因 Binance API 限制，必须解除浏览器的跨域限制才可以使用，教程在 [解除浏览器跨域限制](../disable-browser-cors/)
 
+> [!TIP]
+> Binance API 有使用地区限制。如果当前所在地区无法正常调用，可以将 Taoli Tools [部署到服务器](../installation/)。推荐选择日本、韩国等地区的服务器，不受地区限制且延迟较低。
+
 1. 打开「API 管理」页面 [https://www.binance.com/my/settings/api-management](https://www.binance.com/my/settings/api-management)
 2. 点击「创建 API」，类型选择「系统生成」
 

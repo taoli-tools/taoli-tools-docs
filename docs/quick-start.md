@@ -15,3 +15,6 @@ head:
 4. 在 [设置页面](https://taoli.tools/trade?settings=1) 添加交易所的 API Key 和 Secret。然后点击 Save 按钮测试是否正确。
 5. 在 [交易页面](https://taoli.tools/trade) 下方，「Symbol, CA」中搜索代币对名称，然后选择 A 和 B 代币对，然后点击「Add Pair」。
 6. 后续步骤参考文档使用说明。建议仔细看文档，然后使用小额度操作尝试。
+
+> [!TIP]
+> 快速开始默认使用本地运行方式。如果你是进阶用户，可以查看 [安装部署](./installation/)，直接采用服务器运行方式，一步到位。
