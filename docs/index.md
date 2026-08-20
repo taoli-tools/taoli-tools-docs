@@ -92,6 +92,7 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 | **DEX**                                             | 现货 |
 | --------------------------------------------------- | ---- |
 | [OKX DEX](exchange-setup/okx-dex.md)                | ✅   |
+| [Binance Web3](exchange-setup/binance-web3.md)      | ✅   |
 | [Li.FI](exchange-setup/li-fi.md)                    | ✅   |
 | [EVM Router](exchange-setup/evm-router.md)          | ✅   |
 | [Jupiter](exchange-setup/jupiter.md)                | ✅   |

@@ -224,6 +224,10 @@ export default defineConfig({
                 collapsed: true,
                 items: [
                   { text: "OKX DEX", link: "/exchange-setup/okx-dex" },
+                  {
+                    text: "Binance Web3",
+                    link: "/exchange-setup/binance-web3",
+                  },
                   { text: "LI.FI", link: "/exchange-setup/li-fi" },
                   { text: "EVM Router", link: "/exchange-setup/evm-router" },
                   { text: "Jupiter", link: "/exchange-setup/jupiter" },
