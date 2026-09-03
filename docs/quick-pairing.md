@@ -96,15 +96,15 @@ Gate 的 TradFi 品种也归在 `P` 里。
 | `AS` | Aster             | `S` `P`    |
 | `LI` | Lighter           | `S` `P`    |
 | `LR` | Lighter Robinhood | `S` `P`    |
-| `GR` | Grvt              | `S` `P`    |
+| `PM` | Polymarket        | `P`        |
 | `ON` | Ondo Perps        | `P`        |
+| `GR` | Grvt              | `S` `P`    |
 | `ET` | Ethereal          | `P`        |
 | `PD` | Paradex           | `P`        |
 | `PC` | Pacifica          | `P`        |
 | `EX` | Extended          | `P`        |
 | `SX` | StandX            | `P`        |
 | `AO` | Apex Omni         | `P`        |
-| `PM` | Polymarket        | `P`        |
 
 ### DEX
 
