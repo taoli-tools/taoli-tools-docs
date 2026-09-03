@@ -96,8 +96,9 @@ Gate 的 TradFi 品种也归在 `P` 里。
 | `AS` | Aster             | `S` `P`    |
 | `LI` | Lighter           | `S` `P`    |
 | `LR` | Lighter Robinhood | `S` `P`    |
-| `GR` | Grvt              | `S` `P`    |
+| `PM` | Polymarket        | `P`        |
 | `ON` | Ondo Perps        | `P`        |
+| `GR` | Grvt              | `S` `P`    |
 | `ET` | Ethereal          | `P`        |
 | `PD` | Paradex           | `P`        |
 | `PC` | Pacifica          | `P`        |
@@ -122,7 +123,7 @@ Gate 的 TradFi 品种也归在 `P` 里。
 | `HR` | Hyperion       |
 
 > [!TIP]
-> 几个容易记混的：Ethereal 是 `ET`、EVM Router 是 `ER`、Extended 是 `EX`；Lighter 是 `LI`、LI.FI 是 `LF`；Hyperliquid 是 `HL`、Hyperion 是 `HR`；OKX 是 `OK`、OKX DEX 是 `OD`、Ondo Perps 是 `ON`。
+> 几个容易记混的：Ethereal 是 `ET`、EVM Router 是 `ER`、Extended 是 `EX`；Lighter 是 `LI`、LI.FI 是 `LF`；Hyperliquid 是 `HL`、Hyperion 是 `HR`；OKX 是 `OK`、OKX DEX 是 `OD`、Ondo Perps 是 `ON`；Paradex 是 `PD`、Pacifica 是 `PC`、Polymarket 是 `PM`。
 
 ## 自动填充的行为
 
