@@ -246,12 +246,13 @@ export default defineConfig({
                 items: [
                   { text: "Hyperliquid", link: "/exchange-setup/hyperliquid" },
                   { text: "Aster", link: "/exchange-setup/aster" },
-                  { text: "Ondo Perps", link: "/exchange-setup/ondo-perps" },
                   { text: "Lighter", link: "/exchange-setup/lighter" },
                   {
                     text: "Lighter Robinhood",
                     link: "/exchange-setup/lighter-robinhood",
                   },
+                  { text: "Polymarket", link: "/exchange-setup/polymarket" },
+                  { text: "Ondo Perps", link: "/exchange-setup/ondo-perps" },
                   { text: "Grvt", link: "/exchange-setup/grvt" },
                   { text: "Ethereal", link: "/exchange-setup/ethereal" },
                   { text: "Paradex", link: "/exchange-setup/paradex" },
@@ -259,7 +260,6 @@ export default defineConfig({
                   { text: "Extended", link: "/exchange-setup/extended" },
                   { text: "StandX", link: "/exchange-setup/stand-x" },
                   { text: "Apex Omni", link: "/exchange-setup/apex-omni" },
-                  { text: "Polymarket", link: "/exchange-setup/polymarket" },
                 ],
               },
             ],
