@@ -18,10 +18,10 @@ Polymarket Perps 不使用 API Key，而是由主钱包一次性授权一把「�
 ## 获取代理凭证
 
 1. 打开任意 Perps 市场页面，例如 [https://polymarket.com/perps/asset/btc?c=00allkhr](https://polymarket.com/perps/asset/btc?c=00allkhr)，首次使用时按提示开通合约交易并入金（这一步会用主钱包签名授权代理钱包）
-2. 网页会把代理凭证保存在浏览器的本地存储里。按 `F12` 打开开发者工具，切到「Console（控制台）」，粘贴下面的命令并回车，凭证 JSON 会被复制到剪贴板
+2. 网页会把代理凭证保存在浏览器的本地存储里。按 `F12` 打开开发者工具，切到「Console（控制台）」，粘贴下面的命令并回车，控制台会打印出凭证 JSON，手动选中并复制整段 JSON
 
    ```js
-   copy(
+   console.log(
      localStorage.getItem(
        Object.keys(localStorage).find((key) => key.startsWith("polymarket.perps.creds.v3:")),
      ),
