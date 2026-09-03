@@ -259,6 +259,7 @@ export default defineConfig({
                   { text: "Extended", link: "/exchange-setup/extended" },
                   { text: "StandX", link: "/exchange-setup/stand-x" },
                   { text: "Apex Omni", link: "/exchange-setup/apex-omni" },
+                  { text: "Polymarket", link: "/exchange-setup/polymarket" },
                 ],
               },
             ],

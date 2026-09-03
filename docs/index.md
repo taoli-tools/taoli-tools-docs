@@ -88,6 +88,7 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 | [Extended](exchange-setup/extended.md)                   | ✅       |      |        |
 | [StandX](exchange-setup/stand-x.md)                      | ✅       |      | ✅     |
 | [Apex Omni](exchange-setup/apex-omni.md)                 | ✅       |      |        |
+| [Polymarket](exchange-setup/polymarket.md)               | ✅       |      | ✅     |
 
 | **DEX**                                             | 现货 |
 | --------------------------------------------------- | ---- |
