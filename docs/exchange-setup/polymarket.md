@@ -43,11 +43,4 @@ Polymarket Perps 不使用 API Key，而是由主钱包一次性授权一把「�
 
 3. 回到 Taoli Tools 的设置页面，把整段 JSON 粘贴到「Proxy Private Key」或「Proxy Secret」任意一个输入框，两个字段会自动填好；也可以分别填入 JSON 里的 `privateKey` 和 `secret`
 4. 点击「保存」，显示主钱包地址和账户权益即配置成功
-
-## 注意事项
-
-- 代理凭证有有效期（JSON 里的 `expiresAt`），过期后请在网页上重新开通并再复制一次
-- 代理私钥只能交易，不能提币；如需吊销，在网页上删除对应的代理钱包即可
-- Polymarket 默认使用逐仓模式，可以在交易对一行点击杠杆文字，修改杠杆倍数或切换为全仓
-- 除加密货币外，Polymarket 还提供美股、大宗商品和指数的永续合约，全天候可交易
-- 也可以不经浏览器，按官方文档 [Authenticated Sessions](https://docs.polymarket.com/perps/authenticated-sessions) 用 API 自行生成代理凭证
+5. 也可以不经浏览器，按官方文档 [Authenticated Sessions](https://docs.polymarket.com/perps/authenticated-sessions) 用 API 自行生成代理凭证
