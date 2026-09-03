@@ -9,15 +9,15 @@ head:
 
 # Polymarket
 
-邀请码：`taolitools`
+邀请码：`00allkhr`
 
-邀请链接：[https://polymarket.com/?r=taolitools](https://polymarket.com/?r=taolitools)
+邀请链接：[https://polymarket.com/perps?c=00allkhr](https://polymarket.com/perps?c=00allkhr)
 
 Polymarket Perps 不使用 API Key，而是由主钱包一次性授权一把「代理钱包（Proxy）」，之后由代理私钥签名下单、代理 Secret 读取账户数据。Taoli Tools 只需要这两项，**不需要填写主钱包地址**，主钱包地址会由接口自动反查出来。
 
 ## 获取代理凭证
 
-1. 打开任意 Perps 市场页面，例如 [https://polymarket.com/perps/asset/btc?r=taolitools](https://polymarket.com/perps/asset/btc?r=taolitools)，首次使用时按提示开通合约交易并入金（这一步会用主钱包签名授权代理钱包）
+1. 打开任意 Perps 市场页面，例如 [https://polymarket.com/perps/asset/btc?c=00allkhr](https://polymarket.com/perps/asset/btc?c=00allkhr)，首次使用时按提示开通合约交易并入金（这一步会用主钱包签名授权代理钱包）
 2. 网页会把代理凭证保存在浏览器的本地存储里。按 `F12` 打开开发者工具，切到「Console（控制台）」，粘贴下面的命令并回车，凭证 JSON 会被复制到剪贴板
 
    ```js
