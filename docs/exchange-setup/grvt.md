@@ -11,9 +11,9 @@ head:
 
 返佣：20%
 
-邀请码：`TAOLI`
+邀请码：`ALIEZ`
 
-邀请链接：[https://grvt.io/exchange/sign-up?ref=TAOLI](https://grvt.io/exchange/sign-up?ref=TAOLI)
+邀请链接：[https://grvt.io/?ref=ALIEZ](https://grvt.io/?ref=ALIEZ)
 
 > [!WARNING]
 > 因 Grvt API 限制，必须**使用浏览器插件的方式**解除浏览器的跨域限制才可以使用，教程在 [浏览器插件](../disable-browser-cors/browser-extension)
