@@ -71,6 +71,7 @@ head:
   - RPCs：自定义 RPC，灰色的是默认 RPC，如果填了自定义的，会覆盖默认的
   - Slippage：这个链的默认滑点，是百分数
   - Fee：Gas Fee，是一个倍数，表示是默认 gas 的多少倍
+  - Max Gas：这个链的默认单笔交易 gas 上限，单位是这条链的 gas 代币，留空表示不限制。超过上限的交易会直接报错而不发送，具体判断方式见 [DEX 常见问题](../dex-faq/)
   - Bundle：是否将交易发给 flashbots、48club 等 bundler，仅支持部分链
 - 代币
   ![image.png](./image-5.png)
