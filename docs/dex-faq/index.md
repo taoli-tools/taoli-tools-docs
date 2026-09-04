@@ -16,6 +16,7 @@ head:
 2. 交易失败的常见原因：
    - `slippage exceeded` 价格超过了滑点，交易尚未发送
    - `simulation failed/error` 交易模拟执行时失败了，交易尚未发送。大概率是因为滑点不够导致的，小概率是由询价的 bug 导致
+   - `gas limit ... is below the required ...` 交易自带的 gas limit 低于模拟出来的实际需求，交易尚未发送。发出去也只会在链上耗尽 gas 而失败，gas 照扣，所以直接拦下。通常是兑换路径过于复杂导致，可以换个 DEX 或者减小下单量
    - `insufficient funds for gas`、`transaction creation failed`、`missing or invalid parameters` Gas 不够了
    - `min return not reached` 通常是交易实际上链执行时超过了滑点，也可能是其他原因
    - `transaction reverted` 交易已上链并失败
@@ -30,7 +31,7 @@ head:
    - 中间的数是默认 Gas 的倍数（部分链不支持调整 Gas）
    - 右边的数是 Max Gas，即单笔交易允许消耗的 gas 上限，单位是这条链的 gas 代币（ETH、BNB、SOL 等），留空表示跟随 Settings 里这条链的设置
    - BNB Chain 和 Ethereum 支持 Bundle，勾选方框后开启
-   - Max Gas 按最坏情况判断：EVM 是 gas limit 乘以最高 gas price，L2 还会加上 L1 数据费；Solana 是签名费加上 compute budget 的上限；Sui 和 Aptos 是交易自带的 gas 预算。实际扣掉的通常远低于这个数，所以要按上限来设，设得太紧会拦掉正常交易
+   - Max Gas 按最坏情况判断：EVM 是模拟出来的实际 gas 用量乘以最高 gas price，L2 还会加上 L1 数据费；Solana 是签名费加上 compute budget 的上限；Sui 和 Aptos 是交易自带的 gas 预算。EVM 的 gas 用量是实测的，只在 gas price 上留最坏情况的余量，判定值已经接近实际花费；其余几条链实际扣掉的通常远低于这个数，要按上限来设。设得太紧会拦掉正常交易
    - 超过上限的交易会直接报错，不会自动调低 gas price 后发送，避免交易长时间卡在 pending
 
 4. Settings 页面的 Exchange 里的 API Key 和 Chains 里的 RPCs 的区别：
