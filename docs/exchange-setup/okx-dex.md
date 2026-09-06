@@ -15,7 +15,7 @@ head:
 
 邀请链接：[https://web3.okx.com/join/TAOLI](https://web3.okx.com/join/TAOLI)
 
-OKX DEX 支持的链：[https://web3.okx.com/build/dev-docs/wallet-api/supported-chain](https://web3.okx.com/build/dev-docs/wallet-api/supported-chain)
+OKX DEX 支持的链：[https://web3.okx.com/onchainos/dev-docs/wallet/supported-networks](https://web3.okx.com/onchainos/dev-docs/wallet/supported-networks)
 
 实际支持的链是 Taoli Tools 支持的链和 OKX DEX 支持的链的交集
 
@@ -26,7 +26,7 @@ OKX DEX 支持的链：[https://web3.okx.com/build/dev-docs/wallet-api/supported
 
    ![image.png](okx-dex/image.png)
    1. APIs：
-      - 在 [https://web3.okx.com/build/dev-portal](https://web3.okx.com/build/dev-portal) 申请 API。
+      - 在 [https://web3.okx.com/onchainos/dev-portal](https://web3.okx.com/onchainos/dev-portal) 申请 API。
       - 各个 Project 之间的限速是相互独立的。如果一个 Project 里申请了多组 API，它们之间的限速是共享的。
       - 可以申请多组 API，每行填写一组 API，每行的格式为：`API Key,API Secret,Passphrase` ，注意使用小写（半角）逗号，并且你自定义的 Passphrase（密码）里不能包含逗号。
       - API Key 和你用来申请 API Key 的钱包没有绑定关系。申请 API Key 的钱包里不需要存入资金。
@@ -45,7 +45,7 @@ OKX DEX 支持的链：[https://web3.okx.com/build/dev-docs/wallet-api/supported
      > 因此，最开始的时候，建议添加三组 API，Quote Interval 调整为 2000+，只使用一个 Pair。等产生一些交易量后，再联系 OKX DEX 商务给 API Key 提速。只需给其中一组 API 提速。
 - 建议每个 API Key 的限速都一样，不然可能会利用不满高限速的 API Key。
 - 只支持市价单，不支持限价单，选择限价单时仍然是下市价单。
-- 首次交易某个 ERC20 Token 时候会自动 Approve Unlimited 给 [OKX DEX Router 合约](https://web3.okx.com/build/dev-docs/dex-api/dex-approve-transaction)。
+- 首次交易某个 ERC20 Token 时候会自动 Approve Unlimited 给 [OKX DEX Router 合约](https://web3.okx.com/onchainos/dev-docs/trade/dex-approve-transaction)。
 - Pair 的 Size 参数的改变会影响报价，从而影响差价。不填 Size 默认是 100。
 - [DEX 常见问题](../dex-faq/)
 - [Taoli Tools Signer](../taoli-tools-signer/)
