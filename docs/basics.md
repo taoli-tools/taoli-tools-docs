@@ -9,6 +9,8 @@ head:
 
 # 基础知识
 
+- [币安启航台 —— 新手的一站式学习与导航中心](https://app.notion.com/p/Binance-Launch-Station-2a3fa36c4bce80eaa32cf66bb88ded61)
+
 ## 交易
 
 - [了解订单簿和订单深度](https://www.binance.com/support/faq/da311403b10347f09ff783a2525c8aa6)
