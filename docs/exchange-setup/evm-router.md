@@ -24,14 +24,12 @@ EVM Router 是 Taoli Tools 自研的简易路由器，支持多个 EVM 链上的
   - 支持的链：[https://developers.uniswap.org/docs/protocols/v3/deployments](https://developers.uniswap.org/docs/protocols/v3/deployments)
 - Uniswap V4
   - 支持的链：[https://docs.uniswap.org/contracts/v4/deployments](https://docs.uniswap.org/contracts/v4/deployments)
-  - 需要填写 Subgrap API Key 才会启用
 - Pancake Swap V2
   - 支持的链：[https://developer.pancakeswap.finance/contracts/v2/addresses](https://developer.pancakeswap.finance/contracts/v2/addresses)
 - Pancake Swap V3
   - 支持的链：[https://developer.pancakeswap.finance/contracts/v3/addresses](https://developer.pancakeswap.finance/contracts/v3/addresses)
 - Pancake Swap Infinity
   - 支持的链：[https://developer.pancakeswap.finance/contracts/infinity/resources/addresses](https://developer.pancakeswap.finance/contracts/infinity/resources/addresses)
-  - 需要填写 Subgrap API Key 才会启用
 
 实际支持的链是 Taoli Tools 支持的链和上面协议中支持的链的交集
 
@@ -40,8 +38,7 @@ EVM Router 是 Taoli Tools 自研的简易路由器，支持多个 EVM 链上的
 ![image.png](evm-router/image.png)
 
 1. 通过 Wallet Type 来选择使用助记词、私钥、或 [Taoli Tools Signer](../taoli-tools-signer/) 作为钱包
-2. 有些协议需要填入 [Subgraph API Key](https://thegraph.com/studio/apikeys/) 才会启用
-3. 点击 Save，如无报错，则会以绿色数字显示全链 U 余额的总和，点击数字查看详情
+2. 点击 Save，如无报错，则会以绿色数字显示全链 U 余额的总和，点击数字查看详情
 
 ## 限制及注意事项
 
