@@ -72,21 +72,24 @@ A 会自动选中 Bitget 的 SIREN/USDT 永续合约，B 会自动选中 OKX DEX
 
 ### CEX
 
-| 短码 | 交易所   | 可用类型码      |
-| ---- | -------- | --------------- |
-| `BN` | Binance  | `S` `C` `P`     |
-| `CB` | Coinbase | `S` `P`         |
-| `KR` | Kraken   | `S` `P`         |
-| `BY` | Bybit    | `S` `C` `P`     |
-| `OK` | OKX      | `S` `C` `P`     |
-| `BG` | Bitget   | `S` `C` `I` `P` |
-| `BP` | Backpack | `S` `C` `P`     |
-| `GT` | Gate     | `S` `C` `I` `P` |
-| `KC` | KuCoin   | `S` `P`         |
-| `HT` | HTX      | `S` `P`         |
-| `MX` | MEXC     | `S` `P`         |
+| 短码 | 交易所       | 可用类型码      |
+| ---- | ------------ | --------------- |
+| `BN` | Binance      | `S` `C` `P`     |
+| `CB` | Coinbase     | `S` `P`         |
+| `KR` | Kraken       | `S` `P`         |
+| `BY` | Bybit        | `S` `C` `P`     |
+| `OK` | OKX          | `S` `C` `P`     |
+| `BG` | Bitget       | `S` `C` `I` `P` |
+| `BP` | Backpack     | `S` `C` `P`     |
+| `GT` | Gate         | `S` `C` `I` `P` |
+| `GX` | Gate CrossEx | `S` `P`         |
+| `KC` | KuCoin       | `S` `P`         |
+| `HT` | HTX          | `S` `P`         |
+| `MX` | MEXC         | `S` `P`         |
 
 Gate 的 TradFi 品种也归在 `P` 里。
+
+Gate CrossEx 的 BASE 要带上目标交易所前缀，比如 `GX-P:bn:BTC/USDT`，前缀的含义见 [Gate CrossEx](./exchange-setup/gate-crossex)。
 
 ### Perp DEX
 
@@ -105,6 +108,7 @@ Gate 的 TradFi 品种也归在 `P` 里。
 | `EX` | Extended          | `P`        |
 | `SX` | StandX            | `P`        |
 | `AO` | Apex Omni         | `P`        |
+| `AC` | Arcus             | `P`        |
 
 ### DEX
 
@@ -123,7 +127,7 @@ Gate 的 TradFi 品种也归在 `P` 里。
 | `HR` | Hyperion       |
 
 > [!TIP]
-> 几个容易记混的：Ethereal 是 `ET`、EVM Router 是 `ER`、Extended 是 `EX`；Lighter 是 `LI`、LI.FI 是 `LF`；Hyperliquid 是 `HL`、Hyperion 是 `HR`；OKX 是 `OK`、OKX DEX 是 `OD`、Ondo Perps 是 `ON`；Paradex 是 `PD`、Pacifica 是 `PC`、Polymarket 是 `PM`。
+> 几个容易记混的：Ethereal 是 `ET`、EVM Router 是 `ER`、Extended 是 `EX`；Lighter 是 `LI`、LI.FI 是 `LF`；Hyperliquid 是 `HL`、Hyperion 是 `HR`；Gate 是 `GT`、Gate CrossEx 是 `GX`、Grvt 是 `GR`；Aster 是 `AS`、Arcus 是 `AC`、Apex Omni 是 `AO`；OKX 是 `OK`、OKX DEX 是 `OD`、Ondo Perps 是 `ON`；Paradex 是 `PD`、Pacifica 是 `PC`、Polymarket 是 `PM`。
 
 ## 自动填充的行为
 

@@ -60,19 +60,20 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 
 ## 支持的交易所
 
-| **CEX**                                | 永续合约 | 现货 | 现货杠杆 | TradFi |
-| -------------------------------------- | -------- | ---- | -------- | ------ |
-| [Binance](exchange-setup/binance.md)   | ✅       | ✅   | ✅       | ✅     |
-| [Coinbase](exchange-setup/coinbase.md) | ✅       | ✅   |          | ✅     |
-| [Kraken](exchange-setup/kraken.md)     | ✅       | ✅   |          | ✅     |
-| [Bybit](exchange-setup/bybit.md)       | ✅       | ✅   | ✅       | ✅     |
-| [OKX](exchange-setup/okx.md)           | ✅       | ✅   |          | ✅     |
-| [Bitget](exchange-setup/bitget.md)     | ✅       | ✅   | ✅       | ✅     |
-| [Backpack](exchange-setup/backpack.md) | ✅       | ✅   | ✅       | ✅     |
-| [Gate](exchange-setup/gate.md)         | ✅       | ✅   | ✅       | ✅     |
-| [KuCoin](exchange-setup/ku-coin.md)    | ✅       | ✅   |          | ✅     |
-| [HTX](exchange-setup/htx.md)           | ✅       | ✅   |          | ✅     |
-| [MEXC](exchange-setup/mexc.md)         | ✅       | ✅   |          | ✅     |
+| **CEX**                                        | 永续合约 | 现货 | 现货杠杆 | TradFi |
+| ---------------------------------------------- | -------- | ---- | -------- | ------ |
+| [Binance](exchange-setup/binance.md)           | ✅       | ✅   | ✅       | ✅     |
+| [Coinbase](exchange-setup/coinbase.md)         | ✅       | ✅   |          | ✅     |
+| [Kraken](exchange-setup/kraken.md)             | ✅       | ✅   |          | ✅     |
+| [Bybit](exchange-setup/bybit.md)               | ✅       | ✅   | ✅       | ✅     |
+| [OKX](exchange-setup/okx.md)                   | ✅       | ✅   |          | ✅     |
+| [Bitget](exchange-setup/bitget.md)             | ✅       | ✅   | ✅       | ✅     |
+| [Backpack](exchange-setup/backpack.md)         | ✅       | ✅   | ✅       | ✅     |
+| [Gate](exchange-setup/gate.md)                 | ✅       | ✅   | ✅       | ✅     |
+| [Gate CrossEx](exchange-setup/gate-crossex.md) | ✅       | ✅   |          |        |
+| [KuCoin](exchange-setup/ku-coin.md)            | ✅       | ✅   |          | ✅     |
+| [HTX](exchange-setup/htx.md)                   | ✅       | ✅   |          | ✅     |
+| [MEXC](exchange-setup/mexc.md)                 | ✅       | ✅   |          | ✅     |
 
 | **Perp DEX**                                             | 永续合约 | 现货 | TradFi |
 | -------------------------------------------------------- | -------- | ---- | ------ |
@@ -89,6 +90,7 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 | [Extended](exchange-setup/extended.md)                   | ✅       |      |        |
 | [StandX](exchange-setup/stand-x.md)                      | ✅       |      | ✅     |
 | [Apex Omni](exchange-setup/apex-omni.md)                 | ✅       |      |        |
+| [Arcus](exchange-setup/arcus.md)                         | ✅       |      | ✅     |
 
 | **DEX**                                             | 现货 |
 | --------------------------------------------------- | ---- |
