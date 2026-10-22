@@ -255,6 +255,7 @@ export default defineConfig({
                   { text: "Polymarket", link: "/exchange-setup/polymarket" },
                   { text: "Ondo Perps", link: "/exchange-setup/ondo-perps" },
                   { text: "Grvt", link: "/exchange-setup/grvt" },
+                  { text: "Extended", link: "/exchange-setup/extended" },
                   { text: "Arcus", link: "/exchange-setup/arcus" },
                 ],
               },
