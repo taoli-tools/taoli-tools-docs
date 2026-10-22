@@ -84,12 +84,6 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 | [Polymarket](exchange-setup/polymarket.md)               | ✅       |      | ✅     |
 | [Ondo Perps](exchange-setup/ondo-perps.md)               | ✅       |      |        |
 | [Grvt](exchange-setup/grvt.md)                           | ✅       | ✅   | ✅     |
-| [Ethereal](exchange-setup/ethereal.md)                   | ✅       |      |        |
-| [Paradex](exchange-setup/paradex.md)                     | ✅       |      | ✅     |
-| [Pacifica](exchange-setup/pacifica.md)                   | ✅       |      | ✅     |
-| [Extended](exchange-setup/extended.md)                   | ✅       |      |        |
-| [StandX](exchange-setup/stand-x.md)                      | ✅       |      | ✅     |
-| [Apex Omni](exchange-setup/apex-omni.md)                 | ✅       |      |        |
 | [Arcus](exchange-setup/arcus.md)                         | ✅       |      | ✅     |
 
 | **DEX**                                             | 现货 |
