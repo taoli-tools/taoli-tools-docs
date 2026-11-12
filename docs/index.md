@@ -97,6 +97,7 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 | [1inch](exchange-setup/1inch.md)                    | ✅   |
 | [Uniswap V3](exchange-setup/uniswap-v3.md)          | ✅   |
 | [PancakeSwap V3](exchange-setup/pancake-swap-v3.md) | ✅   |
+| [NEAR Intents](exchange-setup/near-intents.md)      | ✅   |
 | [Hyperion](exchange-setup/hyperion.md)              | ✅   |
 
 ## 支持的区块链

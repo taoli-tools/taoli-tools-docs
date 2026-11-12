@@ -238,6 +238,10 @@ export default defineConfig({
                     text: "PancakeSwap V3",
                     link: "/exchange-setup/pancake-swap-v3",
                   },
+                  {
+                    text: "NEAR Intents",
+                    link: "/exchange-setup/near-intents",
+                  },
                   { text: "Hyperion", link: "/exchange-setup/hyperion" },
                 ],
               },
