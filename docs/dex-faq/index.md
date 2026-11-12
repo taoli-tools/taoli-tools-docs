@@ -30,7 +30,7 @@ head:
    - 中间的数是默认 Gas 的倍数（部分链不支持调整 Gas）
    - 右边的数是 Max Gas，即单笔交易允许消耗的 gas 上限，单位是这条链的 gas 代币（ETH、BNB、SOL 等），留空表示跟随 Settings 里这条链的设置
    - BNB Chain 和 Ethereum 支持 Bundle，勾选方框后开启
-   - Max Gas 按最坏情况判断：EVM 是 gas limit 乘以最高 gas price，L2 还会加上 L1 数据费；Solana 是签名费加上 compute budget 的上限；Sui 和 Aptos 是交易自带的 gas 预算。实际扣掉的通常远低于这个数，所以要按上限来设，设得太紧会拦掉正常交易
+   - Max Gas 按最坏情况判断：EVM 是 gas limit 乘以最高 gas price，L2 还会加上 L1 数据费；Solana 是签名费加上 compute budget 的上限；Sui 和 Aptos 是交易自带的 gas 预算；NEAR 是交易附带的 gas 乘以当前 gas 价格。实际扣掉的通常远低于这个数，所以要按上限来设，设得太紧会拦掉正常交易
    - 超过上限的交易会直接报错，不会自动调低 gas price 后发送，避免交易长时间卡在 pending
 
 4. Settings 页面的 Exchange 里的 API Key 和 Chains 里的 RPCs 的区别：
