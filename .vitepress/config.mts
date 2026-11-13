@@ -242,8 +242,8 @@ export default defineConfig({
                     text: "NEAR Intents",
                     link: "/exchange-setup/near-intents",
                   },
-                  { text: "Hyperion", link: "/exchange-setup/hyperion" },
                   { text: "RHEA Finance", link: "/exchange-setup/rhea-finance" },
+                  { text: "Hyperion", link: "/exchange-setup/hyperion" },
                 ],
               },
               {

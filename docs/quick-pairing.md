@@ -120,8 +120,8 @@ Gate CrossEx 的 BASE 要带上目标交易所前缀，比如 `GX-P:bn:BTC/USDT`
 | `UN` | Uniswap V3     |
 | `PS` | PancakeSwap V3 |
 | `NI` | NEAR Intents   |
-| `HR` | Hyperion       |
 | `RF` | RHEA Finance   |
+| `HR` | Hyperion       |
 
 > [!TIP]
 > 几个容易记混的：EVM Router 是 `ER`、Extended 是 `EX`；Lighter 是 `LI`、LI.FI 是 `LF`；Hyperliquid 是 `HL`、Hyperion 是 `HR`；Gate 是 `GT`、Gate CrossEx 是 `GX`、Grvt 是 `GR`；Aster 是 `AS`、Arcus 是 `AC`；OKX 是 `OK`、OKX DEX 是 `OD`、Ondo Perps 是 `ON`。
