@@ -24,7 +24,7 @@ RHEA Finance 交易的是 NEAR 链账户里的资金，[NEAR Intents](./near-int
 
 登录 near.com 的 EVM 私钥在 NEAR 链上没有对应的账户，不能用于 RHEA Finance。需要另外准备 NEAR 钱包：
 
-1. 用 [Meteor Wallet](https://wallet.meteorwallet.app) 或 [MyNearWallet](https://app.mynearwallet.com) 新建钱包，备份助记词。默认生成的是隐式账户，不需要注册。
+1. 用任意支持 NEAR 的钱包新建钱包，备份助记词或导出 `ed25519:` 开头的私钥。新建的通常是隐式账户，不需要注册。
 2. 往钱包地址转入少量 NEAR（0.5 NEAR 左右）。隐式账户收到第一笔 NEAR 后才在链上激活，之后的 gas 也从这里扣。交易时每笔会先临时冻结约 0.12 NEAR 的 gas 预付款，成交后退回，所以余额不要只留刚好够的量。
 3. 转入 NEAR 原生的 USDC 或 USDt 作为交易资金：可以从交易所提币（网络选 NEAR），也可以在 near.com 把 Intents 里的余额提现到这个地址（网络选 NEAR）。
 
