@@ -98,6 +98,7 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 | [Uniswap V3](exchange-setup/uniswap-v3.md)          | ✅   |
 | [PancakeSwap V3](exchange-setup/pancake-swap-v3.md) | ✅   |
 | [NEAR Intents](exchange-setup/near-intents.md)      | ✅   |
+| [RHEA Finance](exchange-setup/rhea-finance.md)      | ✅   |
 | [Hyperion](exchange-setup/hyperion.md)              | ✅   |
 
 ## 支持的区块链
@@ -145,6 +146,7 @@ Taoli Tools 是一个半自动化的 U 本位对冲套利工具，其核心功�
 | [Solana](https://solscan.io/)                            | [USDC](https://solscan.io/token/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v)、[USDT](https://solscan.io/token/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB)                                                                                                                                                                                                                |
 | [Sui](https://suivision.xyz/)                            | [USDC](https://suivision.xyz/coin/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC)、[USDT](https://suivision.xyz/coin/0x375f70cf2ae4c00bf37117d0c85a2c71545e6ee05c4a5c7d282cd66a4504b068::usdt::USDT)                                                                                                                                        |
 | [Aptos](https://explorer.aptoslabs.com/?network=mainnet) | [USDC](https://explorer.aptoslabs.com/fungible_asset/0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b?network=mainnet)、[USDt](https://explorer.aptoslabs.com/fungible_asset/0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b?network=mainnet)                                                                                          |
+| [NEAR](https://nearblocks.io/)                           | [USDC](https://nearblocks.io/token/17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1)、[USDt](https://nearblocks.io/token/usdt.tether-token.near)                                                                                                                                                                                                            |
 
 ## 收费标准和方式
 

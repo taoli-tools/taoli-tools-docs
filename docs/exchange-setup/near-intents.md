@@ -34,4 +34,5 @@ NEAR Intents 是 [near.com](https://near.com) 背后的交易网络。Taoli Tool
 - 报价中已包含 1Click 手续费，约 0.2%（稳定币之间约 0.01%）。
 - 只交易保密余额，公开余额（`intents.near`）里的资金不会被使用。
 - 充值和提现不在 Taoli Tools 里操作，请在 near.com 完成。
+- Intents 账户不是 NEAR 链账户，不能用于 [RHEA Finance](./rhea-finance.md)，区别见 [和 NEAR Intents 的区别](./rhea-finance.md#和-near-intents-的区别)。
 - [DEX 常见问题](../dex-faq/)

@@ -120,6 +120,7 @@ Gate CrossEx 的 BASE 要带上目标交易所前缀，比如 `GX-P:bn:BTC/USDT`
 | `UN` | Uniswap V3     |
 | `PS` | PancakeSwap V3 |
 | `NI` | NEAR Intents   |
+| `RF` | RHEA Finance   |
 | `HR` | Hyperion       |
 
 > [!TIP]
