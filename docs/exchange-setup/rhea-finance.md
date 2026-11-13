@@ -30,7 +30,7 @@ RHEA Finance 交易的是 NEAR 链账户里的资金，[NEAR Intents](./near-int
 
 ## 设置
 
-1. 设置 NEAR 链：在 Settings 的 Chains 里添加 NEAR。NEAR 只使用第一个 RPC，失败时不会切换到下一个。
+1. 设置 NEAR 链：在 Settings 的 Chains 里添加 NEAR。可以填多个 RPC，遇到限流（429）、节点故障或超时会自动切换到下一个，建议至少填两个。
 
 2. 添加 Exchange：
    - Wallet Type 选 Mnemonic 或 Private Key。助记词按 NEAR 钱包的路径 `m/44'/397'/0'` 派生；私钥是 `ed25519:` 开头的格式
