@@ -9,7 +9,7 @@ head:
 
 # RHEA Finance
 
-[RHEA Finance](https://app.rhea.finance)（原 Ref Finance）是 NEAR 链上的 AMM，报价和路由来自 RHEA Finance 的 Smart Router。
+[RHEA Finance](https://app.rhea.finance)（原 Ref Finance）是 NEAR 链上的 AMM。Taoli Tools 直接在链上询价，支持全部池子类型（Simple、Stable、Rated、Degen、DCL），每笔交易在交易对的直连池里选最优的一个成交。
 
 ## 和 NEAR Intents 的区别
 
@@ -42,7 +42,7 @@ RHEA Finance 交易的是 NEAR 链账户里的资金，[NEAR Intents](./near-int
 - 只支持 NEP-141 代币，NEAR 原生币需要先换成 wNEAR（`wrap.near`）。添加交易对时输入代币合约地址，例如 `wrap.near`。合约地址可以在 [NearBlocks](https://nearblocks.io/tokens) 上按名称搜索，代币页里的 Contract 就是。同一个币在 NEAR 上常有多个合约（如原生 USDC 和桥过来的旧版 USDC），选持有人多、RHEA Finance 上有流动性的那个。
 - 资金放在 NEAR 链上的钱包里，和 [NEAR Intents](./near-intents.md) 的余额是分开的。钱包里要留一些 NEAR 付 gas。
 - 第一次买入某个代币时，会先发一笔 `storage_deposit` 交易在该代币合约里注册账户，费用约 0.00125 NEAR，之后不再需要。
+- 只走直连池，不经其他代币中转。代币必须有和 USDC 或 USDt 直接组成的池子，否则询不到价。
 - 只支持市价单，不支持限价单，选择限价单时仍然是下市价单。
 - Pair 的 Size 参数的改变会影响报价，从而影响差价。不填 Size 默认是 100。
-- Max Gas 按交易附带的 gas 乘以当前 gas 价格判断。NEAR 无法预估 gas，每笔 swap 附带 100 Tgas 再加每跳 10 Tgas（最多 300 Tgas），常见的两跳路由约 0.012 NEAR。实际扣掉的约 0.003 NEAR，大部分附带的 gas 是合约给后续调用预留的，用不完会退回。
 - [DEX 常见问题](../dex-faq/)
